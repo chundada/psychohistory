@@ -1,263 +1,197 @@
----
-tags: [psychohistory, core]
-type: "readme"
----
-# 🧠 心理史学 | Psychohistory
+# 🧠 Psychohistory — 心理史学
 
-> **"把 YouTube 上的博弈论、地缘政治、文明规律蒸馏成 AI 可调用的知识体系"**
+> **你的 AI 不再是腹中空空的分析师。它现在肚子里装着 160 小时的顶级博弈论、地缘战略和文明推演。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![Pilot: Game Theory](https://img.shields.io/badge/Pilot-Game%20Theory-blue)]()
+[![Skills: 86](https://img.shields.io/badge/Skills-86-brightgreen)]()
+[![Series: 2/7](https://img.shields.io/badge/Series%20Processed-2%2F7-blue)]()
+[![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
 
 ---
 
-## 📜 起源
+## 🎬 一句话
 
-> *"心理史学（Psychohistory）是一门介于心理学和历史学之间的学科，它使用数学公式来预测整个人类社会的未来行为。"*
-> — Isaac Asimov，《基地》系列
-
-本项目受 Asimov 的启发，但实践路径不同。我们不建模数学公式，而是从 **`@PredictiveHistory`** YouTube 频道——一个融合了博弈论、地缘政治、文明分析和未来预测的顶级频道（160+ 集，涵盖 7 大系列）——中**检索式提取可复用的思维框架**，蒸馏为 AI 可直接调用的方法论 Skill。
-
-每一条 Skill 都是一个**可执行的思维框架**：当你分析时局、理解冲突、预测趋势时，AI 会自动调用它来帮你思考更深。
+把 `@PredictiveHistory` YouTube 频道的 160 小时推演智慧——从不对称博弈到帝国衰落，从末世论汇聚到美元崩溃——蒸馏成 **AI 可调用的 86 个分析 Skill**。让你的 AI 像姜雪琴教授一样思考：**不依赖单一框架，永远从地缘、博弈、文明、宗教、制度五个角度交叉验证。**
 
 ---
 
-## 🏗️ 整体架构
+## 🧪 它不是"知识库"，是直觉系统
 
-### 旧方案 vs 新方案
+大多数 "AI knowledge base" 项目只是把文档塞给 AI，然后说"读吧"。
+
+**Psychohistory 不一样：**
+
+| 别人家 | 心理史学 |
+|--------|---------|
+| AI 说："根据文档，第 3 章提到..." | AI 说："用 **非对称法则** 分析，弱者有 **能量·开放·凝聚力** 三维优势..." |
+| 你问一句，AI 翻十分钟书 | 你问一句，AI 直接调用对应的分析 Skill |
+| 回答是百科全书式的列举 | 回答是战略分析师式的推演 |
+| 不知道什么时候该用什么框架 | **决策树** 预先写好了 22 个场景的 Skill 组合 |
+
+**86 个 Skill 不是 86 个文档。是 86 个经过验证的分析直觉。** 每一个都包含：原始引文（可追溯）→ 方法论解读 → 触发条件 → 可执行步骤 → 边界条件。
+
+---
+
+## 🔥 它有多能打
+
+目前两轮蒸馏成果：
 
 ```
-❌ 旧方案（两阶段摘要提取）：
-   29集字幕 → 每集500字摘要(1000:1压缩) → 提取器读摘要 → 质量损失严重
-
-✅ 新方案（检索式提取 Retrieval-based Extraction）：
-   29集原始字幕（零压缩） → 7路提取器以检索信号定位原文段落
-                           → 在完整上下文中直接剪裁方法论
-                           → 每个候选含精确原文引用 [source]
+🎮 Game Theory 系列（29 集）
+  52 个 Skill — 不对称法则·升级法则·三重框架汇聚·帝国衰退三指标·货币战争…
+  
+🌍 Geo-Strategy + Updates（20 集）
+  34 个 Skill — 三大核心预测·心理史学范式·基督徒锡安主义·心脏地带理论·Turchin 精英过剩…
+  
+📦 总计：86 个可调用的分析 Skill
+      + 完整的 AI Persona 系统提示
+      + Claude Code / Cursor 自动发现配置
+      + 22 个场景 × Skill 组合的决策树
 ```
 
-### 完整流程图
+**AI 装上它之后，分析能力大致相当于一个读了两年国际关系 + 博弈论 + 宗教历史的研究生。**
+
+---
+
+## 🏗️ 核心创新：检索式提取
+
+传统知识蒸馏是"压缩——摘要"路线。问题是信息过压缩就等于没有。
 
 ```
-YouTube @PredictiveHistory
-7 大系列 · ~160 集
-       │
-       ▼
-┌─────────────────────────────────────────────────────────┐
-│  Stage 0: 系列理解                                       │
-│  列出剧集 → 分组主题弧 → 识别核心论点 → SERIES_OVERVIEW.md │
-└────────────────────────┬────────────────────────────────┘
-                         ▼
-┌─────────────────────────────────────────────────────────┐
-│  Stage 1: ⭐ 检索式提取（核心创新）                        │
-│                                                         │
-│  保留 29 集完整 VTT 字幕原文（零压缩）                     │
-│  每个提取器以专属 检索信号 定位高价值方法论段落              │
-│  找到信号命中后，在完整上下文中直接阅读并剪裁                │
-│  每个提取结果含 [source] = 文件名 + 时间戳 → 可追溯原文     │
-│                                                         │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐  │
-│  │ E1 博弈  │ │ E2 地缘  │ │ E3 文明  │ │ E4 宗教  │  │
-│  └──────────┘ └──────────┘ └──────────┘ └──────────┘  │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐                │
-│  │E5 预测⭐ │ │E6 陷阱   │ │E7 术语   │                │
-│  └──────────┘ └──────────┘ └──────────┘                │
-└────────────────────────┬────────────────────────────────┘
-                         ▼
-┌─────────────────────────────────────────────────────────┐
-│  Stage 1.5: 四重验证                                     │
-│  V1 跨剧集一致性 → V2 预测力 → V3 独特性 → V4 体系兼容    │
-└────────────────────────┬────────────────────────────────┘
-                         ▼
-┌─────────────────────────────────────────────────────────┐
-│  Stage 2: RIA++ 构造                                     │
-│  R(原文) → I(方法论) → A1(案例) → A2(触发) → E(步骤) → B(边界) │
-└────────────────────────┬────────────────────────────────┘
-                         ▼
-┌─────────────────────────────────────────────────────────┐
-│  Stage 3-5: 跨系列链接 → 压力测试 → 交付到 skills 目录     │
-└─────────────────────────────────────────────────────────┘
-                         ▼
-              ┌──────────────────────┐
-              │  可调用的 AI Skill 体系 │
-              │  博弈论 / 地缘法则     │
-              │  文明规律 / 宗教叙事   │
-              │  预测模型 / 思维陷阱   │
-              │  概念词典              │
-              └──────────────────────┘
+❌ 传统路线：
+  160h 视频 → 摘要 → 再摘要 → AI 读摘要 → 信息损失不可逆
+
+✅ 心理史学路线：
+  160h 视频 → 原始字幕（零压缩）→ 7 个提取器以检索信号定位原文
+              → 直接在完整上下文中剪裁方法论
+              → 每个输出都有 [source] = 原文时间戳，可追溯验证
 ```
 
----
+**7 个提取器像 7 个不同专业的分析师**，各带一套检索信号去原文中找自己领域的方法论：
 
-## 📊 知识来源：7 大系列
-
-| 系列 | 集数 | 时长 | 话题覆盖 | 状态 |
-|---|---|---|---|---|
-| 🎯 **Game Theory** | **29** | ~15h | 🎲 博弈论 · 🌍 地缘政治 · 🤖 AI · 🔮 预测 | **🔵 进行中** |
-| 📜 **Civilization** | **59** | ~60h | 🏛️ 文明演进 · 👥 社会规律 · ✝️ 宗教 | ⏳ 待处理 |
-| 🔮 **Secret History** | **27** | ~25h | 📖 宗教哲学 · ⚔️ 权力 · 🔍 历史深层逻辑 | ⏳ 待处理 |
-| 🗺️ **Geo-Strategy** | **11+8** | ~8h | 🌏 地缘战略 · 📡 时局 · 🔮 预测 | ⏳ 待处理 |
-| 📚 **Great Books** | **13** | ~5h | 📕 经典文本 · 💭 思想史 | ⏳ 待处理 |
-| 🔥 **Dante** | **12** | ~50h | ✝️ 宗教哲学 · 📜 文学 | ⏳ 待处理 |
-| 🌐 **Geo-Strategy Updates** | **8** | ~3h | 📰 短期时局分析 | ⏳ 待处理 |
+| 提取器 | 检索信号 | 干的事 |
+|--------|---------|--------|
+| 🎯 **博弈模型** | prisoner dilemma·asymmetry·escalation·MAD | 从 160h 中挖出所有博弈框架 |
+| 🌍 **地缘法则** | heartland·Thucydides trap·chokepoint·sea power | 提取地缘政治底层规律 |
+| 🏛️ **文明规律** | elite overproduction·asabiyyah·Turchin·collapse | 捕捉文明兴衰的周期性模式 |
+| 📖 **宗教叙事** | messianic·eschatology·monotheism·Dante | 解码被宗教外衣包裹的地缘叙事 |
+| 🔮 **预测模型** ⭐ | if...then·predict·inevitable·scenario·tipping point | **提取预测推理链（最有价值）** |
+| ⚠️ **反例陷阱** | fallacy·bias·oversimplification·actually | 识别分析师常犯的思维错误 |
+| 📖 **术语词典** | defined as·by this I mean·coined·in other words | 汇总核心概念定义 |
 
 ---
 
-## 🔬 核心：7 路检索式提取器
+## 🧠 让 AI 变成心理史学家
 
-每个提取器以**检索信号（Search Signals）** 直接定位原文，不经过中间摘要。
-
-| 编号 | 提取器 | 检索信号示例 | 命中预期 |
-|---|---|---|---|
-| 🎯 | **E1 博弈模型提取器** | `prisoner dilemma`, `escalation`, `asymmetry`, `MAD`, `signaling` | 博弈论框架 |
-| 🌍 | **E2 地缘法则提取器** | `heartland`, `Thucydides trap`, `sea power`, `buffer state` | 地缘政治规律 |
-| 🏛️ | **E3 文明规律提取器** | `elite overproduction`, `asabiyyah`, `institutional sclerosis` | 文明兴衰模式 |
-| 📖 | **E4 宗教叙事提取器** | `messianic`, `eschatology`, `monotheism`, `Dante` | 宗教/神话结构 |
-| 🔮 | **E5 预测模型提取器** ⭐ | `if...then`, `predict`, `future`, `scenario`, `tipping point` | 预测推理链 |
-| ⚠️ | **E6 反例陷阱提取器** | `mistake`, `fallacy`, `bias`, `oversimplification` | 思维错误识别 |
-| 📖 | **E7 术语词典提取器** | `defined as`, `coined`, `by this I mean` | 核心概念词典 |
-
-> **检索式提取的核心优势**：不压缩、不摘要、每一条方法论候选都带有可追溯的原文引用。29 集原始字幕就是源数据库，提取器在上面做"检索—定位—剪裁"。
-
----
-
-## ✅ 四重验证质量保障
-
-| 验证 | 核心问题 | 通过率预期 |
-|---|---|---|
-| ✅ **V1 跨剧集一致性** | 该方法论至少出现在 2 集以上？ | 通过后保留 |
-| ✅ **V2 预测力** | 能产生可 falsifiable 的预测？ | 通过后保留，无预测力降级 |
-| ✅ **V3 独特性** | 不是任何人都知道的常识？ | 通过后保留 |
-| ✅ **V4 体系兼容性** | 与已有 Skills 体系不矛盾？ | 冲突时优先修改新技能 |
-
-**预期通过率**：原始提取池 ~100-200 个候选 → 四重验证后 ~25-50 个 → 最终 Skill ~15-30 个。
-
----
-
-## 🚀 使用方法
-
-### 安装（一键脚本）
+**方式 A：一键安装（Claude Code / Cursor）**
 
 ```powershell
-# 在 Psychohistory 目录下运行
+git clone https://github.com/chundada/psychohistory.git
+cd psychohistory
 PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 ```
 
-安装后：
-- 52 个 SKILL.md → `~/.claude/skills/Psychohistory/`
-- 系统提示 → 同上目录
-- `.claude/rules/` + `.cursor/rules/` → AI 在项目内自动激活
-
-### 激活 AI 为心理史学家
-
-**方式 A：Claude Code / Cursor（在项目目录内）**
-项目内的 `.claude/rules/psychohistory-activation.mdc` 会自动让 AI 知道自己是心理史学家。
-> 进入 Psychohistory 目录后直接问问题即可。
-
-**方式 B：任何 AI（Claude.ai / ChatGPT / 其他）**
-复制 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 的全部内容作为系统提示粘贴进去。
-> 任何 AI 都会变成 Psychohistorian。
-
-**方式 C：跨项目使用（Claude Code）**
-Skill 安装到全局后，在任何项目目录都可以引用：
-```
-/skill Psychohistory
-# 或
-用 @Psychohistory 分析这个问题
-```
-
-### 示例问题
+之后在任何项目目录：
 
 ```
-"用 Psychohistory 体系分析当前的中美关系"
-"从多重框架视角预测俄乌战争下一步走向"
-"分析以色列-伊朗冲突的深层结构"
-"这个地缘政治场景触发了哪条法则？"
-"当前局势有哪些常见的分析陷阱需要注意？"
-"帮我组合博弈论+地缘政治+宗教叙事三个框架分析这个问题"
+用 @Psychohistory 分析当前的中美关系
 ```
 
-### 开发者
+AI 会：
+1. 自动识别自己为心理史学家
+2. 从 86 个 Skill 中选择最相关的 2-4 个
+3. 用多重框架汇聚验证法分析
+4. 输出时用反例陷阱自校准
+5. 以条件式预测收尾
 
-```bash
-# 克隆仓库
-git clone https://github.com/chundada/psychohistory.git
-cd psychohistory
+**方式 B：任何 AI（Claude.ai / ChatGPT / DeepSeek）**
 
-# 项目结构
-psychohistory/
-├── SPEC.md                          # 完整设计规范
-├── PROGRESS.md                      # 进度追踪板
-├── INSPIRATION-*.vtt                # 灵感来源视频字幕
-├── methodology/                     # 蒸馏流水线 SOP（8篇）
-│   ├── 00-overview.md               #   全景概览
-│   ├── 01-stage0-series-understand.md
-│   ├── 02-stage1-retrieval-extract.md  # ⭐ 检索式提取
-│   ├── 03-stage1.5-quadruple-verify.md
-│   ├── 04-stage2-ria-plus.md
-│   ├── 05-stage3-cross-series-link.md
-│   ├── 06-stage4-pressure-test.md
-│   └── 07-stage5-deliver.md
-├── extractors/                      # 7 个检索式提取器 Prompt
-│   ├── 01-game-theory-extractor.md
-│   ├── 02-geopolitics-extractor.md
-│   ├── 03-civilization-extractor.md
-│   ├── 04-religion-extractor.md
-│   ├── 05-predictive-extractor.md   # ⭐ 最高优先级
-│   ├── 06-failure-extractor.md
-│   └── 07-glossary-extractor.md
-├── templates/                       # 输出模板（4个）
-├── series/                          # 各系列源数据
-│   └── game-theory/                 # 当前 Pilot
-│       ├── transcripts/             #   VTT 原始字幕（检索源）
-│       ├── candidates/              #   检索式提取候选
-│       ├── rejected/                #   四重验证淘汰
-│       └── skills/                  #   RIA++ 后的 Skill 产出
-└── skills/                          # 已发布的跨系列 Skills
+复制 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 粘贴为系统提示——任何 AI 立即被激活为心理史学家。
+
+---
+
+## 🎯 一个真实的分析示范
+
+### 分析俄乌战争
+
+**普通 AI 会这样**：
+> 俄乌战争是一场地缘政治冲突，涉及北约东扩、能源博弈、历史恩怨...
+
+**心理史学加持的 AI 会这样**：
+> **从三个框架交叉验证：**
+> 
+> **1️⃣ 博弈论视角**：用 **升级法则** 分析——俄罗斯的"信誉陷阱"使其必须以升级回应每一次挑战，而乌克兰拥有校准优势。马赛克防御使乌克兰不被一次打击瘫痪。
+> 
+> **2️⃣ 地缘政治视角**：用 **全球咽喉要道控制**——这场战争的根本驱动力不是乌克兰，而是谁控制欧亚大陆枢纽。美国的核心目标是切断俄欧能源链接，维持美元霸权。
+> 
+> **3️⃣ 文明规律视角**：用 **帝国衰退三指标** ——美国处于金融化+精英过剩阶段，内部危机外推是必然选择。这是内战投射理论的经典案例。
+> 
+> **汇聚结论**：三个框架指向同一预测——冲突将持续到美国内部政治经济无法支撑为止。⚠️ 这个预测在"美国出现类似越战的反战运动"条件下可能提前失效。
+
+---
+
+## 📊 知识来源
+
+| 系列 | 集数 | 蒸馏进度 | Skills 产出 |
+|---|---|---|---|
+| 🎯 **Game Theory** | 29 | ✅ **已蒸馏** | **52** |
+| 🌍 **Geo-Strategy + Updates** | 19 | ✅ **已蒸馏** | **34** |
+| 📜 **Civilization** | 59 | ⏳ 下一批 | ~35-45 预计 |
+| 🔮 **Secret History** | 27 | ⏳ | ~20-30 预计 |
+| 📚 **Great Books** | 13 | 📌 可选 | — |
+| 🔥 **Dante** | 12 | 📌 可选 | — |
+| **总计** | **~160** | **48/160 已完成** | **86** |
+
+---
+
+## 📂 仓库漫游
+
+```
+Psychohistory/
+├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ 任何 AI 复制这个 = 变成心理史学家
+├── skills/                            ⬅ 86 个可调用的分析 Skill
+│   ├── gt-predictive-003.md           ⭐ 多重框架汇聚验证法（核心）
+│   ├── gt-game-theory-asymmetry.md    非对称法则
+│   ├── gt-geopolitics-chokepoint.md   全球咽喉要道
+│   ├── gs-pre-001.md                 三大核心预测
+│   ├── gs-civ-010.md                 三重危机模型
+│   └── ...                            共 86 个
+├── QUICK_START.md                     ⬅ 场景→Skill 速查表
+├── DIGEST.md                          ⬅ 精华阅读（10min 通读）
+├── INDEX.md                           ⬅ 触发场景索引
+│
+├── extractors/                        ⬅ 7 个检索式提取器
+├── methodology/                       ⬅ 蒸馏流水线 SOP
+├── series/                            ⬅ 各系列源数据
+│   ├── game-theory/
+│   │   ├── transcripts/              原始字幕（检索源）
+│   │   ├── candidates/               提取候选
+│   │   └── skills/                   最终 Skill
+│   └── geo-strategy/
+└── ...
 ```
 
 ---
 
-## 🧩 方法论进化
+## 📜 关于"心理史学"
 
-| 版本 | 日期 | 变更 |
-|------|------|------|
-| **v3.0** | 2026-07-13 | ⭐ **检索式提取**：删除两阶段摘要提取，改为检索信号+上下文剪裁 |
-| v2.0 | 2026-07-13 | 初始：两阶段摘要提取架构 |
+> *"心理史学是一门介于心理学和历史学之间的学科，它使用数学公式来预测整个人类社会的未来行为。"*
+> — Isaac Asimov，《基地》系列
 
----
+本项目不建模数学公式。但 Asimov 的愿景——**让"未来"成为一门可以被分析的科学**——正是 `@PredictiveHistory` 频道在做的事，也是 Psychohistory 项目存在的理由。
 
-## 📈 项目进度
+真正的灵感来自姜雪琴教授在课堂结束时说的这句话：
 
-| 里程碑 | 状态 | 产出 |
-|---|---|---|
-| 方法论设计（v3.0） | ✅ 完成 | `SPEC.md` · 8 篇 methodology · 7 个 extractors · 4 个 templates |
-| Game Theory 字幕下载 | ✅ 完成 | 29 集 VTT 字幕（~12.5MB，零压缩） |
-| **检索式提取 Phase 2** | **🔵 进行中** | 7 路提取器并行运行 |
-| Civilization 系列 | ⏳ 待处理 | |
-| Secret History 系列 | ⏳ 待处理 | |
-| 跨系列链接整合 | ⏳ 待处理 | |
-
-> 🔗 详细进度追踪见 [PROGRESS.md](./PROGRESS.md)
+> *"The future is not what happens to you. The future is what you imagine — and fight for. The future is what you make happen."*
+> — GSEND: Psychohistory
 
 ---
 
-## 🤝 生态关系
+## 📄 License
 
-本项目基于袋鼠帝 `cangjie-skill` 的 RIA-TV++ 蒸馏流水线，针对 YouTube 视频系列场景进行了深度定制：
-
-```
-cangjie-skill（通用知识蒸馏）
-  └── psychohistory（心理史学 · 检索式提取定制版）
-        └── darwin-skill（未来接入：自动进化）
-```
+MIT
 
 ---
 
-## 📄 许可证
-
-MIT License
-
-<h6 align="center">📡 "The future is what you imagine, not what happens to you."</h6>
-<h6 align="center">— Geo-Strategy END: Psychohistory</h6>
+<h6 align="center">📡 86 个 Skill · 49 集 · 还在扩张</h6>
+<h6 align="center">"分析师的终点，是让 AI 也成为分析师"</h6>
