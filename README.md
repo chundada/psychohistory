@@ -1,93 +1,95 @@
-# Psychohistory — A Knowledge Distillation Framework for Predictive Historical Analysis
+# Psychohistory — 心理史学 · 知识蒸馏框架
+
+> 将高维度的历史分析智慧蒸馏为 AI 可调用的结构化方法论
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills: 142](https://img.shields.io/badge/Skills-142-brightgreen)]()
-[![Series: 4](https://img.shields.io/badge/Series-4-blue)]()
-[![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
+[![Skills: 142](https://img.shields.io/badge/技能-142-brightgreen)]()
+[![Series: 4](https://img.shields.io/badge/系列-4-blue)]()
+[![Status: Active](https://img.shields.io/badge/状态-进行中-ff6600)]()
 
 ---
 
-## Overview
+## 概览
 
-Psychohistory distills the analytical frameworks from [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) — a 160+ hour lecture series spanning game theory, geopolitics, civilization cycles, and religious narrative analysis — into **142 structured, reusable Skill files** that any AI can invoke.
+本项目将 [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) YouTube 频道的**160+ 小时授课内容**——涵盖博弈论、地缘政治、文明规律、宗教叙事四大领域——蒸馏为 **142 个结构化、可复用的 Skill 文件**，供 AI 直接调用。
 
-The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
+核心前提：历史预测不是占卜。它是一种**多框架交叉验证方法**，基于可识别的结构模式、明确的边界条件和可证伪的逻辑链条。
 
 ---
 
-## What This Project Produces
+## 项目产出
 
-| Deliverable | Description |
+| 交付物 | 说明 |
 |---|---|
-| **142 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
-| **PSYCHOHISTORY_SYSTEM_PROMPT.md** | Complete persona activation prompt — paste into any AI to instantiate the analyst role |
-| **QUICK_START.md** | Scenario-to-skill lookup table (22 scenarios mapped to recommended skill combinations) |
-| **INDEX.md** | Zettelkasten-style skill index with trigger scenarios |
-| **DIGEST.md** | Curated long-read summary of the Game Theory series |
+| **142 个 Skill 文件** | 结构化分析框架，遵循 RIA/RIA++ 格式，包含原文阅读、方法论解读、应用场景和边界条件 |
+| **PSYCHOHISTORY_SYSTEM_PROMPT.md** | 完整角色激活提示——粘贴到任意 AI 中，即刻激活心理史学家身份 |
+| **QUICK_START.md** | 场景→技能速查表（22 个场景映射到推荐技能组合） |
+| **INDEX.md** | Zettelkasten 风格技能索引，含触发场景关键词 |
+| **DIGEST.md** | Game Theory 系列精华长文阅读 |
 
 ---
 
-## Methodology: Retrieval-Based Distillation
+## 方法论：检索式蒸馏
 
-Traditional knowledge distillation follows a "compress → summarize" pipeline that suffers from irreversible information loss. This project uses a **retrieval-based extraction** approach:
+传统知识蒸馏遵循"压缩→摘要"的路线，存在不可逆的信息损失。本项目采用**检索式提取**方案：
 
-1. **Zero-compression source retention**: Raw lecture transcripts are preserved in full
-2. **7 parallel extractors**: Each extractor targets a specific analytical domain with tailored retrieval signals
-3. **Direct extraction from full context**: Methodologies are clipped from complete transcripts with source timestamps, enabling traceable verification
-4. **Quadruple validation**: Each candidate passes through four independent filters before acceptance
+1. **零压缩保留源数据**：原始授课字幕完整保留
+2. **7 路并行提取器**：每路提取器针对特定分析领域，搭载定制检索信号
+3. **从完整上下文中直接提取**：方法论直接从完整转录文本中剪裁，附带原文时间戳，可追溯验证
+4. **四重验证**：每个候选经过四道独立筛选后方可入库
 
-### Extractor Architecture
+### 提取器架构
 
-| Extractor | Retrieval Signals | Output Type |
+| 提取器 | 检索信号 | 产出类型 |
 |---|---|---|
-| **Game Model** | prisoner dilemma, asymmetry, escalation, MAD | Game theory frameworks |
-| **Geopolitical** | heartland, Thucydides trap, chokepoint | Geopolitical laws |
-| **Civilization** | elite overproduction, asabiyyah, collapse | Civilization cycle models |
-| **Religious Narrative** | messianic, eschatology, monotheism | Narrative decoding |
-| **Predictive Model** | if...then, predict, scenario, tipping point | Prediction logic chains |
-| **Economic/Financial** | debt, bubble, inflation, dollar, credit crisis | Economic frameworks |
-| **Glossary** | defined as, by this I mean, coined | Core definitions |
+| **博弈模型** | 囚徒困境、非对称、升级、MAD | 博弈论框架 |
+| **地缘法则** | 心脏地带、修昔底德陷阱、咽喉要道 | 地缘规律 |
+| **文明规律** | 精英过剩、阿萨比亚、崩溃 | 文明周期模型 |
+| **宗教叙事** | 弥赛亚、末世论、一神教 | 叙事解码 |
+| **预测模型** | 如果…那么、预测、场景、临界点 | 预测推理链 |
+| **经济金融** | 债务、泡沫、通胀、美元、信贷危机 | 经济框架 |
+| **术语词典** | 定义为、我是说、创造 | 核心概念 |
 
 ---
 
-## Current Status
+## 当前进度
 
-**4 series completed · 142 Skill files · ~75% of total lecture content processed**
+**已完成 4 个系列 · 142 个 Skill 文件 · 约 75% 的课程内容已处理**
 
-| Series | Episodes | Skills | Format | Location |
+| 系列 | 集数 | 技能数 | 格式 | 位置 |
 |---|---|---|---|---|
-| Game Theory | 29 | 52 | RIA++ (R/I/A1/A2/E/B) | `skills/gt-*.md` |
-| Secret History | 27 | 45 | RIA (R/I/A/B) | `skills/sh-*.md` |
-| Geo-Strategy | 19 | 35 | RIA (R/I/A/B) | `skills/gs-*.md` |
-| Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
-| **Pending** | | | | |
-| Civilization | 59 | ~35-45 expected | — | — |
+| Game Theory | 29 | 52 | RIA++（R/I/A1/A2/E/B 六段） | `skills/gt-*.md` |
+| Secret History | 27 | 45 | RIA（R/I/A/B 四段） | `skills/sh-*.md` |
+| Geo-Strategy | 19 | 35 | RIA（R/I/A/B 四段） | `skills/gs-*.md` |
+| Interview | — | 10 | RIA | `skills/interview-*.md` |
+| **待处理** | | | | |
+| Civilization | 59 | 预计 35-45 | — | — |
 | Great Books | 13 | — | — | — |
 | Dante | 12 | — | — | — |
 
 ---
 
-## Analytical Capabilities
+## 分析能力覆盖
 
-The skill library covers seven domains:
+技能库覆盖七大领域：
 
-| Domain | Core Frameworks |
+| 领域 | 核心框架 |
 |---|---|
-| **Game Theory** | Asymmetry principle, escalation calibration, proximity law, immigration trap, elite overproduction dynamics |
-| **Geopolitics** | Three laws of geopolitics, chokepoint control, currency war dynamics, dollar addiction model |
-| **Civilization Cycles** | Asabiyyah, EOC model, institutional sclerosis, fertility leading indicators, mercenary overthrow |
-| **Religious Narrative** | Eschatological convergence, messianic accelerationism, kabbalistic redemption, AI as religion |
-| **Predictive Models** | Multi-framework convergence, empire decline triad, civil war projection, causal chain analysis |
-| **Failure Modes** | Great man fallacy, AI consciousness illusion, correlation-causation fallacy, false dichotomy |
-| **Terminology** | Mosaic defense, elite overproduction, reality hallucination, technate |
+| **博弈论** | 非对称法则、升级校准、邻近法则、移民陷阱、精英过剩动力学 |
+| **地缘政治** | 地缘三定律、咽喉要道控制、货币战争、美元瘾症模型 |
+| **文明周期** | 阿萨比亚、EOC 模型、制度硬化、生育率先行指标、雇佣兵反噬 |
+| **宗教叙事** | 末世论汇聚、弥赛亚加速主义、卡巴拉救赎、AI 宗教化 |
+| **预测模型** | 多重框架汇聚、帝国衰退三指标、内战投射、因果链分析 |
+| **思维陷阱** | 伟人迷思、AI 意识幻觉、相关即因果、虚假二分法 |
+| **术语词典** | 马赛克防御、精英过剩、现实幻觉、技术统治国 |
 
-Each skill follows a consistent structure: **source reading → interpretation as methodology → author's application → trigger conditions → execution steps → boundary conditions**, enabling systematic cross-validation.
+每个 Skill 遵循一致的结构：**原文阅读 → 方法论解读 → 作者应用 → 触发条件 → 执行步骤 → 边界条件**，使系统化的交叉验证成为可能。
 
 ---
 
-## Quick Start
+## 快速开始
 
-### Option A: Clone and Install
+### 方式 A：克隆并安装
 
 ```powershell
 git clone https://github.com/chundada/psychohistory.git
@@ -95,54 +97,54 @@ cd psychohistory
 PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 ```
 
-### Option B: Use with Any AI
+### 方式 B：配合任意 AI 使用
 
-Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automatically:
+将 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 粘贴为系统提示。AI 将自动：
 
-1. Activate the psychohistorian persona
-2. Select 2-4 relevant skills from the library
-3. Apply **multi-framework convergence validation**
-4. Self-calibrate using the failure mode checklist
-5. Output **conditional predictions** with explicit boundary conditions
+1. 激活心理史学家身份
+2. 从技能库中选取 2-4 个相关技能
+3. 执行**多重框架汇聚验证**
+4. 使用思维陷阱清单进行自我校准
+5. 输出**条件式预测**，附带明确的边界条件
 
 ---
 
-## Repository Structure
+## 仓库结构
 
 ```
 Psychohistory/
-├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
-├── skills/                            ⬅ 142 structured Skill files
-│   ├── gt-*.md                        Game Theory series
-│   ├── sh-*.md                        Secret History series
-│   ├── gs-*.md                        Geo-Strategy series
-│   └── interview-*.md                 Interview series
-├── cases/                             ⬅ Case studies (multi-framework demonstrations)
-├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
-├── DIGEST.md                          ⬅ Curated reading
-├── INDEX.md                           ⬅ Zettelkasten trigger index
-├── PROGRESS.md                        ⬅ Project progress tracking
-├── CLAUDE.md                          ⬅ AI workspace configuration
-├── extractors/                        ⬅ 7 retrieval-based extractors
-├── methodology/                       ⬅ Distillation pipeline SOPs
-├── series/                            ⬅ Source transcripts by series
+├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ 角色激活提示
+├── skills/                            ⬅ 142 个结构化 Skill 文件
+│   ├── gt-*.md                        Game Theory 系列
+│   ├── sh-*.md                        Secret History 系列
+│   ├── gs-*.md                        Geo-Strategy 系列
+│   └── interview-*.md                 Interview 系列
+├── cases/                             ⬅ 实战分析案例
+├── QUICK_START.md                     ⬅ 场景→技能速查表
+├── DIGEST.md                          ⬅ 精华阅读
+├── INDEX.md                           ⬅ Zettelkasten 索引
+├── PROGRESS.md                        ⬅ 项目进度追踪
+├── CLAUDE.md                          ⬅ AI 工作区配置
+├── extractors/                        ⬅ 7 路检索式提取器
+├── methodology/                       ⬅ 蒸馏流水线 SOP
+├── series/                            ⬅ 各系列源数据
 │   ├── psychohistory-origin/
 │   ├── game-theory/
 │   ├── geo-strategy/
 │   ├── secret-history/
 │   └── interview-jang-letstalk/
-└── SPEC.md                            ⬅ Design specification
+└── SPEC.md                            ⬅ 设计规范
 ```
 
 ---
 
-## License
+## 许可
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+本项目采用 MIT 许可协议——详见 [LICENSE](LICENSE) 文件。
 
 ---
 
 <p align="center">
-  142 psychohistorical models · 4 series · actively expanding<br/>
-  <em>"The purpose of prediction is not to foresee the future — but to make it better."</em>
+  142 个心理史学模型 · 4 个系列 · 持续扩张中<br/>
+  <em>"预测的目的不是为了预见未来——而是让未来变得更好。"</em>
 </p>
