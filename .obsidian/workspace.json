@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/gt-geopolitics-chokepoint.md",
+                "file": "skills/gt-glossary-asymmetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gt-geopolitics-chokepoint"
+              "title": "gt-glossary-asymmetry"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "active": "b2a60e7ba92a68b3",
   "lastOpenFiles": [
+    "skills/gt-geopolitics-chokepoint.md",
     "skills/gt-failure-ai-consciousness.md",
     "skills/sh-rel-022.md",
     "skills/sh-rel-021.md",
@@ -176,7 +177,6 @@
     "skills/sh-civ-012.md",
     "skills/sh-civ-011.md",
     "skills/sh-civ-010.md",
-    "skills/sh-civ-008.md",
-    "skills/sh-civ-007.md"
+    "skills/sh-civ-008.md"
   ]
 }
