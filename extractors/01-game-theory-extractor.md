@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "game-theory"
+status: "complete"
+---
 # 博弈论模型提取器 (Game Theory Extractor)
 
 ## 用途 (Purpose)

@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 1"
+status: "complete"
+---
 # Stage 1：检索式提取（Retrieval-based Extraction）
 
 > **目标**：从完整 VTT 字幕中，以检索信号定位高价值方法论段落，直接提取候选技能

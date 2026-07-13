@@ -1,3 +1,7 @@
+---
+tags: [psychohistory, core]
+type: "readme"
+---
 # 🧠 心理史学 | Psychohistory
 
 > **"把 YouTube 上的博弈论、地缘政治、文明规律蒸馏成 AI 可调用的知识体系"**

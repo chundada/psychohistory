@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "glossary"
+status: "complete"
+---
 # 核心概念与术语表提取器 (Glossary Extractor)
 
 ## 用途 (Purpose)

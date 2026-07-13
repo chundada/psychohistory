@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 3"
+status: "complete"
+---
 # Stage 3：跨系列链接（Cross-Series Zettelkasten Linking）
 
 > **目标**：在技能之间建立可导航的依赖关系，形成知识网络而非孤立文件

@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "failure"
+status: "complete"
+---
 # 失败模式与思维陷阱提取器 (Failure Extractor)
 
 ## 用途 (Purpose)

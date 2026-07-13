@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 4"
+status: "complete"
+---
 # Stage 4：压力测试（Pressure Test）
 
 > **目标**：通过盲测验证技能的有效性——在不知道技能来源的情况下，测试者能否正确触发/不触发

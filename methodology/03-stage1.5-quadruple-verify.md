@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 1.5"
+status: "complete"
+---
 # Stage 1.5：四重验证（Quadruple Verification）
 
 > **目标**：在进入 RIA++ 构建之前，过滤掉不合格的候选技能

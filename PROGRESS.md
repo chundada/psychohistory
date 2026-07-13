@@ -1,3 +1,7 @@
+---
+tags: [psychohistory, core]
+type: "progress"
+---
 # 📊 Psychohistory - 项目进度追踪
 
 > 最后更新: 2026-07-13

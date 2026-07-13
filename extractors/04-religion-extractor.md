@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "religion"
+status: "complete"
+---
 # 宗教叙事结构提取器 (Religion Extractor)
 
 ## 用途 (Purpose)

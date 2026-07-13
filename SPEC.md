@@ -1,3 +1,7 @@
+---
+tags: [psychohistory, core]
+type: "spec"
+---
 # 心理史学 | Psychohistory — 知识蒸馏系统设计规范
 
 ## 1. 概述

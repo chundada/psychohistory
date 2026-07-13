@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 0"
+status: "complete"
+---
 # Stage 0：系列理解（Series Understanding）
 
 > **目标**：在投入深度提取之前，先全面理解整个 YouTube 系列的结构、主题和核心论点。

@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 5"
+status: "complete"
+---
 # Stage 5：交付（Delivery）
 
 > **目标**：将已验证的技能以标准格式交付，并生成精华阅读文档

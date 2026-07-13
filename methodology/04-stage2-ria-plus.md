@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 2"
+status: "complete"
+---
 # Stage 2：RIA++ 技能构建（RIA++ Construction）
 
 > **目标**：将验证通过的候选技能转化为完整的 RIA++ 格式

@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "predictive"
+status: "complete"
+---
 # 预测模型提取器 (Predictive Extractor) ★ 最高优先级
 
 ## 用途 (Purpose)

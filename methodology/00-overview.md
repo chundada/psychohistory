@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, methodology]
+stage: "Stage 0"
+status: "complete"
+---
 # RIA-TV++ 知识蒸馏管道全景概览
 
 > **适配场景**：YouTube 系列视频 → 可复用 AI Skills

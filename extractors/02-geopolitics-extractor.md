@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "geopolitics"
+status: "complete"
+---
 # 地缘政治法则提取器 (Geopolitics Extractor)
 
 ## 用途 (Purpose)

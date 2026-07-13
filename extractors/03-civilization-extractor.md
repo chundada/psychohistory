@@ -1,3 +1,8 @@
+---
+tags: [psychohistory, extractor]
+extractor_type: "civilization"
+status: "complete"
+---
 # 文明兴衰模式提取器 (Civilization Extractor)
 
 ## 用途 (Purpose)
