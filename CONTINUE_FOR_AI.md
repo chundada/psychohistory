@@ -62,28 +62,32 @@ Psychohistory/
 
 ---
 
-## 🔵 当前阶段
-
-### Game Theory 系列 Pilot — Stage 1 检索式提取
+## ✅ Game Theory Pilot — 全部完成
 
 ```
-状态: ✅ Stage 0 完成（系列理解）
-      ✅ 字幕下载完成（29集 VTT + Markdown）
-      ⏳ Stage 1 检索式提取 — 未开始
-      ⏳ Stage 1.5 四重验证 — 未开始
-      ⏳ Stage 2 RIA++ — 未开始
-      ⏳ Stage 3-5 链接/测试/交付 — 未开始
+状态: ✅ 全部完成（共 6 个阶段）
+      耗时: 1 天（2026-07-13）
+      产出: 52 个可调用的 Skill
 ```
 
-### 下一步工作
+### 最终产出
 
-执行 Stage 1 检索式提取：
+| 交付物 | 说明 |
+|---|---|
+| `skills/` | 52 个 RIA++ 格式 SKILL.md（含 R/I/A1/A2/E/B 六段） |
+| `INDEX.md` | 按触发场景索引 + 技能总览 + 术语表 |
+| `DIGEST.md` | 精华长文（10,000 字，必读） |
+| `QUICK_START.md` | 场景→技能速查表（遇到问题查这个） |
+| `_install_skills.ps1` | 一键安装到 `~/.claude/skills/Psychohistory/` |
 
-1. 读 `methodology/02-stage1-retrieval-extract.md` 了解检索式提取的完整流程
-2. 7 个提取器并行运行，每个提取器以检索信号扫描 29 集全文
-3. 每次命中检索信号 → 在完整上下文中阅读 → 剪裁方法论候选
-4. 候选写入 `series/game-theory/candidates/`，按提取器分目录
-5. 每个候选必须包含 `[source]` = 文件名 + 时间戳（可追溯原文）
+### 经验总结（对后续系列）
+
+| 学到的教训 | 后续改进 |
+|---|---|
+| 两阶段摘要提取→信息丢失 | 直接检索式提取（已用） |
+| 压力测试不可行（416 测试无人执行） | 跳过，改用 QUICK_START 替代 |
+| Zettelkasten Mermaid 图好看无用 | 跳过，INDEX 场景索引更有用 |
+| E5 预测模型最丰富（12 个 HIGH） | 后续系列优先投给预测信号 |
 
 ---
 
@@ -91,10 +95,41 @@ Psychohistory/
 
 | Git 提交 | 内容 |
 |----------|------|
-| `e0aeafe` | 🎯 v3.0 方法论升级：检索式提取替代两阶段摘要 |
-| `05b97e6` | 🔬 29 集逐集精提完成 |
-| `282f869` | 📥 Game Theory 29 集字幕下载 |
-| `e67d800` | 🎉 初始提交：架构文档 + 提取器 + 模板 |
+| `d824bb2` | 📝 Stage 2: 52 个 RIA++ Skill 文件 |
+| `fa70e42` | ✅ Stage 1.5: 四重验证完成 |
+| `461c508` | 🔬 Stage 1: 7 路检索式提取 → 81+ 候选 |
+| `7f8d8a1` | 📦 Obsidian 库 + AI 接手文档 |
+| `e0aeafe` | 🎯 v3.0 检索式提取方法论 |
+
+---
+
+## 🔜 下一步（新系列启动）
+
+### 优先级
+
+1. **📜 Civilization 系列**（59 集，~60h）— 最高优先，需要先下载字幕
+2. **🔮 Secret History**（27 集，~25h）
+3. 其余系列见 `PROGRESS.md`
+
+### 执行流程
+
+```bash
+# 1. 下载 Civilization 系列字幕
+python -m yt_dlp --write-auto-subs --sub-langs "en" --skip-download \
+  -o "series/civilization/transcripts/%(title)s.%(ext)s" \
+  "https://www.youtube.com/playlist?list=..."
+
+# 2. 依次执行 Stage 0 → 1 → 1.5 → 2 → 交付
+# 3. 与已有 skills/ 做 Zettelkasten 链接
+# 4. 更新 INDEX.md + DIGEST.md + 推送
+```
+
+### 启动命令
+
+对 AI 说：
+```
+继续 Psychohistory，处理 Civilization 系列。下载字幕并开始 Stage 0 系列理解。
+```
 
 ---
 
