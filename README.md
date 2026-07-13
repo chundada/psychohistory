@@ -137,15 +137,45 @@ YouTube @PredictiveHistory
 
 ## 🚀 使用方法
 
-### 作为 AI Skill 调用
+### 安装（一键脚本）
 
-当安装后，你可以对 AI 直接说：
+```powershell
+# 在 Psychohistory 目录下运行
+PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
+```
+
+安装后：
+- 52 个 SKILL.md → `~/.claude/skills/Psychohistory/`
+- 系统提示 → 同上目录
+- `.claude/rules/` + `.cursor/rules/` → AI 在项目内自动激活
+
+### 激活 AI 为心理史学家
+
+**方式 A：Claude Code / Cursor（在项目目录内）**
+项目内的 `.claude/rules/psychohistory-activation.mdc` 会自动让 AI 知道自己是心理史学家。
+> 进入 Psychohistory 目录后直接问问题即可。
+
+**方式 B：任何 AI（Claude.ai / ChatGPT / 其他）**
+复制 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 的全部内容作为系统提示粘贴进去。
+> 任何 AI 都会变成 Psychohistorian。
+
+**方式 C：跨项目使用（Claude Code）**
+Skill 安装到全局后，在任何项目目录都可以引用：
+```
+/skill Psychohistory
+# 或
+用 @Psychohistory 分析这个问题
+```
+
+### 示例问题
 
 ```
-"用 Psychohistory 的博弈模型分析当前的国际局势"
+"用 Psychohistory 体系分析当前的中美关系"
+"从多重框架视角预测俄乌战争下一步走向"
+"分析以色列-伊朗冲突的深层结构"
 "这个地缘政治场景触发了哪条法则？"
-"根据@PredictiveHistory 的预测模型，推演下一步可能走向"
 "当前局势有哪些常见的分析陷阱需要注意？"
+"帮我组合博弈论+地缘政治+宗教叙事三个框架分析这个问题"
 ```
 
 ### 开发者
