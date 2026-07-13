@@ -1,0 +1,260 @@
+# Stage 1：检索式提取（Retrieval-based Extraction）
+
+> **目标**：从完整 VTT 字幕中，以检索信号定位高价值方法论段落，直接提取候选技能
+> **输入**：`transcripts/` 目录中的 VTT 字幕文件（零压缩、零摘要）
+> **输出**：`candidates/` 目录中的候选技能文件（含原文精确引用）
+
+---
+
+## 一、设计哲学
+
+### 为什么必须检索式提取？
+
+| 方法 | 信息损失 | 可追溯性 | 保真度 |
+|------|---------|---------|-------|
+| 先摘要再提取 ❌ | 高（1000:1 压缩） | 低（无法定位原文） | 低 |
+| **检索式提取 ✅** | **零压缩** | **高（精确到时间戳）** | **高** |
+
+核心原则：**不经过中间摘要。** 12MB 的 VTT 字幕就是我们的源数据库，提取器直接在上面做"检索—定位—剪裁"。
+
+### 为什么不是"通读"？
+
+29 集字幕约 300-400 万 token——任何模型通读全文都会在长程上下文丢失细节。检索式提取的设计正好反过来：
+
+- 不用模型去"记"，而是让模型去**找**
+- 找到命中段落后，再展开阅读该处的完整上下文
+- 这样每一段方法论候选都来自精确的上下文阅读，而非全文走马观花
+
+---
+
+## 二、工作流程
+
+```
+                         ┌──────────────────┐
+                         │  transcripts/     │
+                         │  29 个 VTT 文件    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                ┌──────────────────────────────────┐
+                │  Step 1: 合并全文索引              │
+                │  按编号顺序合并为一个文档           │
+                │  每个段落标注 [GT## HH:MM:SS]       │
+                └────────────────┬─────────────────┘
+                                │
+                                ▼
+        ┌───────────────────────────────────────────────┐
+        │  Step 2: 7 个提取器独立运行（可并行）           │
+        │                                                │
+        │  ┌──────────┐ ┌──────────┐ ┌──────────┐      │
+        │  │ E1 博弈   │ │ E2 地缘  │ │ E3 文明   │ ...  │
+        │  │ 检索信号  │ │ 检索信号  │ │ 检索信号  │      │
+        │  │ → 候选池  │ │ → 候选池  │ │ → 候选池  │      │
+        │  └──────────┘ └──────────┘ └──────────┘      │
+        └──────────────────────┬───────────────────────┘
+                               │
+                               ▼
+                    ┌────────────────────┐
+                    │  candidates/        │
+                    │  E1 子目录/各候选    │
+                    │  E2 子目录/各候选    │
+                    │  ...                │
+                    └────────────────────┘
+```
+
+### Step 1：合并全文索引
+
+```bash
+# 创建一个带编号和时间戳的索引文本
+# 格式：[GT01 00:01:28] <字幕文本>
+# 按剧集编号顺序排列，方便提取器定位
+```
+
+这个索引文件**只用于检索定位**，不作为提取的中间摘要。提取器找到命中段落后，直接回到原始 VTT 读取完整上下文。
+
+### Step 2：提取器运行
+
+每个提取器独立运行，执行以下子步骤：
+
+#### 子步骤 2a：信号检索
+
+```
+给定：全文索引（Step 1 产出）
+任务：扫描检索信号，标记命中位置
+
+检索信号示例（博弈模型提取器）：
+  "prisoner" | "dilemma" | "chicken" | "escalation"
+  | "signal" | "commitment" | "asymmetry" | "proximity"
+  | "MAD" | "mutual assured" | "game theory" | "strategy"
+
+命中记录格式：
+  [GT## HH:MM:SS] 检索信号: "<信号词>"  
+  上下文前 5 行: ...
+  上下文后 5 行: ...
+```
+
+#### 子步骤 2b：上下文阅读
+
+遇到信号命中时，读取该段落周围足够的上下文来确定：
+
+1. **这是否是一个可提取的方法论？**（还是随口一提的举例、过渡句、反问？）
+2. **如果是，它的完整结构是什么？**（假设、前提、结论、适用范围）
+3. **作者在哪个具体情境中阐述的？**（为了支持什么论点？）
+
+#### 子步骤 2c：候选提取
+
+通过上下文判断为方法论后，以以下格式输出：
+
+```yaml
+---
+candidate_id: "gt-game-theory-001"
+extractor: "game-theory"
+title: "不对称博弈法则 (The Law of Asymmetry)"
+type: "framework"
+---
+
+## [source]
+GT10-The-Law-of-Asymmetry.vtt → 00:12:30 - 00:18:45
+
+## 原文引用
+<提取的完整原文段落，保持原始英文措辞>
+
+## 中文解读
+<3-5 句中文解读，说明该方法论的核心逻辑>
+
+## 检索信号命中记录
+- "asymmetry" → 在 GT10 00:12:30, GT10 00:45:10, GT05 01:02:00 命中
+- "power imbalance" → 在 GT10 00:15:20, GT17 00:33:00 命中
+```
+
+---
+
+## 三、7 路提取器的检索信号表
+
+### E1：博弈模型提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| prisoner dilemma, chicken game, game theory, Nash equilibrium | 博弈论基础 |
+| signaling, commitment, credibility, reputation | 信号博弈 |
+| escalation, MAD, mutual assured destruction | 升级理论 |
+| asymmetry, asymmetric warfare, power imbalance | 不对称冲突 |
+| proximity, adjacency, buffer state | 地缘博弈 |
+| strategy, game, player, payoff, incentive | 通用博弈框架 |
+
+### E2：地缘法则提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| heartland, rimland, Mackinder, Spykman | 经典地缘理论 |
+| Thucydides trap, rising power, established power | 修昔底德陷阱 |
+| sea power, land power, maritime, continental | 海权/陆权 |
+| empire, imperial overreach, decline | 帝国兴衰 |
+| buffer state, sphere of influence, containment | 缓冲区/遏制 |
+| NATO, alliance, pivot, rebalance | 当代联盟 |
+
+### E3：文明规律提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| elite overproduction, Peter Turchin | 精英过剩 |
+| demographic transition, population decline | 人口转型 |
+| institutional sclerosis, bureaucratic | 制度僵化 |
+| collapse, decline, fall, cycle | 文明崩溃 |
+| asabiyyah, cohesion, Ibn Khaldun | 社会凝聚力 |
+| complexity, fragility, resilience | 复杂性/脆弱性 |
+
+### E4：宗教叙事提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| messiah, messianic, millenarian, eschatology | 弥赛亚/末世论 |
+| monotheism, polytheism, divine | 一神教 |
+| prophecy, prophet, revelation | 预言 |
+| myth, narrative, sacred text, scripture | 神话叙事 |
+| Dante, divine comedy, heaven, hell, purgatory | 但丁 |
+| Bible, Gospel, Paul, Jesus, Augustine | 圣经传统 |
+
+### E5：预测模型提取器（最高优先级）
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| if...then, when...then, conditional | 条件预测 |
+| predict, prediction, forecast | 显式预测 |
+| future, will happen, coming, next | 未来推演 |
+| scenario, possibility, likely, probability | 情景分析 |
+| signal, indicator, sign, warning | 早期信号 |
+| pattern, cycle, repeat, historical analogy | 模式识别 |
+| turning point, inflection, tipping | 拐点识别 |
+| inevitable, certain, guaranteed | 确定性断言 |
+
+### E6：反例陷阱提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| mistake, error, wrong, flaw | 错误识别 |
+| fallacy, misconception, misunderstanding | 谬误 |
+| trap, pitfall, danger, warning | 陷阱预警 |
+| bias, prejudice, blind spot | 认知偏见 |
+| oversimplification, reductionist | 过度简化 |
+| actually, but in reality, contrary to | 反直觉揭示 |
+
+### E7：术语词典提取器
+
+| 检索信号 | 命中预期 |
+|---------|---------|
+| defined as, what I mean by, by this I mean | 定义信号 |
+| called it, coined, term, concept | 独创术语 |
+| in other words, that is, namely | 释义信号 |
+| key concept, important idea, crucial | 强调信号 |
+| recurring terms across multiple episodes | 多次出现的词 |
+
+---
+
+## 四、输出组织
+
+```
+candidates/
+├── game-theory/                    # 提取器名称
+│   ├── gt-game-theory-001.md       # 博弈模型候选 1
+│   ├── gt-game-theory-002.md       # 博弈模型候选 2
+│   └── ...
+├── geopolitics/
+│   ├── gt-geopolitics-001.md
+│   └── ...
+├── civilization-patterns/
+├── religion-narrative/
+├── predictive-model/
+├── failure-modes/
+└── glossary/
+```
+
+命名规则：
+```
+<series-prefix>-<extractor-shortname>-<3-digit-seq>.md
+示例：gt-game-theory-001.md
+     gt-predictive-028.md
+```
+
+---
+
+## 五、提取器质量检查清单
+
+每个候选文件必须满足：
+
+- [ ] `[source]` 包含确切的 VTT 文件名和时间戳（非模糊区间）
+- [ ] 原文引用保持原始英文措辞，不改写
+- [ ] 中文解读与原文在逻辑上一一对应（非自由发挥）
+- [ ] 检索信号命中记录至少包含 1 条（鼓励多条，强化 V1 跨域验证）
+- [ ] 同一方法论的多次出现已视为一条候选（去重）
+
+---
+
+## 六、常见陷阱
+
+| 陷阱 | 后果 | 避免方法 |
+|------|------|---------|
+| 检索信号太松 | 太多噪音候选 | 优先验证信号精确度，宁可紧一点 |
+| 摘取片段太短 | 失去上下文，解读错误 | 至少读前后 5 行才决定裁切边界 |
+| 提取结果中丢失原文 | 无法追溯，丧失 RIA 的 R 段来源 | 强制 `[source]` 字段为必填 |
+| 把过渡句当方法论 | 候选不成熟，四重验证全挂 | V1（跨域）先淘汰单次出现的泛泛引用 |
