@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extractors/01-game-theory-extractor.md",
+                "file": "skills/gt-geopolitics-chokepoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-game-theory-extractor"
+              "title": "gt-geopolitics-chokepoint"
             }
           }
         ]
@@ -152,31 +152,31 @@
   },
   "active": "b2a60e7ba92a68b3",
   "lastOpenFiles": [
-    "extractors/02-geopolitics-extractor.md",
-    "extractors/07-glossary-extractor.md",
-    "extractors/06-failure-extractor.md",
-    "extractors/05-predictive-extractor.md",
-    "extractors/04-religion-extractor.md",
-    "extractors/03-civilization-extractor.md",
-    "extractors/01-game-theory-extractor.md",
-    "methodology/07-stage5-deliver.md",
-    "methodology/06-stage4-pressure-test.md",
-    "series/game-theory/transcripts/GT29-Final-Examination.md",
-    "methodology/05-stage3-cross-series-link.md",
-    "series/game-theory/transcripts/GT28-Predictive-History.md",
-    "methodology/04-stage2-ria-plus.md",
-    "series/game-theory/transcripts/GT27-Putin-Enters-the-Chat.md",
-    "series/game-theory/transcripts/GT26-The-Holy-Empire-of-AI.md",
-    "series/game-theory/transcripts/GT25-Trump-Visits-China.md",
-    "series/game-theory/transcripts/GT24-The-AI-Apocalypse.md",
-    "series/game-theory/transcripts/GT23-The-WWIII-Chessboard.md",
-    "series/game-theory/transcripts/GT22-Twilight-of-the-Nation-State.md",
-    "series/game-theory/transcripts/GT21-World-War-Trump.md",
-    "methodology/03-stage1.5-quadruple-verify.md",
-    "series/game-theory/transcripts/GT20-Mid-Term-Examination.md",
-    "methodology/02-stage1-retrieval-extract.md",
-    "series/game-theory/transcripts/GT19-The-Hollywood-Pentagon-Complex.md",
-    "series/game-theory/transcripts/GT18-Trump-World-Order.md",
-    "series/game-theory/transcripts/GT17-The-Great-Reset.md"
+    "skills/gt-failure-ai-consciousness.md",
+    "skills/sh-rel-022.md",
+    "skills/sh-rel-021.md",
+    "skills/sh-rel-019.md",
+    "skills/sh-rel-018.md",
+    "skills/sh-rel-016.md",
+    "skills/sh-rel-013.md",
+    "skills/sh-rel-010.md",
+    "skills/sh-rel-009.md",
+    "skills/sh-rel-007.md",
+    "skills/sh-rel-004.md",
+    "skills/sh-rel-001.md",
+    "skills/sh-glo-003.md",
+    "skills/sh-glo-002.md",
+    "skills/sh-glo-001.md",
+    "skills/sh-game-004.md",
+    "skills/sh-game-002.md",
+    "skills/sh-game-001.md",
+    "skills/sh-civ-015.md",
+    "skills/sh-civ-014.md",
+    "skills/sh-civ-013.md",
+    "skills/sh-civ-012.md",
+    "skills/sh-civ-011.md",
+    "skills/sh-civ-010.md",
+    "skills/sh-civ-008.md",
+    "skills/sh-civ-007.md"
   ]
 }

@@ -3,8 +3,8 @@
 > **你的 AI 不再是腹中空空的分析师。它现在肚子里装着 160 小时的顶级博弈论、地缘战略和文明推演。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills: 86](https://img.shields.io/badge/Skills-86-brightgreen)]()
-[![Series: 2/7](https://img.shields.io/badge/Series%20Processed-2%2F7-blue)]()
+[![Skills: 117](https://img.shields.io/badge/Skills-117-brightgreen)]()
+[![Series: 3/7](https://img.shields.io/badge/Series%20Processed-3%2F7-blue)]()
 [![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
 
 ---
@@ -43,13 +43,13 @@
 🌍 Geo-Strategy + Updates（20 集）
   34 个 Skill — 三大核心预测·心理史学范式·基督徒锡安主义·心脏地带理论·Turchin 精英过剩…
   
-📦 总计：86 个可调用的分析 Skill
+📦 总计：117 个可调用的分析 Skill
       + 完整的 AI Persona 系统提示
       + Claude Code / Cursor 自动发现配置
       + 22 个场景 × Skill 组合的决策树
 ```
 
-**AI 装上它之后，分析能力大致相当于一个读了两年国际关系 + 博弈论 + 宗教历史的研究生。**
+**AI 装上它之后，分析能力大致相当于一个读了三年国际关系 + 博弈论 + 宗教历史的研究生。**
 
 ---
 
@@ -137,7 +137,7 @@ AI 会：
 | 🎯 **Game Theory** | 29 | ✅ **已蒸馏** | **52** |
 | 🌍 **Geo-Strategy + Updates** | 19 | ✅ **已蒸馏** | **34** |
 | 📜 **Civilization** | 59 | ⏳ 下一批 | ~35-45 预计 |
-| 🔮 **Secret History** | 27 | ⏳ | ~20-30 预计 |
+| 📖 **Secret History** | 28 | ✅ **已蒸馏** | **31** |
 | 📚 **Great Books** | 13 | 📌 可选 | — |
 | 🔥 **Dante** | 12 | 📌 可选 | — |
 | **总计** | **~160** | **48/160 已完成** | **86** |
@@ -193,5 +193,5 @@ MIT
 
 ---
 
-<h6 align="center">📡 86 个 Skill · 49 集 · 还在扩张</h6>
+<h6 align="center">📡 117 个 Skill · 77 集（+28） · 还在扩张</h6>
 <h6 align="center">"分析师的终点，是让 AI 也成为分析师"</h6>

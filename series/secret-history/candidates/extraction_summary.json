@@ -1,0 +1,179 @@
+{
+  "e1_game_theory": [
+    {
+      "candidate_id": "sh-game-001",
+      "episode_id": "SH07",
+      "score": 11,
+      "hits": [
+        "game theory",
+        "player",
+        "alliance"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-002",
+      "episode_id": "SH05",
+      "score": 10,
+      "hits": [
+        "game theory",
+        "system"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-003",
+      "episode_id": "SH05",
+      "score": 8,
+      "hits": [
+        "power",
+        "system"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-004",
+      "episode_id": "SH01",
+      "score": 7,
+      "hits": [
+        "power",
+        "system"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-005",
+      "episode_id": "SH08",
+      "score": 7,
+      "hits": [
+        "system"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-006",
+      "episode_id": "SH11",
+      "score": 7,
+      "hits": [
+        "game theory",
+        "choice"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-007",
+      "episode_id": "SH20",
+      "score": 7,
+      "hits": [
+        "game theory",
+        "strategy"
+      ]
+    },
+    {
+      "candidate_id": "sh-game-008",
+      "episode_id": "SH20",
+      "score": 7,
+      "hits": [
+        "conflict"
+      ]
+    }
+  ],
+  "e2_geopolitics": [
+    {
+      "candidate_id": "sh-geo-001",
+      "episode_id": "SH20",
+      "score": 12,
+      "hits": [
+        "empire",
+        "power",
+        "state",
+        "war"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-002",
+      "episode_id": "SH01",
+      "score": 11,
+      "hits": [
+        "state",
+        "war"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-003",
+      "episode_id": "SH20",
+      "score": 11,
+      "hits": [
+        "empire",
+        "sovereign",
+        "slave"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-004",
+      "episode_id": "SH21",
+      "score": 10,
+      "hits": [
+        "power",
+        "state",
+        "war"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-005",
+      "episode_id": "SH24",
+      "score": 10,
+      "hits": [
+        "empire",
+        "power",
+        "slave"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-006",
+      "episode_id": "SH24",
+      "score": 10,
+      "hits": [
+        "law"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-007",
+      "episode_id": "SH03",
+      "score": 9,
+      "hits": [
+        "war",
+        "revolution"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-008",
+      "episode_id": "SH22",
+      "score": 9,
+      "hits": [
+        "state",
+        "war",
+        "nobility",
+        "peasant",
+        "slave"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-009",
+      "episode_id": "SH22",
+      "score": 9,
+      "hits": [
+        "state",
+        "war",
+        "nobility",
+        "peasant",
+        "slave"
+      ]
+    },
+    {
+      "candidate_id": "sh-geo-010",
+      "episode_id": "SH25",
+      "score": 9,
+      "hits": [
+        "empire",
+        "power",
+        "rule",
+        "heaven"
+      ]
+    }
+  ]
+}

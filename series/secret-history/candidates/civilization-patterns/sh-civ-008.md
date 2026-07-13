@@ -1,0 +1,19 @@
+---
+candidate_id: "sh-civ-008"
+extractor: "civilization-patterns"
+title: "罗马反文明 / Roman Anti-Civilization"
+type: "framework"
+---
+
+## [source]
+SH22-Secret History #21 Roman Anti-Civilization.vtt
+
+## 原文引用
+Um or you can call it just the evil empire. Okay. All right. So what do we know about Rome? Well, like most great empires, they emerge initially at the empires, they emerge initially at the borderlands borderlands of another cultural empire. Okay. know these are the atruskians and the atruskians are very similar to the marinian Greeks and as you can see um they are expanding throughout the uh Italian peninsula. Now the thing about empires is that eventually the people become lazy, arrogant and stupid and so what they do is they get people to fight for them. So the Romans are here and as you can see um this is the borderlands and the entire area is surrounded by great warriors. This is a poor region and so they're always fighting for resources. So the Romans get recruited as mercenaries and over time what will happen is that they will start to emerge as the great power in the Italian peninsula. And at this point in history, this is really important. They're surrounded by lots of different people that are like them and they're warlike. So they triumph because they become the most warlike of everyone. Okay. [snorts] Their entire society is based on war. This is a truskin civilization and um as you can see it is very advanced. The Atrusian civilization is heavily in contact with the Egyptians um and the Greeks and as well as people around them because they are ser fairing people and this is the civilization that will most heavily influence uh the Romans. As you can see the atricians are always at war as well and then as become wealthier they will recruit the uh Romans to fight for them. This is not a great map, but this what this map shows you is the gradual expansion of Rome. So, at first, as you can see, it is actually at the most disadvantaged location because it's always it's surrounded by enemies. Um, it is on flat land and so it's not easily defensible and it's not really by the coast and therefore it's hard for it to trade. But because it is in such a disbanded position, it is forced to be the most marshall, the most violent, the most militaristic, the most aggressive. And the culture evolves around that. And slowly over time, they're able to conquer the entire um Italian peninsula Okay. So, this is another map that shows you uh Rome and how it's going to expand over time. The way it expands is through military conquest and then by building roads. And this is very impressive because if you ever been to Italy, it is very hilly. So there's a tremendous effort to build roads. But once they build the roads, they're able to [snorts] Um this is this is a map that shows you the geography of um Italy. As you can see, it's very mountainous. um and there are that many rivers which tells us it's very poor and because it's very poor the people tend to be very unified uh very aggressive and they have a deep egotarianism because only by working together can you ultimately triumph over the other people okay so there's a main characteristic about Rome in the early days that you must remember it is poor it is small okay and it is uh unified so everyone knows each other and so because of its geographic characteristics we emerge it concept of liberty. All right? And it's concept of liberty is obedience to the fathers to history to culture because only by doing so can you uh survive as a people. Now what's interesting about this is it's a different concept from the Greeks. The Greeks believe that what liberty is is the right to speak your mind in front of the right to speak your mind in front of others.
+
+## 中文解读
+罗马被视为"反文明"——以军事征服和资源掠夺为核心的寄生性帝国。与希腊文明形成鲜明对比，代表文明发展的病理模式。
+
+## 检索信号命中
+- "wealth"  
+- "civilization"  
