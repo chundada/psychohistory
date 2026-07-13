@@ -1,0 +1,29 @@
+# 心理史学 Psychohistory - .gitignore
+
+# 转录文本（大文件，用 Git LFS 或排除）
+series/*/transcripts/*
+!series/*/transcripts/.gitkeep
+
+# 音频文件
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.flac
+
+# 字幕文件（原始）
+*.vtt
+*.srt
+*.sbv
+*.ttml
+
+# 临时文件
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*

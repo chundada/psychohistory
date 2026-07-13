@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "skill_name": "<技能名称>",
+    "skill_file": "skills/<系列简称>-<技能关键词>.md",
+    "source_series": "<系列名称>",
+    "source_episodes": ["EP<编号>", "EP<编号>"],
+    "test_date": "YYYY-MM-DD",
+    "tester": "<测试者名称或 'self'>",
+    "status": "draft",
+    "pass_rate": null,
+    "version": "1.0"
+  },
+  "test_suite": {
+    "should_trigger": [
+      {
+        "id": "T01",
+        "prompt": "<自然语言描述一个应该触发该技能的场景。使用日常用语，不要用技能中的术语。>",
+        "expected": "should_trigger",
+        "rationale": "<为什么这个场景应该触发——对应技能的哪个 A2 条件>"
+      },
+      {
+        "id": "T02",
+        "prompt": "<第二个应该触发的场景>",
+        "expected": "should_trigger",
+        "rationale": "<解释理由>"
+      },
+      {
+        "id": "T03",
+        "prompt": "<第三个应该触发的场景>",
+        "expected": "should_trigger",
+        "rationale": "<解释理由>"
+      }
+    ],
+    "should_not_trigger": [
+      {
+        "id": "N01",
+        "prompt": "<一个看起来相似但实际上不适用该技能的场景。参考 B 字段的不适用场景。>",
+        "expected": "should_not_trigger",
+        "rationale": "<为什么这个场景不应该触发——违背了哪条边界条件>"
+      },
+      {
+        "id": "N02",
+        "prompt": "<第二个不应该触发的场景>",
+        "expected": "should_not_trigger",
+        "rationale": "<解释理由>"
+      },
+      {
+        "id": "N03",
+        "prompt": "<第三个不应该触发的场景>",
+        "expected": "should_not_trigger",
+        "rationale": "<解释理由>"
+      }
+    ],
+    "edge_case": [
+      {
+        "id": "E01",
+        "prompt": "<一个处于边界状态的测试场景——部分满足触发条件但不完全满足>",
+        "expected": "edge_case",
+        "rationale": "<为什么这个是边界情况——哪些条件满足、哪些不满足>"
+      },
+      {
+        "id": "E02",
+        "prompt": "<第二个边界场景>",
+        "expected": "edge_case",
+        "rationale": "<解释理由>"
+      }
+    ]
+  },
+  "results": {
+    "should_trigger_correct": null,
+    "should_not_trigger_correct": null,
+    "edge_case_note": null,
+    "overall_pass_rate": null,
+    "passed": null,
+    "notes": "<测试过程中的观察和发现>"
+  },
+  "failure_analysis": [
+    {
+      "id": "<失败项 ID>",
+      "prompt": "<对应的提示内容>",
+      "expected": "<预期结果>",
+      "actual": "<实际结果>",
+      "root_cause": "<失败原因分析>",
+      "fix_suggestion": "<改进建议>",
+      "fix_location": "A2 / B / E / 其他"
+    }
+  ],
+  "fix_log": [
+    {
+      "date": "YYYY-MM-DD",
+      "change": "<修改内容>",
+      "fixed_by": "<修改者>"
+    }
+  ],
+  "_instructions": {
+    "how_to_use": "1. 填写 meta 和 test_suite 字段后运行压力测试。2. 测试后填写 results 字段。3. 如果有失败项，填写 failure_analysis。4. 修改技能后，在 fix_log 中记录。5. 通过率 >= 80% 后，将 status 改为 'passed'。",
+    "note": "should_trigger 至少 3 个（最多 5 个），should_not_trigger 至少 2 个（最多 3 个），edge_case 至少 1 个（最多 3 个）。",
+    "pass_criteria": "通过率 = (正确触发的 should_trigger 数 + 正确拒绝的 should_not_trigger 数) / (总 should_trigger + 总 should_not_trigger) >= 80%"
+  }
+}
