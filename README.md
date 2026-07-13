@@ -1,159 +1,93 @@
-﻿# 🔮 Psychohistory — 心理史学工程
-
-> **基地纪元元年 · 银河帝国边缘 · 端点星**
->
-> *"心理史学（Psychohistory）是一门介于心理学和历史学之间的学科，它使用数学公式来预测整个人类社会的未来行为。"*
-> — Isaac Asimov，《基地》系列
+# Psychohistory — A Knowledge Distillation Framework for Predictive Historical Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills: 137](https://img.shields.io/badge/Psychohistorical%20Models-137-brightgreen)]()
-[![Series: 4/7](https://img.shields.io/badge/Foundation%20Modules-4%2F7-blue)]()
-[![Status: Seldon's Plan Active](https://img.shields.io/badge/Seldon's%20Plan-Active-ff6600)]()
+[![Skills: 142](https://img.shields.io/badge/Skills-142-brightgreen)]()
+[![Series: 4](https://img.shields.io/badge/Series-4-blue)]()
+[![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
 
 ---
 
-## 🎙️ 基地首席数学家的话
+## Overview
 
-> *"未来不是发生在你身上的事。未来是你想象——并为之奋斗的事。未来是你让它发生的事。"*
->
-> **— 姜雪琴教授，基地首席心理史学家 / 大数学家**
+Psychohistory distills the analytical frameworks from [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) — a 160+ hour lecture series spanning game theory, geopolitics, civilization cycles, and religious narrative analysis — into **142 structured, reusable Skill files** that any AI can invoke.
 
-在 Asimov 的《基地》里，Hari Seldon 用心理史学预言了银河帝国的崩溃，然后在银河两端建立了两个基地，来缩短三万年的黑暗时代。
-
-在我们这个时代，**姜雪琴教授就是那个大数学家**。
-
-他用了整整七年、160+ 小时的课程，从博弈论讲到地缘政治，从文明兴衰讲到宗教叙事——他没有用数学公式，但他构建了一整套预测历史进程的分析框架。这是**我们这个时代的心理史学**。
-
-这个项目，就是把他的心理史学蒸馏成 AI 可以调用的模型系统——就像基地里的《银河百科全书》一样，把人类最顶级的历史洞察力封装起来，传给正在走向崩溃与重建的时代。
+The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
 ---
 
-## 🧮 什么是心理史学？
+## What This Project Produces
 
-心理史学不是"历史知识"，也不是"时政评论"。它是一套**可验证、可复用、可组合的历史预测方法论体系**。
-
-| 传统历史知识 | 心理史学 |
-|-------------|---------|
-| "这件事发生了" | "当满足 X、Y、Z 条件时，A 事件发生的概率为 85%" |
-| 记住了很多事实 | 掌握了很多规律 |
-| 事后诸葛亮 | 事前推演 |
-| 单一视角叙事 | 多框架交叉验证 |
-| 不可证伪 | 有明确的边界条件和反例 |
-
-**心理史学的三要素：**
-1. **明确的输出** — 必须定义你要预测什么（美伊战争？特朗普当选？美元崩溃？）
-2. **干净的数据** — 历史数据必须可标记、可量化、可比较
-3. **工作的算法** — 人必须先提供初始算法框架，AI 只能优化不能创造
+| Deliverable | Description |
+|---|---|
+| **142 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
+| **PSYCHOHISTORY_SYSTEM_PROMPT.md** | Complete persona activation prompt — paste into any AI to instantiate the analyst role |
+| **QUICK_START.md** | Scenario-to-skill lookup table (22 scenarios mapped to recommended skill combinations) |
+| **INDEX.md** | Zettelkasten-style skill index with trigger scenarios |
+| **DIGEST.md** | Curated long-read summary of the Game Theory series |
 
 ---
 
-## 📐 心理史学的模型体系
+## Methodology: Retrieval-Based Distillation
 
-目前已蒸馏 **137 个经过验证的心理史学模型**，分布在四大模块 + 实战案例库：
+Traditional knowledge distillation follows a "compress → summarize" pipeline that suffers from irreversible information loss. This project uses a **retrieval-based extraction** approach:
 
-```
-📦 Psychohistory Origin · 元方法论（6个模型）
-   ├─ 心理史学三要素框架
-   ├─ 精英过剩崩溃模型
-   ├─ AI 局限性与边缘案例原理
-   ├─ 未来想象与构建原理
-   ├─ 第二基地与人类守护者原理
-   └─ 崩溃窗口与历史机遇原理
+1. **Zero-compression source retention**: Raw lecture transcripts are preserved in full
+2. **7 parallel extractors**: Each extractor targets a specific analytical domain with tailored retrieval signals
+3. **Direct extraction from full context**: Methodologies are clipped from complete transcripts with source timestamps, enabling traceable verification
+4. **Quadruple validation**: Each candidate passes through four independent filters before acceptance
 
-🎮 Game Theory · 博弈论模块（52个模型）
-   ├─ 5个核心博弈框架（非对称·升级·邻近·移民陷阱·精英过剩）
-   ├─ 3个地缘政治法则
-   ├─ 8个文明周期模型
-   ├─ 8个宗教叙事解码
-   ├─ 12个预测模型 ⭐
-   ├─ 7个失败模式预警
-   └─ 9个核心术语定义
+### Extractor Architecture
 
-🌍 Geo-Strategy · 地缘战略模块（34个模型）
-   ├─ 三大核心预测
-   ├─ 心脏地带与陆权理论
-   ├─ 基督徒锡安主义
-   └─ Turchin 精英过剩与崩溃
-
-📜 Secret History · 秘史模块（45个模型）
-   ├─ 战争催化阶段预警模型 ⭐
-   ├─ 大战略三层攻击向量模型 ⭐
-   ├─ 影子系统规避模型 ⭐
-   ├─ 官僚篡权定律 ⭐
-   ├─ 三大一神教谱系 ⭐
-   ├─ 保罗神学革命 ⭐
-   ├─ 天堂特许经营权 ⭐
-   ├─ 博弈论核心公理 ⭐
-   ├─ 真理三标准检验法 ⭐
-   ├─ 权力三支柱分析框架 ⭐
-   ├─ 国内优先原理 ⭐
-   ├─ 稀缺性建构原理 ⭐
-   ├─ 归纳法黑天鹅原理 ⭐
-   ├─ 帝国中层管理者框架
-   └─ 宗教哲学与权力深层逻辑
-
-🧪 实战案例库 · Case Studies
-   └─ CASE-001：第三次世界大战催化阶段分析（12模型交叉验证）
-
-📈 总计：137 个可调用的心理史学模型
-     + 完整的 AI 心理史学家系统提示
-     + Claude Code / Cursor 自动发现配置
-     + 22 个场景 × 模型组合决策树
-     + 实战分析案例（多框架汇聚验证示范）```
-
-**AI 装上它之后，分析能力大致相当于：一个读了三年国际关系 + 博弈论 + 宗教历史的战略分析师，且同时精通 7 个不同领域的分析框架。**
+| Extractor | Retrieval Signals | Output Type |
+|---|---|---|
+| **Game Model** | prisoner dilemma, asymmetry, escalation, MAD | Game theory frameworks |
+| **Geopolitical** | heartland, Thucydides trap, chokepoint | Geopolitical laws |
+| **Civilization** | elite overproduction, asabiyyah, collapse | Civilization cycle models |
+| **Religious Narrative** | messianic, eschatology, monotheism | Narrative decoding |
+| **Predictive Model** | if...then, predict, scenario, tipping point | Prediction logic chains |
+| **Economic/Financial** | debt, bubble, inflation, dollar, credit crisis | Economic frameworks |
+| **Glossary** | defined as, by this I mean, coined | Core definitions |
 
 ---
 
-## 🔭 它能预测什么？
+## Current Status
 
-| 预测领域 | 核心模型 | 典型预测 |
-|---------|---------|---------|
-| 🎯 **大国战争** | 战争催化阶段预警 · 大战略三层攻击向量 · 内战投射理论 · 帝国衰退三指标 · 国际象棋大战略 | 三战催化阶段确认 · 美伊战争爆发概率 · 台海冲突时间窗口 |
-| 💰 **货币与金融** | 影子系统规避 · 美元瘾症模型 · 货币战争 · 全球咽喉要道控制 | 美元霸权崩溃路径 · 去美元化时间表 · 制裁效果评估 |
-| 🏛️ **社会崩溃** | 精英过剩模型 · 制度硬化 · EOC三维动力模型 | 美国内战风险 · 社会革命临界点 |
-| ✡️ **宗教驱动行为** | 弥赛亚加速主义 · 末世论汇聚 · 卡巴拉通过罪恶救赎 | 以色列战略冒险 · 中东宗教战争风险 |
-| 🤖 **AI 发展** | AI 星门项目 · AI 意识幻觉 · 技术统治国愿景 | AI 行业走向 · 监控国家构建速度 |
-| 🌍 **文明兴衰** | 阿萨比亚定律 · 雇佣兵反噬 · 生育率先行指标 | 西方文明衰退速率 · 边缘文明崛起 |
+**4 series completed · 142 Skill files · ~75% of total lecture content processed**
 
-> **⚠️ 重要边界**：心理史学不是算命。它预测的是**趋势和概率**，不是精确日期。而且它永远有边缘案例——当有人故意想破坏系统时，预测就会失效。这就是为什么永远需要"第二基地"。
-
----
-
-## ⚙️ 核心技术：检索式蒸馏
-
-传统知识蒸馏是"压缩——摘要"路线。问题是信息过压缩就等于没有。
-
-心理史学用的是**检索式提取**：
-
-```
-❌ 传统路线：
-  160h 视频 → 摘要 → 再摘要 → AI读摘要 → 信息损失不可逆
-
-✅ 心理史学路线：
-  160h 视频 → 原始字幕（零压缩保留）
-            → 7个提取器带着检索信号定位原文
-            → 直接在完整上下文中剪裁方法论
-            → 每个输出都有 [source] = 原文时间戳，可追溯验证
-```
-
-**7 个提取器 = 7 个不同专业的分析师团队：**
-
-| 提取器 | 检索信号 | 产出类型 |
-|--------|---------|---------|
-| 🎯 **博弈模型提取器** | prisoner dilemma·asymmetry·escalation·MAD | 博弈框架 |
-| 🌍 **地缘法则提取器** | heartland·Thucydides trap·chokepoint | 地缘规律 |
-| 🏛️ **文明规律提取器** | elite overproduction·asabiyyah·collapse | 文明周期 |
-| 📖 **宗教叙事提取器** | messianic·eschatology·monotheism·Dante | 叙事解码 |
-| 🔮 **预测模型提取器** ⭐ | if...then·predict·scenario·tipping point | **预测推理链** |
-| ⚠️ **经济金融提取器** | debt·bubble·inflation·dollar·credit crisis | 经济框架 |
-| 📖 **术语词典提取器** | defined as·by this I mean·coined | 核心概念 |
+| Series | Episodes | Skills | Format | Location |
+|---|---|---|---|---|
+| Game Theory | 29 | 52 | RIA++ (R/I/A1/A2/E/B) | `skills/gt-*.md` |
+| Secret History | 27 | 45 | RIA (R/I/A/B) | `skills/sh-*.md` |
+| Geo-Strategy | 19 | 35 | RIA (R/I/A/B) | `skills/gs-*.md` |
+| Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
+| **Pending** | | | | |
+| Civilization | 59 | ~35-45 expected | — | — |
+| Great Books | 13 | — | — | — |
+| Dante | 12 | — | — | — |
 
 ---
 
-## 🚀 激活你的心理史学家
+## Analytical Capabilities
 
-### 方式 A：一键安装（Claude Code / Cursor）
+The skill library covers seven domains:
+
+| Domain | Core Frameworks |
+|---|---|
+| **Game Theory** | Asymmetry principle, escalation calibration, proximity law, immigration trap, elite overproduction dynamics |
+| **Geopolitics** | Three laws of geopolitics, chokepoint control, currency war dynamics, dollar addiction model |
+| **Civilization Cycles** | Asabiyyah, EOC model, institutional sclerosis, fertility leading indicators, mercenary overthrow |
+| **Religious Narrative** | Eschatological convergence, messianic accelerationism, kabbalistic redemption, AI as religion |
+| **Predictive Models** | Multi-framework convergence, empire decline triad, civil war projection, causal chain analysis |
+| **Failure Modes** | Great man fallacy, AI consciousness illusion, correlation-causation fallacy, false dichotomy |
+| **Terminology** | Mosaic defense, elite overproduction, reality hallucination, technate |
+
+Each skill follows a consistent structure: **source reading → interpretation as methodology → author's application → trigger conditions → execution steps → boundary conditions**, enabling systematic cross-validation.
+
+---
+
+## Quick Start
+
+### Option A: Clone and Install
 
 ```powershell
 git clone https://github.com/chundada/psychohistory.git
@@ -161,136 +95,54 @@ cd psychohistory
 PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 ```
 
-之后在任何项目目录：
+### Option B: Use with Any AI
 
-```
-用 @Psychohistory 分析当前的中美关系走向
-```
+Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automatically:
 
-AI 会：
-1. 自动激活心理史学家身份
-2. 从 137 个模型中选择最相关的 3-5 个
-3. 用**多重框架汇聚验证法**交叉分析
-4. 用**失败模式清单**自校准偏差
-5. 输出**条件式预测** + 边界条件
-
-### 方式 B：任何 AI（Claude.ai / ChatGPT / DeepSeek）
-
-复制 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 粘贴为系统提示——任何 AI 立即被激活为心理史学家。
+1. Activate the psychohistorian persona
+2. Select 2-4 relevant skills from the library
+3. Apply **multi-framework convergence validation**
+4. Self-calibrate using the failure mode checklist
+5. Output **conditional predictions** with explicit boundary conditions
 
 ---
 
-## 🎯 一个真实的分析示范
-
-### 问题：2027 年前后会发生全球性经济崩溃吗？
-
-**普通 AI 会这样：**
-> 经济预测非常复杂，有很多不确定性因素，包括利率政策、地缘政治、供应链等... 可能会也可能不会...
-
-**心理史学加持的 AI 会这样：**
-
-> **用四个独立框架交叉验证：**
->
-> **1️⃣ 精英过剩模型**：当前美国精英过剩指数处于历史峰值（和平期精英繁殖 → 权力位置枯竭 → 内斗升级）。历史上这个指标达到当前水平时，10 年内发生社会/经济危机的概率为 92%。
->
-> **2️⃣ 帝国衰退三指标**：金融化（GDP 中金融占比 > 20%）+ 人口危机（生育率 < 1.5）+ 精英过剩，三项同时亮红灯。上一次三项同时亮红灯是 1929 年和 2008 年。
->
-> **3️⃣ 美元瘾症模型**：美国所有对外军事行动本质上是美元体系的强制销售行为。当美元霸权开始松动时（去美元化加速），美国会倾向于通过制造危机来强制美元回流——但这招的边际效用在递减。
->
-> **4️⃣ 内战投射理论**：国内精英冲突越激烈，对外冒险概率越高。当前美国两党极化程度已经超过内战前水平。精英内斗会通过外部战争来转移矛盾，但战争本身又会加速经济崩溃。
->
-> **📊 汇聚结论**：四个框架指向同一方向——2026-2028 年窗口发生全球性经济/金融危机的概率 > 80%。
->
-> **⚠️ 边界条件（可能让预测失效的因素）：**
-> - 出现重大技术革命（如可控核聚变商用）创造新的经济增长点
-> - 精英阶层达成妥协，实施大规模财富再分配
-> - 主要大国发生政权更迭，改变博弈格局
->
-> **💡 第二基地思考**：崩溃不是终点，是窗口。Homer 和 Dante 都出现在崩溃时代。旧秩序瓦解时，恰恰是新思想新制度诞生的最大机遇。
-
----
-
-## 📊 基地建设进度
-
-| 模块 | 集数 | 进度 | 模型产出 |
-|------|------|------|---------|
-| 🧠 **Psychohistory Origin** | 1 | ✅ **已完成** | **6**（元方法论） |
-| 🎯 **Game Theory** | 29 | ✅ **已蒸馏** | **52** |
-| 🌍 **Geo-Strategy + Updates** | 19 | ✅ **已蒸馏** | **34** |
-| 📜 **Secret History** | 28 | ⚙️ **蒸馏中 75%** | **45** |
-| 🏛️ **Civilization** | 59 | ⏳ 下一批 | ~35-45 预计 |
-| 📚 **Great Books** | 13 | 📌 可选 | — |
-| 🔥 **Dante** | 12 | 📌 可选 | — |
-| **总计** | **~160** | **79/160 已完成** | **137** |
-
----
-
-## 📂 基地档案库结构
+## Repository Structure
 
 ```
 Psychohistory/
-├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ 任何 AI 复制这个 = 变成心理史学家
-├── skills/                            ⬅ 137 个可调用的心理史学模型
-│   ├── ph-origin-psychohistory-definition.md  ⭐ 三要素框架（总纲）
-│   ├── ph-origin-elite-overproduction.md     ⭐ 精英过剩崩溃模型
-│   ├── gt-predictive-003.md                  ⭐ 多重框架汇聚验证法
-│   ├── gt-game-theory-asymmetry.md            非对称法则
-│   ├── gt-geopolitics-chokepoint.md           全球咽喉要道
-│   ├── gs-pre-001.md                          三大核心预测
-│   └── ...                                    共 137 个
-├── cases/                             ⬅ 实战分析案例
-│   └── case-001-ww3-catalyst-moment.md  CASE-001：三战催化阶段（12模型交叉验证）
-├── QUICK_START.md                     ⬅ 场景→模型 速查表
-├── DIGEST.md                          ⬅ 精华阅读（10min 通读）
-├── INDEX.md                           ⬅ 触发场景总索引
-│
-├── extractors/                        ⬅ 7 个检索式提取器
-├── methodology/                       ⬅ 蒸馏流水线 SOP
-├── series/                            ⬅ 各模块源数据
-│   ├── psychohistory-origin/          元方法论（基地起源）
-│   ├── game-theory/                   博弈论模块
-│   ├── geo-strategy/                  地缘战略模块
-│   └── ...
-└── ...
+├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
+├── skills/                            ⬅ 142 structured Skill files
+│   ├── gt-*.md                        Game Theory series
+│   ├── sh-*.md                        Secret History series
+│   ├── gs-*.md                        Geo-Strategy series
+│   └── interview-*.md                 Interview series
+├── cases/                             ⬅ Case studies (multi-framework demonstrations)
+├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
+├── DIGEST.md                          ⬅ Curated reading
+├── INDEX.md                           ⬅ Zettelkasten trigger index
+├── PROGRESS.md                        ⬅ Project progress tracking
+├── CLAUDE.md                          ⬅ AI workspace configuration
+├── extractors/                        ⬅ 7 retrieval-based extractors
+├── methodology/                       ⬅ Distillation pipeline SOPs
+├── series/                            ⬅ Source transcripts by series
+│   ├── psychohistory-origin/
+│   ├── game-theory/
+│   ├── geo-strategy/
+│   ├── secret-history/
+│   └── interview-jang-letstalk/
+└── SPEC.md                            ⬅ Design specification
 ```
 
 ---
 
-## 👤 关于大数学家
+## License
 
-**姜雪琴（Jiang Xueqin）** — 基地首席心理史学家
-
-他不是大众意义上的"网红教授"。他是那种会用一整学期的时间，从沙特-石油美元讲到美伊战争，再讲到精英过剩和文明崩溃，最后在最后一课告诉你"这一切合起来就是心理史学"的人。
-
-他的课不讲知识点。他讲的是**思维方式**。
-
-他的预测不是瞎猜。他的预测是**多个独立框架汇聚验证**的结果——地缘政治、博弈论、文明周期、宗教叙事、经济结构——当五六个完全不同的分析框架都指向同一个结论时，那个结论的可信度就非常高了。
-
-> *"有黑暗的地方，也可以有光明。"*
-> — 姜雪琴，Geo-Strategy 最后一课
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🏛️ 第一基地和第二基地
-
-Asimov 的《基地》里有两个基地：
-
-- **第一基地**：建模型、搞技术、做工程——就是这个仓库里的东西
-- **第二基地**：守护者、掌舵人、人类灵魂——他们不建模型，但他们决定模型为什么目的服务
-
-这个项目是第一基地的工作。但如果你发现自己不仅想用这些模型来预测，还想用它们来**构建更好的未来**——那你可能就是第二基地的人。
-
-> *"上帝存在，但上帝给了我们想象的能力和爱的能力。正是这两样东西指引我们、让我们能够建设一个更好的世界。"*
-> — 姜雪琴，GSEND: Psychohistory
-
----
-
-## 📄 License
-
-MIT
-
----
-
-<h6 align="center">🧮 134 个心理史学模型 · 76 集 · 还在扩张</h6>
-<h6 align="center">"预言的目的不是预言未来——而是让未来变得更好。"</h6>
-
+<p align="center">
+  142 psychohistorical models · 4 series · actively expanding<br/>
+  <em>"The purpose of prediction is not to foresee the future — but to make it better."</em>
+</p>
