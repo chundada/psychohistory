@@ -76,8 +76,8 @@
 | 🏛️ **文明规律** | elite overproduction·asabiyyah·Turchin·collapse | 捕捉文明兴衰的周期性模式 |
 | 📖 **宗教叙事** | messianic·eschatology·monotheism·Dante | 解码被宗教外衣包裹的地缘叙事 |
 | 🔮 **预测模型** ⭐ | if...then·predict·inevitable·scenario·tipping point | **提取预测推理链（最有价值）** |
-| ⚠️ **反例陷阱** | fallacy·bias·oversimplification·actually | 识别分析师常犯的思维错误 |
-| 📖 **术语词典** | defined as·by this I mean·coined·in other words | 汇总核心概念定义 |
+| ⚠️ **经济金融** | debt·bubble·inflation·sanctions·dollar·carry trade·collapse·credit crisis | 提取经济金融分析框架（新增） |
+| 📖 **术语词典** | defined as·by this I mean·coined·in other words | 汇总核心概念定义 + 经济术语 |
 
 ---
 

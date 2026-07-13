@@ -1,13 +1,16 @@
 ---
-tags: [psychohistory, extractor]
+tags: [psychohistory, extractor, deprecated]
 extractor_type: "failure"
-status: "complete"
+status: "deprecated"
 ---
-# 失败模式与思维陷阱提取器 (Failure Extractor)
 
-## 用途 (Purpose)
+# ⚠️ 失败模式与思维陷阱提取器 — 已废弃
 
-从视频转录文本中提取**失败模式与思维陷阱**相关的知识条目。识别主讲人分析的认知偏差、分析失误、预测失败、战略误判的结构性原因。这些"反模式"是心理史学知识体系中不可或缺的组成部分——了解失败模式与了解成功模式同等重要。
+> **废弃于 v4.2**。失败模式防护不再作为独立提取器运行。
+>
+> **替代方案**：反例陷阱→改为在 RIA+ 构造时**内嵌检查**（"这个框架在什么条件下失效？" → 写在 B 段）。不再需要单独的提取阶段。
+>
+> **新提取器**：E6 已置换为「经济金融模式提取器」，见 `06-finance-economy-extractor.md`。
 
 ## 范围 (Scope)
 
