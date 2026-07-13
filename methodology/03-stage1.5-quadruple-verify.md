@@ -1,13 +1,17 @@
 ---
-tags: [psychohistory, methodology]
+tags: [psychohistory, methodology, deprecated]
 stage: "Stage 1.5"
-status: "complete"
+status: "deprecated"
 ---
-# Stage 1.5：四重验证（Quadruple Verification）
 
-> **目标**：在进入 RIA++ 构建之前，过滤掉不合格的候选技能
-> **输入**：`candidates/` 目录中的所有候选技能文件
-> **输出**：`verified.md`（验证通过的技能清单）+ `rejected/`（被拒绝的技能及原因）
+# ⚠️ Stage 1.5：已废弃（Deprecated）
+
+> **废弃于 v4.1**。四重验证不再单独成阶段。
+>
+> **原因**：在 Game Theory Pilot 中，54 候选经四重验证后 52 通过（98%），仅 1 拒绝、4 降级。
+> 验证阶段近乎空转。改为在 Stage 2 RIA+ 构造时内嵌验证（三问判断）。
+>
+> **替代方案**：参见 `04-stage2-ria-plus.md` 的"内嵌验证"章节。
 
 ---
 
