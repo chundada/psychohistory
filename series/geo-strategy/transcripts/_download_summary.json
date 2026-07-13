@@ -1,0 +1,12 @@
+{
+  "geo_strategy": {
+    "total": 12,
+    "done": 12,
+    "failed": 0
+  },
+  "geo_updates": {
+    "total": 8,
+    "done": 8,
+    "failed": 0
+  }
+}
