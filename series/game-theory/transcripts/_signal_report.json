@@ -1,0 +1,5856 @@
+{
+  "episodes_indexed": 29,
+  "total_chars": 1390443,
+  "extractors": {
+    "game-theory": {
+      "total_hits": 128,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "game theory",
+          "count": 20
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "nash",
+          "count": 5
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "equilibrium",
+          "count": 7
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "mad",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "strategy",
+          "count": 2
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "player",
+          "count": 11
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "incentive",
+          "count": 6
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "game theory",
+          "count": 15
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "signal",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "player",
+          "count": 27
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "incentive",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "game theory",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "equilibrium",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "mad",
+          "count": 6
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "strategy",
+          "count": 3
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "incentive",
+          "count": 3
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "zero sum",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "game theory",
+          "count": 7
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "mad",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "strategy",
+          "count": 3
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "game theory",
+          "count": 7
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "equilibrium",
+          "count": 8
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "player",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "incentive",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "coordination",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "cooperation",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "mad",
+          "count": 5
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "player",
+          "count": 3
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "zero sum",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "mad",
+          "count": 5
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "player",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "cooperation",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "game theory",
+          "count": 2
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "game theory",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "reputation",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "asymmetry",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "strategy",
+          "count": 7
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "game theory",
+          "count": 5
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "signal",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "mad",
+          "count": 2
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "asymmetry",
+          "count": 8
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "strategy",
+          "count": 16
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "game theory",
+          "count": 9
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "credibility",
+          "count": 5
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "escalation",
+          "count": 30
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "mad",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "strategy",
+          "count": 19
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "player",
+          "count": 3
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "game theory",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "commitment",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "player",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "coordination",
+          "count": 8
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "prisoner",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "mad",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "incentive",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "signal",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "escalation",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "proximity",
+          "count": 4
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "strategy",
+          "count": 4
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "game theory",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "strategy",
+          "count": 16
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "player",
+          "count": 4
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "signaling",
+          "count": 5
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "signal",
+          "count": 7
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "strategy",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "player",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "game theory",
+          "count": 3
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "mad",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "strategy",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "player",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "mad",
+          "count": 10
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "strategy",
+          "count": 11
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "cooperation",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "game theory",
+          "count": 5
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "commitment",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "escalation",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "mad",
+          "count": 5
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "strategy",
+          "count": 16
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "player",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "signal",
+          "count": 3
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "escalation",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "mad",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "strategy",
+          "count": 10
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "cooperation",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "deterrence",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "game theory",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "strategy",
+          "count": 6
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "player",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "game theory",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "mad",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "strategy",
+          "count": 32
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "player",
+          "count": 12
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "game theory",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "escalation",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "strategy",
+          "count": 2
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "cooperation",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "prisoner",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "game theory",
+          "count": 3
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "equilibrium",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "mad",
+          "count": 3
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "strategy",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "dilemma",
+          "count": 3
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "game theory",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "escalation",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "mad",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "strategy",
+          "count": 7
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "player",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "cooperation",
+          "count": 9
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "prisoner",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "equilibrium",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "mad",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "coordination",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "game theory",
+          "count": 7
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "mad",
+          "count": 9
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "strategy",
+          "count": 11
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "player",
+          "count": 4
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "incentive",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "cooperation",
+          "count": 1
+        }
+      ]
+    },
+    "geopolitics": {
+      "total_hits": 121,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "empire",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "empire",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "empire",
+          "count": 33
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "empire",
+          "count": 27
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "continental",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "empire",
+          "count": 11
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "hegemony",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "world order",
+          "count": 2
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "rising power",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "alliance",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "empire",
+          "count": 17
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "pivot",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "geopolitical",
+          "count": 2
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "empire",
+          "count": 32
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "heartland",
+          "count": 11
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "continental",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "empire",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "alliance",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "hegemony",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "geopolitics",
+          "count": 2
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "empire",
+          "count": 9
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "nato",
+          "count": 5
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "geopolitics",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "geopolitical",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "empire",
+          "count": 18
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "alliance",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "geopolitics",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "world order",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "empire",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "empire",
+          "count": 9
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "alliance",
+          "count": 3
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "world order",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "empire",
+          "count": 39
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "geopolitics",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "empire",
+          "count": 8
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "great game",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "empire",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "decline",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "nato",
+          "count": 6
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "alliance",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "geopolitics",
+          "count": 3
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "geopolitical",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "world order",
+          "count": 7
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "empire",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "trap",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "continental",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "empire",
+          "count": 21
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "imperial",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "nato",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "pivot",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "geopolitics",
+          "count": 5
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "empire",
+          "count": 11
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "imperial",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "hegemony",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "empire",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "continental",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "empire",
+          "count": 4
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "alliance",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "geopolitics",
+          "count": 8
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "empire",
+          "count": 5
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "geopolitics",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "geopolitical",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "empire",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "sphere of influence",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "alliance",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "pivot",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "geopolitical",
+          "count": 4
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "empire",
+          "count": 9
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "decline",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "nato",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "empire",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "imperial",
+          "count": 4
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "sphere of influence",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "alliance",
+          "count": 4
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "hegemony",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "world order",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "maritime",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "empire",
+          "count": 22
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "imperial",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "decline",
+          "count": 11
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "nato",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "alliance",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "pivot",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "geopolitics",
+          "count": 8
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "geopolitical",
+          "count": 6
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "empire",
+          "count": 19
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "imperial",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "decline",
+          "count": 14
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "nato",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "alliance",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "geopolitics",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "geopolitical",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "world order",
+          "count": 2
+        }
+      ]
+    },
+    "civilization": {
+      "total_hits": 159,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "demographic",
+          "count": 2
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "population",
+          "count": 18
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "collapse",
+          "count": 10
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "cohesion",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "civilization",
+          "count": 5
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "society",
+          "count": 25
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "demographic",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "cohesion",
+          "count": 3
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "society",
+          "count": 10
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "population",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "collapse",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "resilience",
+          "count": 10
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "society",
+          "count": 8
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "demographic",
+          "count": 4
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "population",
+          "count": 12
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "fall",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "society",
+          "count": 8
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "population",
+          "count": 6
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "bureaucracy",
+          "count": 3
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "fall",
+          "count": 9
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "cohesion",
+          "count": 10
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "resilience",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "civilization",
+          "count": 10
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "society",
+          "count": 11
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "collapse",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "cohesion",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "society",
+          "count": 4
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "population",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "collapse",
+          "count": 2
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "society",
+          "count": 4
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "population",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "complexity",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "society",
+          "count": 13
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "population",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "bureaucracy",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "collapse",
+          "count": 8
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "fall",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "civilization",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "elite overproduction",
+          "count": 4
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "turchin",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "population",
+          "count": 3
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "bureaucracy",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "bureaucratic",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "collapse",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "fall",
+          "count": 7
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "cohesion",
+          "count": 3
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "resilience",
+          "count": 2
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "civilization",
+          "count": 4
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "society",
+          "count": 8
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "population",
+          "count": 2
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "collapse",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "cohesion",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "society",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "bureaucracy",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "collapse",
+          "count": 4
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "society",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "population",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "collapse",
+          "count": 4
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "fall",
+          "count": 3
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "civilization",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "society",
+          "count": 5
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "elite overproduction",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "turchin",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "civilization",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "society",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "population",
+          "count": 20
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "resilience",
+          "count": 6
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "civilization",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "society",
+          "count": 3
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "population",
+          "count": 3
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "collapse",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "fall",
+          "count": 5
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "resilience",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "population",
+          "count": 2
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "collapse",
+          "count": 42
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "fall",
+          "count": 4
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "cycle",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "society",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "elite overproduction",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "collapse",
+          "count": 27
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "decline",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "civilization",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "society",
+          "count": 4
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "collapse",
+          "count": 3
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "fall",
+          "count": 4
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "resilience",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "society",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "population",
+          "count": 5
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "collapse",
+          "count": 17
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "fall",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "cohesion",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "fragility",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "resilience",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "civilization",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "society",
+          "count": 11
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "historical pattern",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "collapse",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "population",
+          "count": 40
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "collapse",
+          "count": 3
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "civilization",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "society",
+          "count": 9
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "population",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "collapse",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "fall",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "cohesion",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "civilization",
+          "count": 10
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "society",
+          "count": 13
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "fall",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "fragility",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "society",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "collapse",
+          "count": 6
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "fragility",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "bureaucracy",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "bureaucratic",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "decline",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "cohesion",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "society",
+          "count": 23
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "population",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "collapse",
+          "count": 6
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "decline",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "fall",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "cohesion",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "civilization",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "society",
+          "count": 3
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "turchin",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "demographic",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "bureaucracy",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "collapse",
+          "count": 6
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "decline",
+          "count": 11
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "fall",
+          "count": 3
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "society",
+          "count": 10
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "historical pattern",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "elite overproduction",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "population",
+          "count": 10
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "collapse",
+          "count": 15
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "decline",
+          "count": 14
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "fall",
+          "count": 10
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "cycle",
+          "count": 11
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "cohesion",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "complexity",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "resilience",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "civilization",
+          "count": 23
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "society",
+          "count": 24
+        }
+      ]
+    },
+    "religion": {
+      "total_hits": 159,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "heaven",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "religion",
+          "count": 5
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "religious",
+          "count": 2
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "religion",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "heaven",
+          "count": 3
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "hell",
+          "count": 4
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "jesus",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "religious",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "religion",
+          "count": 5
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "prophet",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "jesus",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "religion",
+          "count": 8
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "religion",
+          "count": 5
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "religious",
+          "count": 3
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "religion",
+          "count": 16
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "religion",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "religious",
+          "count": 7
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "faith",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "messiah",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "eschatology",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "divine",
+          "count": 2
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "revelation",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "hell",
+          "count": 2
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "jesus",
+          "count": 10
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "religion",
+          "count": 5
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "religious",
+          "count": 7
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "faith",
+          "count": 4
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "narrative",
+          "count": 3
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "heaven",
+          "count": 2
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "apocalypse",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "religion",
+          "count": 2
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "religious",
+          "count": 4
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "messiah",
+          "count": 13
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "messianic",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "eschatology",
+          "count": 44
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "eschatological",
+          "count": 6
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "divine",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "prophecy",
+          "count": 5
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "narrative",
+          "count": 5
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "heaven",
+          "count": 7
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "hell",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "jesus",
+          "count": 4
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "augustine",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "religion",
+          "count": 8
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "religious",
+          "count": 5
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "faith",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "messiah",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "heaven",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "bible",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "religion",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "religious",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "messiah",
+          "count": 11
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "eschatology",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "eschatological",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "divine",
+          "count": 12
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "prophet",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "bible",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "jesus",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "religious",
+          "count": 8
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "faith",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "religion",
+          "count": 8
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "religious",
+          "count": 4
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "prophecy",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "narrative",
+          "count": 8
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "hell",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "bible",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "divine",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "paul",
+          "count": 2
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "religion",
+          "count": 2
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "eschatology",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "eschatological",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "religion",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "religious",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "faith",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "narrative",
+          "count": 5
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "heaven",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "prophecy",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "prophet",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "myth",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "hell",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "religion",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "religious",
+          "count": 5
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "myth",
+          "count": 6
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "heaven",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "hell",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "religious",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "faith",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "prophet",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "narrative",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "heaven",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "hell",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "bible",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "augustine",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "religion",
+          "count": 6
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "religious",
+          "count": 4
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "faith",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "belief",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "messianic",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "eschatological",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "narrative",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "heaven",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "jesus",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "apocalypse",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "religion",
+          "count": 9
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "religious",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "belief",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "hell",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "religion",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "messiah",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "eschatology",
+          "count": 8
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "eschatological",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "divine",
+          "count": 4
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "prophecy",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "prophet",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "heaven",
+          "count": 3
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "gospel",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "jesus",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "religion",
+          "count": 13
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "faith",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "belief",
+          "count": 4
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "narrative",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "messiah",
+          "count": 20
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "messianic",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "divine",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "prophet",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "heaven",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "bible",
+          "count": 18
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "jesus",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "apocalyptic",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "religion",
+          "count": 12
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "religious",
+          "count": 3
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "faith",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "belief",
+          "count": 8
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "messiah",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "messianic",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "eschatology",
+          "count": 6
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "divine",
+          "count": 9
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "myth",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "narrative",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "dante",
+          "count": 4
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "divine comedy",
+          "count": 4
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "hell",
+          "count": 7
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "bible",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "religion",
+          "count": 3
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "religious",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "faith",
+          "count": 8
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "belief",
+          "count": 2
+        }
+      ]
+    },
+    "predictive": {
+      "total_hits": 386,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "if",
+          "count": 75
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "then",
+          "count": 41
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "when",
+          "count": 4
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "predict",
+          "count": 3
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "next",
+          "count": 4
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "scenario",
+          "count": 3
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "probably",
+          "count": 5
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "indicator",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "guaranteed",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "inevitably",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "if",
+          "count": 75
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "then",
+          "count": 31
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "when",
+          "count": 17
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "predict",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "future",
+          "count": 6
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "next",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "signal",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "certain",
+          "count": 3
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "if",
+          "count": 107
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "then",
+          "count": 30
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "next",
+          "count": 5
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "likely",
+          "count": 3
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "probably",
+          "count": 4
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "pattern",
+          "count": 2
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "certain",
+          "count": 11
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "i think",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "if",
+          "count": 53
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "then",
+          "count": 31
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "when",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "forecast",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "future",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "likely",
+          "count": 11
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "pattern",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "certain",
+          "count": 7
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "if",
+          "count": 76
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "then",
+          "count": 64
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "when",
+          "count": 12
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "future",
+          "count": 4
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "coming",
+          "count": 4
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "likely",
+          "count": 6
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "probably",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "sign",
+          "count": 6
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "pattern",
+          "count": 6
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "repeat",
+          "count": 5
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "certain",
+          "count": 7
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "i think",
+          "count": 3
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "if",
+          "count": 55
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "then",
+          "count": 19
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "when",
+          "count": 7
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "next",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "likely",
+          "count": 4
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "pattern",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "guaranteed",
+          "count": 3
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "if",
+          "count": 57
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "then",
+          "count": 18
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "when",
+          "count": 15
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "depends",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "certain",
+          "count": 5
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "if",
+          "count": 48
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "then",
+          "count": 34
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "when",
+          "count": 16
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "probably",
+          "count": 2
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "inevitable",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "i think",
+          "count": 2
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "if",
+          "count": 53
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "then",
+          "count": 30
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "when",
+          "count": 2
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "depends",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "predict",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "future",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "next",
+          "count": 7
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "scenario",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "likely",
+          "count": 2
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "probably",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "sign",
+          "count": 4
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "i think",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "if",
+          "count": 45
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "then",
+          "count": 27
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "predict",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "coming",
+          "count": 4
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "next",
+          "count": 4
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "possibility",
+          "count": 3
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "probably",
+          "count": 3
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "signal",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "repeat",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "if",
+          "count": 87
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "then",
+          "count": 42
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "when",
+          "count": 8
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "predict",
+          "count": 4
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "prediction",
+          "count": 4
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "future",
+          "count": 6
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "will happen",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "next",
+          "count": 15
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "probably",
+          "count": 4
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "certain",
+          "count": 6
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "i think",
+          "count": 3
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "if",
+          "count": 65
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "then",
+          "count": 46
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "when",
+          "count": 21
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "predict",
+          "count": 16
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "prediction",
+          "count": 11
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "will happen",
+          "count": 6
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "next",
+          "count": 8
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "probably",
+          "count": 3
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "sign",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "certain",
+          "count": 12
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "my prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "i think",
+          "count": 4
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "if",
+          "count": 51
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "then",
+          "count": 39
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "will happen",
+          "count": 2
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "certain",
+          "count": 4
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "i think",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "if",
+          "count": 52
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "then",
+          "count": 25
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "when",
+          "count": 17
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "future",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "will happen",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "coming",
+          "count": 4
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "next",
+          "count": 6
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "scenario",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "signal",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "sign",
+          "count": 4
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "certain",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "i think",
+          "count": 4
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "if",
+          "count": 62
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "then",
+          "count": 23
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "when",
+          "count": 7
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "future",
+          "count": 12
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "will happen",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "next",
+          "count": 9
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "scenario",
+          "count": 3
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "possibility",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "likely",
+          "count": 4
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "sign",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "guaranteed",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "i think",
+          "count": 7
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "if",
+          "count": 86
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "then",
+          "count": 40
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "predict",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "will happen",
+          "count": 3
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "next",
+          "count": 6
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "possibility",
+          "count": 4
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "probably",
+          "count": 12
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "sign",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "pattern",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "certain",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "bound to",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "if",
+          "count": 54
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "then",
+          "count": 63
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "when",
+          "count": 8
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "will happen",
+          "count": 4
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "next",
+          "count": 9
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "scenario",
+          "count": 2
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "probably",
+          "count": 5
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "signal",
+          "count": 7
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "sign",
+          "count": 8
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "cycle",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "certain",
+          "count": 7
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "guaranteed",
+          "count": 3
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "if",
+          "count": 56
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "then",
+          "count": 31
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "when",
+          "count": 8
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "depends",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "predict",
+          "count": 9
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "prediction",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "future",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "will happen",
+          "count": 9
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "coming",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "next",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "indicator",
+          "count": 2
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "sign",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "inevitable",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "certain",
+          "count": 1
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "i think",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "if",
+          "count": 66
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "then",
+          "count": 27
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "when",
+          "count": 10
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "will happen",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "next",
+          "count": 6
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "scenario",
+          "count": 2
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "sign",
+          "count": 6
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "turning point",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "certain",
+          "count": 3
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "guaranteed",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "i think",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "if",
+          "count": 115
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "then",
+          "count": 43
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "predict",
+          "count": 24
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "prediction",
+          "count": 16
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "future",
+          "count": 7
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "will happen",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "coming",
+          "count": 8
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "scenario",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "likely",
+          "count": 4
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "probably",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "sign",
+          "count": 4
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "pattern",
+          "count": 7
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "certain",
+          "count": 12
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "inevitably",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "my prediction",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "i think",
+          "count": 10
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "if",
+          "count": 59
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "then",
+          "count": 25
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "when",
+          "count": 12
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "depends",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "predict",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "prediction",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "future",
+          "count": 5
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "coming",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "next",
+          "count": 9
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "probably",
+          "count": 5
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "signal",
+          "count": 3
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "sign",
+          "count": 7
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "certain",
+          "count": 4
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "i think",
+          "count": 7
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "if",
+          "count": 52
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "then",
+          "count": 16
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "when",
+          "count": 17
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "depends",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "future",
+          "count": 3
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "coming",
+          "count": 4
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "next",
+          "count": 5
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "sign",
+          "count": 9
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "if",
+          "count": 55
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "then",
+          "count": 28
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "when",
+          "count": 6
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "conditional",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "depends",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "predict",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "future",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "coming",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "next",
+          "count": 6
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "probably",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "pattern",
+          "count": 2
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "certain",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "if",
+          "count": 68
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "then",
+          "count": 23
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "when",
+          "count": 7
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "predict",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "future",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "coming",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "next",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "scenario",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "probably",
+          "count": 3
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "sign",
+          "count": 15
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "pattern",
+          "count": 5
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "certain",
+          "count": 7
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "i think",
+          "count": 7
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "if",
+          "count": 55
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "then",
+          "count": 48
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "depends",
+          "count": 2
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "predict",
+          "count": 7
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "prediction",
+          "count": 5
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "future",
+          "count": 2
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "will happen",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "coming",
+          "count": 6
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "probably",
+          "count": 2
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "sign",
+          "count": 5
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "certain",
+          "count": 3
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "my prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "i think",
+          "count": 5
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "if",
+          "count": 90
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "then",
+          "count": 33
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "when",
+          "count": 15
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "predict",
+          "count": 4
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "future",
+          "count": 3
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "will happen",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "coming",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "probably",
+          "count": 11
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "sign",
+          "count": 4
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "certain",
+          "count": 9
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "if",
+          "count": 87
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "then",
+          "count": 26
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "when",
+          "count": 11
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "predict",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "prediction",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "coming",
+          "count": 4
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "next",
+          "count": 10
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "likely",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "probably",
+          "count": 4
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "sign",
+          "count": 5
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "cycle",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "certain",
+          "count": 6
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "i think",
+          "count": 3
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "if",
+          "count": 73
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "then",
+          "count": 58
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "when",
+          "count": 14
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "predict",
+          "count": 5
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "prediction",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "will happen",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "coming",
+          "count": 10
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "next",
+          "count": 3
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "possibility",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "pattern",
+          "count": 10
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "repeat",
+          "count": 2
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "certain",
+          "count": 7
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "i think",
+          "count": 3
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "if",
+          "count": 164
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "then",
+          "count": 60
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "when",
+          "count": 54
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "conditional",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "depends",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "predict",
+          "count": 15
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "prediction",
+          "count": 10
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "future",
+          "count": 19
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "will happen",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "coming",
+          "count": 12
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "next",
+          "count": 11
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "scenario",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "possibility",
+          "count": 3
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "likely",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "probably",
+          "count": 12
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "sign",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "warning",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "pattern",
+          "count": 7
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "cycle",
+          "count": 11
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "certain",
+          "count": 11
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "my prediction",
+          "count": 4
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "i think",
+          "count": 22
+        }
+      ]
+    },
+    "failure": {
+      "total_hits": 95,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "error",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "actually",
+          "count": 10
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "mistake",
+          "count": 6
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "actually",
+          "count": 16
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "mistake",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "actually",
+          "count": 3
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "error",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "wrong",
+          "count": 3
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "prejudice",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "actually",
+          "count": 15
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "mistake",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "danger",
+          "count": 2
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "actually",
+          "count": 19
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "danger",
+          "count": 2
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "actually",
+          "count": 3
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "actually",
+          "count": 5
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "error",
+          "count": 2
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "wrong",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "actually",
+          "count": 12
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "actually",
+          "count": 11
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "mistake",
+          "count": 9
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "actually",
+          "count": 12
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "actually",
+          "count": 12
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "mistake",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "wrong",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "actually",
+          "count": 15
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "actually",
+          "count": 14
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "wrong",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "actually",
+          "count": 7
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "actually",
+          "count": 19
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "error",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "wrong",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "misunderstanding",
+          "count": 1
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "actually",
+          "count": 18
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "but in reality",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "actually",
+          "count": 11
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "actually",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "people think",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "mistake",
+          "count": 1
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "danger",
+          "count": 2
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "actually",
+          "count": 11
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "people think",
+          "count": 4
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "wrong",
+          "count": 4
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "misconception",
+          "count": 3
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "misunderstanding",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "trap",
+          "count": 2
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "bias",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "actually",
+          "count": 17
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "people think",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "error",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "wrong",
+          "count": 2
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "actually",
+          "count": 8
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "mistake",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "actually",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "actually",
+          "count": 6
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "people think",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "wrong",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "fallacy",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "danger",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "oversimplification",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "actually",
+          "count": 25
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "wrong",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "actually",
+          "count": 25
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "error",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "wrong",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "trap",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "actually",
+          "count": 12
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "people think",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "wrong",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "actually",
+          "count": 26
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "wrong",
+          "count": 5
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "actually",
+          "count": 18
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "mistake",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "wrong",
+          "count": 2
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "danger",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "warning",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "actually",
+          "count": 6
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "but in reality",
+          "count": 2
+        }
+      ]
+    },
+    "glossary": {
+      "total_hits": 115,
+      "hits": [
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "term",
+          "count": 2
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT01-The-Dating-Game",
+          "keyword": "that is",
+          "count": 6
+        },
+        {
+          "episode": "GT02-Why-Schools-Suck",
+          "keyword": "term",
+          "count": 6
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "term",
+          "count": 4
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "that is",
+          "count": 1
+        },
+        {
+          "episode": "GT03-Rich-Dad-Poor-Dad",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "what i mean by",
+          "count": 1
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "term",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "in other words",
+          "count": 2
+        },
+        {
+          "episode": "GT04-The-Immigration-Trap",
+          "keyword": "that is",
+          "count": 3
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "term",
+          "count": 4
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT05-The-World-Game",
+          "keyword": "that is",
+          "count": 5
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "term",
+          "count": 10
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "concept",
+          "count": 4
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "that is",
+          "count": 5
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT06-The-Worlds-Bank",
+          "keyword": "meaning of",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "term",
+          "count": 1
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "concept",
+          "count": 9
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "in other words",
+          "count": 3
+        },
+        {
+          "episode": "GT07-Americas-Game",
+          "keyword": "that is",
+          "count": 4
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "term",
+          "count": 1
+        },
+        {
+          "episode": "GT08-Communist-Specter",
+          "keyword": "that is",
+          "count": 3
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "defined as",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "term",
+          "count": 8
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT09-The-US-Iran-War",
+          "keyword": "that is",
+          "count": 5
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "coined",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "term",
+          "count": 8
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "that is",
+          "count": 6
+        },
+        {
+          "episode": "GT10-The-Law-of-Asymmetry",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "term",
+          "count": 9
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "in other words",
+          "count": 4
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "that is",
+          "count": 8
+        },
+        {
+          "episode": "GT11-The-Law-of-Escalation",
+          "keyword": "important idea",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "what i mean by",
+          "count": 1
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "term",
+          "count": 2
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "in other words",
+          "count": 4
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "that is",
+          "count": 10
+        },
+        {
+          "episode": "GT12-The-Law-of-Eschatological-Convergence",
+          "keyword": "crucial",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT13-Epsteins-World",
+          "keyword": "in other words",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "term",
+          "count": 3
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "in other words",
+          "count": 2
+        },
+        {
+          "episode": "GT14-The-Law-of-Proximity",
+          "keyword": "that is",
+          "count": 14
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "what i mean by",
+          "count": 2
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "term",
+          "count": 1
+        },
+        {
+          "episode": "GT15-The-Return-of-History",
+          "keyword": "that is",
+          "count": 8
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "what i mean by",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "term",
+          "count": 9
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "concept",
+          "count": 2
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "in other words",
+          "count": 3
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "that is",
+          "count": 11
+        },
+        {
+          "episode": "GT16-Pax-Judaica-Rising",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "term",
+          "count": 5
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "concept",
+          "count": 5
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "in other words",
+          "count": 3
+        },
+        {
+          "episode": "GT17-The-Great-Reset",
+          "keyword": "that is",
+          "count": 4
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "term",
+          "count": 3
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "in other words",
+          "count": 5
+        },
+        {
+          "episode": "GT18-Trump-World-Order",
+          "keyword": "that is",
+          "count": 3
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "term",
+          "count": 6
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "in other words",
+          "count": 3
+        },
+        {
+          "episode": "GT19-The-Hollywood-Pentagon-Complex",
+          "keyword": "that is",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "term",
+          "count": 23
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "concept",
+          "count": 5
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "that is",
+          "count": 6
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "meaning of",
+          "count": 1
+        },
+        {
+          "episode": "GT20-Mid-Term-Examination",
+          "keyword": "definition",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "term",
+          "count": 17
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT21-World-War-Trump",
+          "keyword": "that is",
+          "count": 8
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "what i mean by",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "term",
+          "count": 2
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "in other words",
+          "count": 2
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "that is",
+          "count": 7
+        },
+        {
+          "episode": "GT22-Twilight-of-the-Nation-State",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "term",
+          "count": 3
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "in other words",
+          "count": 7
+        },
+        {
+          "episode": "GT23-The-WWIII-Chessboard",
+          "keyword": "that is",
+          "count": 15
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "term",
+          "count": 2
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "in other words",
+          "count": 4
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "that is",
+          "count": 11
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "important idea",
+          "count": 1
+        },
+        {
+          "episode": "GT24-The-AI-Apocalypse",
+          "keyword": "definition",
+          "count": 2
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "term",
+          "count": 1
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "in other words",
+          "count": 5
+        },
+        {
+          "episode": "GT25-Trump-Visits-China",
+          "keyword": "that is",
+          "count": 2
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "term",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "that is",
+          "count": 12
+        },
+        {
+          "episode": "GT26-The-Holy-Empire-of-AI",
+          "keyword": "definition",
+          "count": 2
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "term",
+          "count": 8
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "concept",
+          "count": 1
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "in other words",
+          "count": 6
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "that is",
+          "count": 5
+        },
+        {
+          "episode": "GT27-Putin-Enters-the-Chat",
+          "keyword": "refers to",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "coined",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "term",
+          "count": 4
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "in other words",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "that is",
+          "count": 10
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "crucial",
+          "count": 1
+        },
+        {
+          "episode": "GT28-Predictive-History",
+          "keyword": "definition",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "what i mean by",
+          "count": 1
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "term",
+          "count": 6
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "concept",
+          "count": 5
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "that is",
+          "count": 13
+        },
+        {
+          "episode": "GT29-Final-Examination",
+          "keyword": "important idea",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

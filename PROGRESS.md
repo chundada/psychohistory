@@ -24,8 +24,8 @@ gantt
     
     section Phase 2 - Pilot: Game Theory
     下载字幕/转录文本        :done, 2026-07-13, 1d
-    ⭐ 检索式提取 (7路)     :active, 2026-07-13, 2d
-    四重验证 + 筛选          :2026-07-15, 1d
+    ⭐ 检索式提取 (7路)     :done, 2026-07-13, 1d
+    四重验证 + 筛选          :active, 2026-07-15, 1d
     RIA++ 构造 Skill         :2026-07-16, 2d
     压力测试 + 交付           :2026-07-18, 1d
 
@@ -85,16 +85,35 @@ gantt
 
 ## 🔵 进行中
 
-### Game Theory 系列 (Pilot) — 检索式提取
+### Game Theory 系列 (Pilot) — 四重验证 (Stage 1.5)
 
 ```
-阶段: Stage 1 — 检索式提取 (Retrieval-based Extraction)
-输入: 29 集原始 VTT 字幕（零压缩）
-方法: 以 7 路检索信号扫描全文 → 定位上下文 → 直接剪裁
-输出: candidates/ 目录（按提取器分组）
+阶段: Stage 1.5 — 四重验证 (Quadruple Verification)
+输入: candidates/ 目录（81+ 候选方法论）
+下一步: V1跨集 → V2预测力 → V3独特性 → V4体系兼容
+输出: verified.md + rejected/
 ```
 
-**即将开始**：7 个提取器并行运行，从完整字幕中检索方法论。
+**Stage 1 检索式提取已完成！** 成果总览：
+
+```
+E1 博弈模型  → 10 candidates  ✅
+E2 地缘法则  → 12 candidates  ✅
+E3 文明规律  → 12 candidates  ✅
+E4 宗教叙事  → 13 candidates  ✅
+E5 预测模型  → 15 candidates  ✅  ⭐ 最丰富
+E6 反例陷阱  →  8 candidates  ✅
+E7 术语词典  → 12 candidates  ✅
+───────────────────────────────
+总计:        81+ candidates
+```
+
+**高优先级候选（跨 3+ 集，有预测力，非常识）：**
+1. 三维社会动力模型（Cohesion-Openness-Energy）— 4集
+2. 末世汇聚法则 — 3集
+3. 帝国衰落三症候 — 2集（但极强预测力）
+4. 三重解释汇聚框架 — 2集（心理史学核心）
+5. 游戏重置与意识战争 — 多集
 
 #### 剧集清单（字幕已就绪）
 

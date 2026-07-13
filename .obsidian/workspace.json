@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodology/07-stage5-deliver.md",
+                "file": "extractors/01-game-theory-extractor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-stage5-deliver"
+              "title": "01-game-theory-extractor"
             }
           }
         ]
@@ -152,6 +152,14 @@
   },
   "active": "b2a60e7ba92a68b3",
   "lastOpenFiles": [
+    "extractors/02-geopolitics-extractor.md",
+    "extractors/07-glossary-extractor.md",
+    "extractors/06-failure-extractor.md",
+    "extractors/05-predictive-extractor.md",
+    "extractors/04-religion-extractor.md",
+    "extractors/03-civilization-extractor.md",
+    "extractors/01-game-theory-extractor.md",
+    "methodology/07-stage5-deliver.md",
     "methodology/06-stage4-pressure-test.md",
     "series/game-theory/transcripts/GT29-Final-Examination.md",
     "methodology/05-stage3-cross-series-link.md",
@@ -169,14 +177,6 @@
     "methodology/02-stage1-retrieval-extract.md",
     "series/game-theory/transcripts/GT19-The-Hollywood-Pentagon-Complex.md",
     "series/game-theory/transcripts/GT18-Trump-World-Order.md",
-    "series/game-theory/transcripts/GT17-The-Great-Reset.md",
-    "series/game-theory/transcripts/GT16-Pax-Judaica-Rising.md",
-    "series/game-theory/transcripts/GT15-The-Return-of-History.md",
-    "methodology/01-stage0-series-understand.md",
-    "series/game-theory/transcripts/GT14-The-Law-of-Proximity.md",
-    "series/game-theory/transcripts/GT13-Epsteins-World.md",
-    "series/game-theory/transcripts/GT12-The-Law-of-Eschatological-Convergence.md",
-    "methodology/00-overview.md",
-    "series/game-theory/transcripts/GT11-The-Law-of-Escalation.md"
+    "series/game-theory/transcripts/GT17-The-Great-Reset.md"
   ]
 }
