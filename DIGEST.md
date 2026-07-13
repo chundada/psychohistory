@@ -2,6 +2,12 @@
 
 > 基于 RIA-TV++ 管道从 29 集视频中提取的 43 个可复用 AI Skills + 9 个术语条目。
 > 来源：@PredictiveHistory YouTube 频道 · 蒸馏日期：2026-07-13
+>
+> **其他已完成系列：**
+> - Secret History（45 个技能）：`series/secret-history/_INDEX.md`
+> - Geo-Strategy（35 个技能）：`skills/gs-*.md`
+> - Interview（10 个技能）：`skills/interview-*.md`
+> - 完整项目进度（4 个系列 142 个技能）：`PROGRESS.md`
 > 
 > **一句话总结**：这不是一门"知识课"，而是一套可操作的思维操作系统——教会你在博弈论、地缘政治、文明分析和未来预测之间建立交叉验证的预测框架。
 

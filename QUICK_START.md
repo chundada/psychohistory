@@ -1,6 +1,6 @@
 # 🚀 Psychohistory 快速使用指南
 
-> Game Theory Pilot 已完成。这套技能拿来做什么、怎么用、遇到问题先查谁。
+> Game Theory Pilot 已完成。此外还有 Secret History（45 个）、Geo-Strategy（35 个）、Interview（10 个）三个系列，共 142 个技能。完整进度见 `PROGRESS.md`。
 
 ---
 

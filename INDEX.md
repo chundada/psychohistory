@@ -3,6 +3,12 @@
 > **Zettelkasten 风格技能总索引**  
 > 系列：`Game Theory` | 技能总数：**52**  
 > 生成日期：2026-07-13
+>
+> **其他系列索引：**
+> - Secret History（45 个技能）：`series/secret-history/_INDEX.md`
+> - Geo-Strategy（35 个技能）：`skills/gs-*.md`
+> - Interview（10 个技能）：`skills/interview-*.md`
+> - 完整项目进度：`PROGRESS.md`
 
 ---
 

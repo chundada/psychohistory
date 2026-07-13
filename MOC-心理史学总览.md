@@ -23,12 +23,13 @@ status: live
 
 | 指标 | 数据 |
 |------|------|
-| 系列总数 | **7 大系列** |
+| 系列总数 | **7 大系列 + 1 起源模块** |
 | 总剧集数 | **~160 集** |
 | 当前 Pilot | **Game Theory（29 集）** |
 | 方法论阶段 | **6 阶段蒸馏流水线** |
 | 提取器数量 | **7 路检索式提取器** |
 | 核心方法 | **检索式提取 v3.0** |
+| 起源技能 | **6 个元方法论 Skill** |
 
 ---
 
@@ -36,6 +37,7 @@ status: live
 
 | 笔记 | 说明 |
 |------|------|
+| [[series/psychohistory-origin/_INDEX\|Psychohistory Origin]] ⭐ | 项目起源与元方法论（6 个核心 Skill） |
 | [[MOC-系列目录]] | 所有 7 大系列的索引及状态 |
 | [[MOC-核心方法论]] | 6 阶段蒸馏流水线与 7 路提取器详解 |
 | [[MOC-Game-Theory]] | 当前 Pilot 系列入口（29 集） |
@@ -46,7 +48,7 @@ status: live
 
 ## 项目状态（2026-07-13）
 
-- **已完成**：架构设计、8 篇方法论文档、7 个提取器 Prompt、4 个模板、GitHub 仓库、Game Theory 29 集字幕下载
+- **已完成**：架构设计、8 篇方法论文档、7 个提取器 Prompt、4 个模板、GitHub 仓库、Game Theory 29 集字幕下载、**Psychohistory Origin 6 个核心元技能**
 - **进行中**：Phase 2 检索式提取（Pilot: Game Theory）
 - **待处理**：Civilization（59集）、Secret History（27集）、Geo-Strategy（19集）、Great Books（13集）、Dante（12集）、Geo-Strategy Updates（8集）
 
