@@ -25,8 +25,8 @@ gantt
     section Phase 2 - Pilot: Game Theory
     下载字幕/转录文本        :done, 2026-07-13, 1d
     ⭐ 检索式提取 (7路)     :done, 2026-07-13, 1d
-    四重验证 + 筛选          :active, 2026-07-15, 1d
-    RIA++ 构造 Skill         :2026-07-16, 2d
+    四重验证 + 筛选          :done, 2026-07-13, 1d
+    RIA++ 构造 Skill         :active, 2026-07-16, 2d
     压力测试 + 交付           :2026-07-18, 1d
 
     section Phase 3 - 扩展
@@ -85,35 +85,27 @@ gantt
 
 ## 🔵 进行中
 
-### Game Theory 系列 (Pilot) — 四重验证 (Stage 1.5)
+### Game Theory 系列 (Pilot) — RIA++ 构造 (Stage 2)
 
 ```
-阶段: Stage 1.5 — 四重验证 (Quadruple Verification)
-输入: candidates/ 目录（81+ 候选方法论）
-下一步: V1跨集 → V2预测力 → V3独特性 → V4体系兼容
-输出: verified.md + rejected/
+阶段: Stage 2 — RIA++ 构造
+输入: verified.md（52 个通过的候选）
+任务: R(原文引用) → I(方法论骨架) → A1(作者案例) → A2(触发场景) → E(执行步骤) → B(边界条件)
+输出: skills/ 目录下的 SKILL.md 文件
 ```
 
-**Stage 1 检索式提取已完成！** 成果总览：
+**Stage 1.5 四重验证已完成！** 验证结果：
 
 ```
-E1 博弈模型  → 10 candidates  ✅
-E2 地缘法则  → 12 candidates  ✅
-E3 文明规律  → 12 candidates  ✅
-E4 宗教叙事  → 13 candidates  ✅
-E5 预测模型  → 15 candidates  ✅  ⭐ 最丰富
-E6 反例陷阱  →  8 candidates  ✅
-E7 术语词典  → 12 candidates  ✅
-───────────────────────────────
-总计:        81+ candidates
+总候选: 81+
+PASS HIGH:   36  ⭐ 核心技能候选
+PASS MEDIUM: 14  扩展技能候选
+REJECT:       1  (V3 独特性)
+降级参考:     4  (无预测力)
+跨组合并:     3
 ```
 
-**高优先级候选（跨 3+ 集，有预测力，非常识）：**
-1. 三维社会动力模型（Cohesion-Openness-Energy）— 4集
-2. 末世汇聚法则 — 3集
-3. 帝国衰落三症候 — 2集（但极强预测力）
-4. 三重解释汇聚框架 — 2集（心理史学核心）
-5. 游戏重置与意识战争 — 多集
+**下一阶段目标**：将 36 个 HIGH 优先级候选 + 9 个术语条目逐一构造为 RIA++ 格式的 SKILL.md 文件。
 
 #### 剧集清单（字幕已就绪）
 
