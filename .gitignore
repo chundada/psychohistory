@@ -1,21 +1,16 @@
 # 心理史学 Psychohistory - .gitignore
 
-# 转录文本（大文件，用 Git LFS 或排除）
-series/*/transcripts/*
-!series/*/transcripts/.gitkeep
-
-# 音频文件
+# 音频文件（大，不纳入版本控制）
 *.wav
 *.mp3
 *.m4a
 *.webm
 *.flac
+*.aac
+*.ogg
 
-# 字幕文件（原始）
-*.vtt
-*.srt
-*.sbv
-*.ttml
+# 字幕文件保留在版本控制中（它们是纯文本，是我们工作的基础素材）
+# 不排除 *.vtt *.srt *.sbv *.ttml
 
 # 临时文件
 *~
@@ -27,3 +22,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.sublime-*
+
+# Python缓存
+__pycache__/
+*.pyc
