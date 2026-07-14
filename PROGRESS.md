@@ -5,7 +5,7 @@ type: "progress"
 
 # 📊 Psychohistory - 项目进度追踪
 
-> 最后更新: 2026-07-14 (v8.0 Civilization 系列)
+> 最后更新: 2026-07-14 (v9.0 七层汇聚验证框架)
 > ✅ 已完成 6 个系列 · 共 199 个技能文件
 
 ---
@@ -171,6 +171,7 @@ gantt
 
 | 版本 | 日期 | 变更 |
 |------|------|------|
+| **v9.0** | 2026-07-14 | 新增七层汇聚验证框架（Stage 6）：methodology/08-stage6-convergence-verify.md。升级PSYCHOHISTORY_SYSTEM_PROMPT.md核心方法，更新QUICK_START.md工作流，同步所有MOC文档。方法论版本：检索式提取 v9.0 |
 | **v8.0** | 2026-07-14 | Civilization 系列完成 — 62 集字幕下载、Stage 0-3 全流程、50 个 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*），总技能数 149→199 |
 | **v7.0** | 2026-07-14 | 文档全面修复：README 重写为 Wikipedia 风格、统计数据同步至 149/5 系列、补充 LICENSE、修复 CONTINUE_FOR_AI/MOC 所有滞后内容 |
 | **v6.0** | 2026-07-13 | 全面修复：同步全部技能到根目录（149个）、重写INDEX.md覆盖全系列、修复PROGRESS.md数字、新增Origin系列记录和实战案例模块 |

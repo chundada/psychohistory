@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v8.0 — 检索式提取（Retrieval-based Extraction）
+**方法论版本**：v9.0 — 检索式提取 + 七层汇聚验证（Convergence Verification）
 
 ---
 
@@ -32,7 +32,8 @@ Psychohistory/
 │   ├── 04-stage2-ria-plus.md
 │   ├── 05-stage3-cross-series-link.md
 │   ├── 06-stage4-pressure-test.md
-│   └── 07-stage5-deliver.md
+│   ├── 07-stage5-deliver.md
+│   └── 08-stage6-convergence-verify.md     # ⭐ v9.0 核心：七层汇聚验证
 │
 ├── extractors/                       # 7 路检索式提取器 Prompt
 │   ├── 01-game-theory-extractor.md
