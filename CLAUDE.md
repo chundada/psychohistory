@@ -18,14 +18,14 @@
 | 位置 | 内容 |
 |---|---|
 | `skills/gt-*.md` | Game Theory 系列（52 个，RIA++ 六段格式） |
-| `skills/sh-*.md` | Secret History 系列（45 个，RIA 四段格式） |
+| `skills/sh-*.md` | Secret History 系列（46 个，RIA 四段格式） |
 | `skills/interview-*.md` | Interview 系列（10 个，RIA 格式） |
 | `skills/gs-*.md` | Geo-Strategy 系列（35 个，RIA 四段格式） |
 | `series/secret-history/skills/sh-*.md` | Secret History 原始位置（与 skills/ 同步） |
 
 ## 关键文件
 - `SPEC.md` — 设计规范
-- `PROGRESS.md` — 进度追踪（4 个系列 142 个技能已完成）
+- `PROGRESS.md` — 进度追踪（5 个系列 149 个技能已完成）
 - `PSYCHOHISTORY_SYSTEM_PROMPT.md` — ⭐ 完整的 Persona 激活提示
 - `QUICK_START.md` — 场景→技能速查表
 - `INDEX.md` — 触发场景索引（Game Theory 系列）

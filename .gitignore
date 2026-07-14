@@ -26,3 +26,20 @@ Thumbs.db
 # Python缓存
 __pycache__/
 *.pyc
+
+# Obsidian 个人工作区配置（库配置保留，工作区状态排除）
+.obsidian/workspace*.json
+.obsidian/graph.json
+
+# Cursor / Trae AI 工具配置
+.cursorrules
+.cursor/
+.claude/
+
+# 本地临时/缓存文件
+*.canvas
+.trae-html-share-packages/
+
+# 中间数据文件
+intermediate_data.json
+extraction_summary.json

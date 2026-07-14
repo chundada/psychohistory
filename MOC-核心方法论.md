@@ -24,7 +24,7 @@ status: live
 
 | 文件 | 说明 |
 |------|------|
-| [[methodology/00-overview.md]] | 全景概览（v3.0） |
+| [[methodology/00-overview.md]] | 全景概览（v7.0） |
 | [[methodology/01-stage0-series-understand.md]] | 列出剧集、分组主题弧、识别核心论点 |
 
 ### Stage 1: ⭐ 检索式提取（Retrieval-based Extraction）

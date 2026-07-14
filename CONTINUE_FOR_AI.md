@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v6.0 — 检索式提取（Retrieval-based Extraction）
+**方法论版本**：v7.0 — 检索式提取（Retrieval-based Extraction）
 
 ---
 
