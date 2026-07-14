@@ -44,6 +44,8 @@
 
 本项目将这一理念工程化：不建模数学公式，而是将涵盖 **博弈论、地缘政治、文明规律、宗教叙事** 四大领域的知识体系蒸馏为 **199 个结构化、可复用的 AI Skill 文件**，供 AI 直接调用。
 
+> **方法论版本 v9.0** · 核心分析方法：**七层汇聚验证**（Seven-Layer Convergence Verification）——将 7+1 个独立分析框架汇聚对比，通过汇聚度评分提升预测置信度。详见 `methodology/08-stage6-convergence-verify.md`。
+
 <br>
 
 ```mermaid

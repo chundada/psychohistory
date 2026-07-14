@@ -13,6 +13,8 @@ Psychohistory distills analytical frameworks spanning game theory, geopolitics, 
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
+> **Methodology v9.0** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/08-stage6-convergence-verify.md`.
+
 ---
 
 ## What This Project Produces
@@ -114,12 +116,12 @@ Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automati
 Psychohistory/
 ├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
 ├── skills/                            ⬅ 199 structured Skill files
-│   ├── ph-origin-*.md                 Psychohistory Origin series
-│   ├── gt-*.md                        Game Theory series
-│   ├── sh-*.md                        Secret History series
-│   ├── gs-*.md                        Geo-Strategy series
-│   ├── interview-*.md                 Interview series
-│   └── civ-*.md                       Civilization series
+│   ├── ph-origin-*.md                 Psychohistory Origin (6)
+│   ├── gt-*.md                        Game Theory (52)
+│   ├── sh-*.md                        Secret History (46)
+│   ├── gs-*.md                        Geo-Strategy (35)
+│   ├── interview-*.md                 Interview (10)
+│   └── civ-*.md                       Civilization (50)
 ├── cases/                             ⬅ Case studies (multi-framework demonstrations)
 ├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
 ├── DIGEST.md                          ⬅ Curated reading
@@ -133,7 +135,8 @@ Psychohistory/
 │   ├── game-theory/
 │   ├── geo-strategy/
 │   ├── secret-history/
-│   └── interview-jang-letstalk/
+│   ├── interview-jang-letstalk/
+│   └── civilization/
 └── SPEC.md                            ⬅ Design specification
 ```
 
