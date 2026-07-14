@@ -1,6 +1,6 @@
 # 心理史学 · Psychohistory — 知识蒸馏框架
 
-> 将 [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) YouTube 频道的博弈论、地缘政治、文明规律与宗教叙事知识蒸馏为 AI 可调用的结构化方法论体系。
+> 将博弈论、地缘政治、文明规律与宗教叙事知识蒸馏为 AI 可调用的结构化方法论体系。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Skills: 149](https://img.shields.io/badge/技能-149-brightgreen)]()
@@ -13,7 +13,7 @@
 
 心理史学（Psychohistory）是 Isaac Asimov 在《基地》系列中提出的虚构科学，揉合历史学、数学、社会心理学、社会学与统计学，用于预测巨大人口的未来活动。Asimov 借鉴热力学原理：单个粒子运动不可描述，但大量粒子的运动可以精确描述——当人口以百兆计时，人类社会动向可通过统计科学预知。
 
-本项目以 Asimov 的理念为灵感，但实践路径不同：不建模数学公式，而是将 [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) 频道 160+ 小时的授课内容——涵盖博弈论、地缘政治、文明规律、宗教叙事四大领域——蒸馏为 **149 个结构化、可复用的 AI Skill 文件**。每个 Skill 遵循 RIA/RIA++ 格式，包含原文引用、方法论解读、应用场景与边界条件，供 AI 直接调用。
+本项目以 Asimov 的理念为灵感，但实践路径不同：不建模数学公式，而是将涵盖博弈论、地缘政治、文明规律、宗教叙事四大领域的知识蒸馏为 **149 个结构化、可复用的 AI Skill 文件**。每个 Skill 遵循 RIA/RIA++ 格式，包含原文引用、方法论解读、应用场景与边界条件，供 AI 直接调用。
 
 核心前提：历史预测不是占卜。它是一种**多框架交叉验证方法**，基于可识别的结构模式、明确的边界条件和可证伪的逻辑链条。
 

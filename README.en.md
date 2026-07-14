@@ -9,7 +9,7 @@
 
 ## Overview
 
-Psychohistory distills the analytical frameworks from [@PredictiveHistory](https://www.youtube.com/@PredictiveHistory) — a 160+ hour lecture series spanning game theory, geopolitics, civilization cycles, and religious narrative analysis — into **142 structured, reusable Skill files** that any AI can invoke.
+Psychohistory distills analytical frameworks spanning game theory, geopolitics, civilization cycles, and religious narrative analysis into **142 structured, reusable Skill files** that any AI can invoke.
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
