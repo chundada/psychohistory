@@ -131,3 +131,24 @@ status: live
 - [[MOC-Game-Theory]]
 - [[SPEC.md]]
 - [[PROGRESS.md]]
+
+---
+
+## 📊 当前产出
+
+| 系列 | 前缀 | 技能数 | 格式 |
+|:-----|:-----|:------:|:----:|
+| Psychohistory Origin | `ph-origin-*` | 6 | RIA 四段 |
+| Game Theory | `gt-*` | 52 | RIA++ 六段 |
+| Secret History | `sh-*` | 46 | RIA 四段 |
+| Geo-Strategy | `gs-*` | 35 | RIA 四段 |
+| Interview | `interview-*` | 10 | RIA 四段 |
+| Civilization | `civ-*` | 50 | RIA 四段 |
+| **合计** | | **199** | |
+
+## ⏳ 待处理
+
+| 系列 | 集数 | 预计 Skills |
+|:-----|:----:|:-----------:|
+| Great Books | 13 | 8-12 |
+| Dante | 12 | 8-10 |
