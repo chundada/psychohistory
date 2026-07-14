@@ -8,7 +8,7 @@ status: live
 # MOC - 系列目录
 
 > 心理史学项目涵盖 7 大系列，总计约 160 集。
-> 已完成 5 个系列（Origin + GT + SH + GS + Interview），共 149 个 Skill。
+> 已完成 6 个系列（Origin + GT + SH + GS + Interview + Civilization），共 199 个 Skill。
 
 ---
 
@@ -18,7 +18,7 @@ status: live
 |---|------|------|--------|----------|----------|
 | 0 | [[series/psychohistory-origin/_INDEX\|Psychohistory Origin]] ⭐ | **1** | ~1.2h | 心理史学定义、方法论、哲学根基 | **已完成**（6 Skill） |
 | 1 | [[MOC-Game-Theory\|Game Theory]] | **29** | ~15h | 博弈论、地缘政治、AI、预测 | **已完成**（52 Skill） |
-| 2 | Civilization | **59** | ~60h | 文明演进、社会规律、宗教 | 待处理 |
+| 2 | Civilization | **62** | ~60h | 文明演进、社会规律、宗教 | **已完成**（50 Skill） |
 | 3 | Secret History | **28** | ~25h | 宗教哲学、权力、历史深层逻辑 | **已完成**（46 Skill） |
 | 4 | Geo-Strategy | **11+8** | ~8h | 地缘战略、时局、预测 | **已完成**（35 Skill） |
 | 5 | Great Books | **13** | ~5h | 经典文本、思想史 | 待处理 |
@@ -52,10 +52,10 @@ status: live
 - **状态**：[[MOC-Game-Theory]] — 已完成，52 个 Skill（RIA++ 六段格式）
 
 ### Civilization
-- **集数**：59 集
+- **集数**：62 集（59 集正传 + END + BONUS）
 - **时长**：约 60 小时
-- **核心话题**：文明兴衰、精英过剩、制度僵化、Asabiyyah、人口转型
-- **状态**：待处理（⭐⭐⭐ 最高优先级）
+- **核心话题**：文明兴衰、精英过剩、制度僵化、Asabiyyah、人口转型、宗教叙事、文学考古学
+- **状态**：已完成，50 个 Skill（RIA 四段格式），位于 `skills/civ-*.md`
 
 ### Secret History
 - **集数**：28 集
@@ -90,8 +90,8 @@ status: live
 ## 扩展路线
 
 ```
-✅ Game Theory → ✅ Secret History → ✅ Geo-Strategy → ✅ Interview → ✅ Origin
-⏳ Civilization (59集, 最高优先) → Great Books (13集) → Dante (12集)
+✅ Game Theory → ✅ Secret History → ✅ Geo-Strategy → ✅ Interview → ✅ Origin → ✅ Civilization
+⏳ Great Books (13集) → Dante (12集)
   → 新视频持续注入（按系列归入 → 检索式增量提取 → 重新链接）
 ```
 

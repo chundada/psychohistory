@@ -5,8 +5,8 @@ type: "progress"
 
 # 📊 Psychohistory - 项目进度追踪
 
-> 最后更新: 2026-07-14 (v7.0 文档修复)
-> ✅ 已完成 5 个系列 · 共 149 个技能文件
+> 最后更新: 2026-07-14 (v8.0 Civilization 系列)
+> ✅ 已完成 6 个系列 · 共 199 个技能文件
 
 ---
 
@@ -46,8 +46,14 @@ gantt
     检索式提取               :done, 2026-07-13, 1d
     RIA 构造 (10 Skills)     :done, 2026-07-13, 1d
 
-    section Phase 6 - 扩展 (待处理)
-    Civilization 系列(59集)  :2026-07-20, 7d
+    section Phase 6 - Civilization ✅
+    下载字幕 (62集)          :done, 2026-07-14, 1d
+    Stage 0 系列理解         :done, 2026-07-14, 1d
+    Stage 1 检索式提取       :done, 2026-07-14, 1d
+    Stage 2 RIA 构造 (50)    :done, 2026-07-14, 1d
+    Stage 3 交付             :done, 2026-07-14, 1d
+
+    section Phase 7 - 后续 (待处理)
     Great Books 系列(13集)   :2026-07-27, 3d
     Dante 系列(12集)         :2026-08-01, 3d
 ```
@@ -108,6 +114,17 @@ gantt
 | 蒸馏 | **10 个 SKILL.md**，RIA 格式 | ✅ |
 | 技能位置 | `skills/interview-*.md`（已同步到根目录） | ✅ |
 
+### 📜 Series 5: Civilization — 62 集 ✅
+
+| 阶段 | 产出 | 状态 |
+|---|---|---|
+| 下载字幕 | 62 个 VTT 文件（1 个私密视频跳过） | ✅ |
+| Stage 0 系列理解 | SERIES_OVERVIEW.md（12 个主题弧） | ✅ |
+| Stage 1 检索式提取 | 7 路提取器 → 26,057 匹配 → 50 候选 | ✅ |
+| Stage 2 RIA 构造 | **50 个 SKILL.md**（civ-civ-*/civ-rel-*/civ-pred-*） | ✅ |
+| Stage 3 交付 | _INDEX.md + 文档更新 | ✅ |
+| 技能位置 | `skills/civ-*.md`（已同步到 series/civilization/skills/） | ✅ |
+
 ### 📦 技能汇总
 
 | 系列 | 前缀 | 数量 | 位置 | 格式 |
@@ -117,7 +134,8 @@ gantt
 | Secret History | `sh-` | 46 | `skills/` | RIA 四段 |
 | Geo-Strategy | `gs-` | 35 | `skills/` | RIA 四段 |
 | Interview | `interview-` | 10 | `skills/` | RIA 四段 |
-| **合计** | | **149** | | |
+| Civilization | `civ-` | 50 | `skills/` | RIA 四段 |
+| **合计** | | **199** | | |
 
 ### 🧪 实战案例
 
@@ -144,8 +162,7 @@ gantt
 
 | 系列 | 集数 | 预计 Skills | 优先级 |
 |---|---|---|---|
-| 📜 **Civilization** | **59** | 25-35 | ⭐⭐⭐ 最高 |
-| 📚 **Great Books** | **13** | 8-12 | ⭐⭐ |
+| 📚 **Great Books** | **13** | 8-12 | ⭐⭐ 最高 |
 | 🔥 **Dante** | **12** | 8-10 | ⭐ |
 
 ---
@@ -154,6 +171,7 @@ gantt
 
 | 版本 | 日期 | 变更 |
 |------|------|------|
+| **v8.0** | 2026-07-14 | Civilization 系列完成 — 62 集字幕下载、Stage 0-3 全流程、50 个 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*），总技能数 149→199 |
 | **v7.0** | 2026-07-14 | 文档全面修复：README 重写为 Wikipedia 风格、统计数据同步至 149/5 系列、补充 LICENSE、修复 CONTINUE_FOR_AI/MOC 所有滞后内容 |
 | **v6.0** | 2026-07-13 | 全面修复：同步全部技能到根目录（149个）、重写INDEX.md覆盖全系列、修复PROGRESS.md数字、新增Origin系列记录和实战案例模块 |
 | **v5.0** | 2026-07-13 | 全面审计：更新项目状态反映 4 个系列 142 个技能已完成 |

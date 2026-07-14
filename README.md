@@ -28,8 +28,8 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="MIT License"></a>
-  <a href="skills/"><img src="https://img.shields.io/badge/Skills-149-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="149 Skills"></a>
-  <a href="series/"><img src="https://img.shields.io/badge/Series-5-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="5 Series"></a>
+  <a href="skills/"><img src="https://img.shields.io/badge/Skills-199-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="199 Skills"></a>
+  <a href="series/"><img src="https://img.shields.io/badge/Series-6-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="6 Series"></a>
   <a href="PROGRESS.md"><img src="https://img.shields.io/badge/Status-Active-00d4aa?style=for-the-badge&labelColor=0a0a0f" alt="Active"></a>
   <a href="https://github.com/chundada/psychohistory"><img src="https://img.shields.io/github/stars/chundada/psychohistory?style=for-the-badge&labelColor=0a0a0f&color=00d4aa" alt="Stars"></a>
 </p>
@@ -42,7 +42,7 @@
 
 **心理史学（Psychohistory）** 是 Isaac Asimov 在《基地》系列中提出的虚构科学——揉合历史学、数学、社会心理学、社会学与统计学，用于预测巨大人口的未来活动。Asimov 借鉴热力学原理：单个粒子的运动不可描述，但大量粒子的运动可以精确描述。
 
-本项目将这一理念工程化：不建模数学公式，而是将涵盖 **博弈论、地缘政治、文明规律、宗教叙事** 四大领域的知识体系蒸馏为 **149 个结构化、可复用的 AI Skill 文件**，供 AI 直接调用。
+本项目将这一理念工程化：不建模数学公式，而是将涵盖 **博弈论、地缘政治、文明规律、宗教叙事** 四大领域的知识体系蒸馏为 **199 个结构化、可复用的 AI Skill 文件**，供 AI 直接调用。
 
 <br>
 
@@ -106,7 +106,7 @@ mindmap
 │  RIA/RIA++ 构造 ──── R(原文)→I(方法论)→A(案例)→E(步骤)→B(边界) │
 │        │                                                         │
 │        ▼                                                         │
-│  skills/ 目录 ──── 149 个可调用 Skill 文件                        │
+│  skills/ 目录 ──── 199 个可调用 Skill 文件                        │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -132,7 +132,7 @@ mindmap
 ## 系列分布
 
 <p align="center">
-  <strong>已完成 5 个系列 · 149 个 Skill · 持续扩张中</strong>
+  <strong>已完成 6 个系列 · 199 个 Skill · 持续扩张中</strong>
 </p>
 
 | 系列 | 来源 | 技能数 | 格式 | 路径 |
@@ -142,13 +142,13 @@ mindmap
 | 📜 Secret History | 28 集 | 46 | RIA 四段 | `skills/sh-*.md` |
 | 🗺️ Geo-Strategy | 19 集 | 35 | RIA 四段 | `skills/gs-*.md` |
 | 🎙️ Interview | — | 10 | RIA 四段 | `skills/interview-*.md` |
-| **合计** | **~76 集** | **149** | | |
+| 🌍 Civilization | 62 集 | 50 | RIA 四段 | `skills/civ-*.md` |
+| **合计** | **~138 集** | **199** | | |
 
 ### 待处理
 
 | 系列 | 集数 | 预计技能数 | 优先级 |
 |:-----|:-----|:-----------|:-------|
-| 🌍 Civilization | 59 | 25-35 | ⭐⭐⭐ |
 | 📚 Great Books | 13 | 8-12 | ⭐⭐ |
 | 🔥 Dante | 12 | 8-10 | ⭐ |
 
@@ -160,7 +160,7 @@ mindmap
 
 | 交付物 | 说明 |
 |:-------|:-----|
-| **149 个 Skill 文件** | 结构化分析框架，RIA/RIA++ 格式，原文引用+方法论+边界条件 |
+| **199 个 Skill 文件** | 结构化分析框架，RIA/RIA++ 格式，原文引用+方法论+边界条件 |
 | **PSYCHOHISTORY_SYSTEM_PROMPT.md** | 完整角色激活提示——粘贴到任意 AI 中即刻激活心理史学家身份 |
 | **QUICK_START.md** | 场景→技能速查表（22 个场景映射到推荐技能组合） |
 | **INDEX.md** | Zettelkasten 风格全局索引，含触发场景关键词和术语表 |
@@ -212,12 +212,13 @@ Step 6: 校准偏见       → 7 个 Failure Mode Skills
 ```
 Psychohistory/
 ├── PSYCHOHISTORY_SYSTEM_PROMPT.md   角色激活提示
-├── skills/                           149 个结构化 Skill 文件
+├── skills/                           199 个结构化 Skill 文件
 │   ├── ph-origin-*.md                Psychohistory Origin（6）
 │   ├── gt-*.md                       Game Theory（52）
 │   ├── sh-*.md                       Secret History（46）
 │   ├── gs-*.md                       Geo-Strategy（35）
-│   └── interview-*.md                Interview（10）
+│   ├── interview-*.md                Interview（10）
+│   └── civ-*.md                      Civilization（50）
 ├── cases/                            实战分析案例
 ├── QUICK_START.md                    场景→技能速查表
 ├── DIGEST.md                         精华阅读
@@ -232,7 +233,8 @@ Psychohistory/
 │   ├── game-theory/
 │   ├── geo-strategy/
 │   ├── secret-history/
-│   └── interview-jang-letstalk/
+│   ├── interview-jang-letstalk/
+│   └── civilization/
 ├── SPEC.md                           设计规范
 ├── MOC-心理史学总览.md               Obsidian 图谱入口
 ├── MOC-系列目录.md                   系列索引
@@ -261,7 +263,7 @@ Psychohistory/
 ---
 
 <p align="center">
-  <strong>149 个心理史学模型 · 5 个系列 · 持续扩张中</strong><br><br>
+  <strong>199 个心理史学模型 · 6 个系列 · 持续扩张中</strong><br><br>
   <em>「预测的目的不是为了预见未来——而是让未来变得更好。」</em><br><br>
   <sub>— Isaac Asimov, Foundation</sub>
 </p>

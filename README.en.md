@@ -1,15 +1,15 @@
 # Psychohistory — A Knowledge Distillation Framework for Predictive Historical Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills: 149](https://img.shields.io/badge/Skills-149-brightgreen)]()
-[![Series: 5](https://img.shields.io/badge/Series-5-blue)]()
+[![Skills: 199](https://img.shields.io/badge/Skills-199-brightgreen)]()
+[![Series: 6](https://img.shields.io/badge/Series-6-blue)]()
 [![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
 
 ---
 
 ## Overview
 
-Psychohistory distills analytical frameworks spanning game theory, geopolitics, civilization cycles, and religious narrative analysis into **149 structured, reusable Skill files** that any AI can invoke.
+Psychohistory distills analytical frameworks spanning game theory, geopolitics, civilization cycles, and religious narrative analysis into **199 structured, reusable Skill files** that any AI can invoke.
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
@@ -19,7 +19,7 @@ The core premise: historical prediction is not fortune-telling. It is a **multi-
 
 | Deliverable | Description |
 |---|---|
-| **149 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
+| **199 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
 | **PSYCHOHISTORY_SYSTEM_PROMPT.md** | Complete persona activation prompt — paste into any AI to instantiate the analyst role |
 | **QUICK_START.md** | Scenario-to-skill lookup table (22 scenarios mapped to recommended skill combinations) |
 | **INDEX.md** | Zettelkasten-style skill index with trigger scenarios |
@@ -52,7 +52,7 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 
 ## Current Status
 
-**5 series completed · 149 Skill files · ~75% of total lecture content processed**
+**6 series completed · 199 Skill files · ~85% of total lecture content processed**
 
 | Series | Episodes | Skills | Format | Location |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 | Secret History | 28 | 46 | RIA (R/I/A/B) | `skills/sh-*.md` |
 | Geo-Strategy | 19 | 35 | RIA (R/I/A/B) | `skills/gs-*.md` |
 | Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
+| Civilization | 62 | 50 | RIA (R/I/A/B) | `skills/civ-*.md` |
 | **Pending** | | | | |
-| Civilization | 59 | ~35-45 expected | — | — |
 | Great Books | 13 | — | — | — |
 | Dante | 12 | — | — | — |
 
@@ -113,12 +113,13 @@ Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automati
 ```
 Psychohistory/
 ├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
-├── skills/                            ⬅ 149 structured Skill files
+├── skills/                            ⬅ 199 structured Skill files
 │   ├── ph-origin-*.md                 Psychohistory Origin series
 │   ├── gt-*.md                        Game Theory series
 │   ├── sh-*.md                        Secret History series
 │   ├── gs-*.md                        Geo-Strategy series
-│   └── interview-*.md                 Interview series
+│   ├── interview-*.md                 Interview series
+│   └── civ-*.md                       Civilization series
 ├── cases/                             ⬅ Case studies (multi-framework demonstrations)
 ├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
 ├── DIGEST.md                          ⬅ Curated reading
@@ -145,6 +146,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  149 psychohistorical models · 5 series · actively expanding<br/>
+  199 psychohistorical models · 6 series · actively expanding<br/>
   <em>"The purpose of prediction is not to foresee the future — but to make it better."</em>
 </p>

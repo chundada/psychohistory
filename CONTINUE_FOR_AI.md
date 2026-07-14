@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v7.0 — 检索式提取（Retrieval-based Extraction）
+**方法论版本**：v8.0 — 检索式提取（Retrieval-based Extraction）
 
 ---
 
@@ -50,9 +50,10 @@ Psychohistory/
 │   ├── game-theory/                  # Game Theory 系列 — 52 个 Skill（Pilot）
 │   ├── secret-history/               # Secret History 系列 — 46 个 Skill
 │   ├── geo-strategy/                 # Geo-Strategy 系列 — 35 个 Skill
-│   └── interview-jang-letstalk/      # Interview 系列 — 10 个 Skill
+│   ├── interview-jang-letstalk/      # Interview 系列 — 10 个 Skill
+│   └── civilization/                 # Civilization 系列 — 50 个 Skill（62 集）
 │
-├── skills/                           # 已发布的跨系列 Skills（149 个）
+├── skills/                           # 已发布的跨系列 Skills（199 个）
 │
 ├── MOC-心理史学总览.md                # Obsidian 图谱入口
 ├── MOC-系列目录.md                    # 系列索引
@@ -62,7 +63,7 @@ Psychohistory/
 
 ---
 
-## ✅ 已完成：5 个系列 · 149 个 Skill
+## ✅ 已完成：6 个系列 · 199 个 Skill
 
 ### Series 0: Psychohistory Origin（6 个 Skill）
 
@@ -119,6 +120,16 @@ Psychohistory/
 产出: 10 个 RIA 格式 SKILL.md
 ```
 
+### Series 5: Civilization（50 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 50 个 RIA 格式 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*）
+      源数据: 62 集字幕（59 集正传 + END + BONUS + 57 重传）
+      12 个主题弧（从农业革命到美国帝国衰落）
+      7 路提取器 → 26,057 匹配 → 50 候选 → 50 SKILL.md
+```
+
 ---
 
 ## ✅ 已完成的工作
@@ -138,16 +149,15 @@ Psychohistory/
 
 ### 优先级
 
-1. **📜 Civilization 系列**（59 集，~60h）— 最高优先，需要先下载字幕
-2. **📚 Great Books**（13 集）
-3. **🔥 Dante**（12 集）
+1. **📚 Great Books**（13 集）— 最高优先
+2. **🔥 Dante**（12 集）
 
 ### 执行流程
 
 ```bash
-# 1. 下载 Civilization 系列字幕
+# 1. 下载新系列字幕（以 Great Books 为例）
 python -m yt_dlp --write-auto-subs --sub-langs "en" --skip-download \
-  -o "series/civilization/transcripts/%(title)s.%(ext)s" \
+  -o "series/great-books/transcripts/%(title)s.%(ext)s" \
   "https://www.youtube.com/playlist?list=..."
 
 # 2. 依次执行 Stage 0 → 1 → 1.5 → 2 → 交付

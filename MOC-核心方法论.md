@@ -14,7 +14,7 @@ status: live
 
 本项目的方法论经历了两次迭代：
 - **v2.0**：两阶段摘要提取（旧方案 —— 1000:1 压缩导致质量损失严重）
-- **v3.0（当前）**：**检索式提取**（新方案 —— 零压缩，信号检索 + 上下文剪裁）
+- **v8.0（当前）**：**检索式提取**（零压缩，信号检索 + 上下文剪裁，6 系列 199 Skill 完成）
 
 ---
 
@@ -24,7 +24,7 @@ status: live
 
 | 文件 | 说明 |
 |------|------|
-| [[methodology/00-overview.md]] | 全景概览（v7.0） |
+| [[methodology/00-overview.md]] | 全景概览（v8.0） |
 | [[methodology/01-stage0-series-understand.md]] | 列出剧集、分组主题弧、识别核心论点 |
 
 ### Stage 1: ⭐ 检索式提取（Retrieval-based Extraction）
