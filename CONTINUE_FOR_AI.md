@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v3.0 — 检索式提取（Retrieval-based Extraction）
+**方法论版本**：v6.0 — 检索式提取（Retrieval-based Extraction）
 
 ---
 
@@ -45,24 +45,33 @@ Psychohistory/
 │
 ├── templates/                        # 输出模板
 │
-├── series/                           # 各系列源数据
-│   └── game-theory/                  # 当前 Pilot
-│       ├── transcripts/              # VTT + Markdown 格式字幕
-│       ├── candidates/               # 检索式提取结果存放处
-│       ├── rejected/                 # 四重验证淘汰
-│       └── skills/                   # RIA++ 构建后的 Skill 产出
+├── series/                           # 各系列源数据（已全部完成蒸馏）
+│   ├── psychohistory-origin/         # Origin 系列 — 6 个元方法论 Skill
+│   ├── game-theory/                  # Game Theory 系列 — 52 个 Skill（Pilot）
+│   ├── secret-history/               # Secret History 系列 — 46 个 Skill
+│   ├── geo-strategy/                 # Geo-Strategy 系列 — 35 个 Skill
+│   └── interview-jang-letstalk/      # Interview 系列 — 10 个 Skill
 │
-├── skills/                           # 已发布的跨系列 Skills
+├── skills/                           # 已发布的跨系列 Skills（149 个）
 │
 ├── MOC-心理史学总览.md                # Obsidian 图谱入口
 ├── MOC-系列目录.md                    # 系列索引
 ├── MOC-核心方法论.md                   # 方法论索引
-└── MOC-Game-Theory.md                # Pilot 入口
+└── MOC-Game-Theory.md                # Game Theory 入口
 ```
 
 ---
 
-## ✅ Game Theory Pilot — 全部完成
+## ✅ 已完成：5 个系列 · 149 个 Skill
+
+### Series 0: Psychohistory Origin（6 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 6 个 RIA 格式 SKILL.md（心理史学三要素、精英过剩崩溃模型、AI 局限性、未来想象、第二基地、崩溃窗口）
+```
+
+### Series 1: Game Theory — Pilot（52 个 Skill）
 
 ```
 状态: ✅ 全部完成（共 6 个阶段）
@@ -70,17 +79,17 @@ Psychohistory/
       产出: 52 个可调用的 Skill
 ```
 
-### 最终产出
+#### 最终产出
 
 | 交付物 | 说明 |
 |---|---|
-| `skills/` | 52 个 RIA++ 格式 SKILL.md（含 R/I/A1/A2/E/B 六段） |
+| `skills/gt-*.md` | 52 个 RIA++ 格式 SKILL.md（含 R/I/A1/A2/E/B 六段） |
 | `INDEX.md` | 按触发场景索引 + 技能总览 + 术语表 |
 | `DIGEST.md` | 精华长文（10,000 字，必读） |
 | `QUICK_START.md` | 场景→技能速查表（遇到问题查这个） |
 | `_install_skills.ps1` | 一键安装到 `~/.claude/skills/Psychohistory/` |
 
-### 经验总结（对后续系列）
+#### 经验总结（对后续系列）
 
 | 学到的教训 | 后续改进 |
 |---|---|
@@ -89,17 +98,39 @@ Psychohistory/
 | Zettelkasten Mermaid 图好看无用 | 跳过，INDEX 场景索引更有用 |
 | E5 预测模型最丰富（12 个 HIGH） | 后续系列优先投给预测信号 |
 
+### Series 2: Secret History（46 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 46 个 RIA 格式 SKILL.md（R/I/A/B 四段）
+```
+
+### Series 3: Geo-Strategy（35 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 35 个 RIA 格式 SKILL.md（R/I/A/B 四段）
+```
+
+### Series 4: Interview（10 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 10 个 RIA 格式 SKILL.md
+```
+
 ---
 
 ## ✅ 已完成的工作
 
 | Git 提交 | 内容 |
 |----------|------|
-| `d824bb2` | 📝 Stage 2: 52 个 RIA++ Skill 文件 |
-| `fa70e42` | ✅ Stage 1.5: 四重验证完成 |
-| `461c508` | 🔬 Stage 1: 7 路检索式提取 → 81+ 候选 |
-| `7f8d8a1` | 📦 Obsidian 库 + AI 接手文档 |
-| `e0aeafe` | 🎯 v3.0 检索式提取方法论 |
+| 最新 | v6.0 全面修复：同步全部技能到根目录（149个）、重写INDEX.md覆盖全系列、修复文档统计数据 |
+| 前期 | Stage 2: 52 个 RIA++ Skill 文件 |
+| 前期 | Stage 1.5: 四重验证完成 |
+| 前期 | Stage 1: 7 路检索式提取 → 81+ 候选 |
+| 前期 | Obsidian 库 + AI 接手文档 |
+| 前期 | v3.0 检索式提取方法论 |
 
 ---
 
@@ -108,8 +139,8 @@ Psychohistory/
 ### 优先级
 
 1. **📜 Civilization 系列**（59 集，~60h）— 最高优先，需要先下载字幕
-2. **🔮 Secret History**（27 集，~25h）
-3. 其余系列见 `PROGRESS.md`
+2. **📚 Great Books**（13 集）
+3. **🔥 Dante**（12 集）
 
 ### 执行流程
 
