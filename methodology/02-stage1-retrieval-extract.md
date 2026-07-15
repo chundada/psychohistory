@@ -193,16 +193,21 @@ GT10-The-Law-of-Asymmetry.vtt → 00:12:30 - 00:18:45
 | turning point, inflection, tipping | 拐点识别 |
 | inevitable, certain, guaranteed | 确定性断言 |
 
-### E6：反例陷阱提取器
+### E6：经济金融模式提取器（v4.2 起）
+
+> 原「反例陷阱提取器」已于 v4.2 废弃：失败模式防护改为在 Stage 2 构造 RIA+ 时内嵌检查（写 B 段时自然完成），不再作为独立提取器运行。
+> 现役定义见 `extractors/06-finance-economy-extractor.md`；旧定义保留在 `extractors/06-failure-extractor.md`（frontmatter 已标 deprecated）。
 
 | 检索信号 | 命中预期 |
 |---------|---------|
-| mistake, error, wrong, flaw | 错误识别 |
-| fallacy, misconception, misunderstanding | 谬误 |
-| trap, pitfall, danger, warning | 陷阱预警 |
-| bias, prejudice, blind spot | 认知偏见 |
-| oversimplification, reductionist | 过度简化 |
-| actually, but in reality, contrary to | 反直觉揭示 |
+| debt, sovereign debt, default, credit crunch, leverage | 债务与危机动力学 |
+| inflation, deflation, hyperinflation, stagflation | 通胀/通缩/滞胀 |
+| dollar hegemony, petrodollar, de-dollarization, reserve currency | 美元霸权与货币体系 |
+| sanctions, SWIFT, asset freeze, trade war, tariff | 制裁经济学与贸易战 |
+| central bank, Federal Reserve, QE, QT, interest rate | 央行与货币政策 |
+| yen carry trade, capital flight, liquidity, bank run | 资本流动与流动性危机 |
+| bubble, speculative, Minsky moment, overvaluation | 资产泡沫识别 |
+| supply chain, oil price, energy crisis, commodity | 供应链与全球化断裂 |
 
 ### E7：术语词典提取器
 
@@ -230,7 +235,8 @@ candidates/
 ├── civilization-patterns/
 ├── religion-narrative/
 ├── predictive-model/
-├── failure-modes/
+├── finance-economy/                # E6 现役产出（v4.2 起）
+├── failure-modes/                  # 历史遗留：已废弃的反例陷阱提取器产出
 └── glossary/
 ```
 

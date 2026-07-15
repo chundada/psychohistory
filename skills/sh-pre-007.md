@@ -1,7 +1,7 @@
 ---
 name: "秘密结社作为历史引擎——精英行为汇聚模式"
 description: "秘密结社不是字面上的'全球阴谋网络'，而是权力精英在追求秩序控制时独立汇聚的相同行为模式。当旧神（货币）衰落、新神（AI）崛起的过渡期，这种行为的密度和强度会急剧上升"
-source_series: "Secret History / Game Theory"
+source_series: "Secret History"
 source_episodes:
   - "GT26 The Holy Empire of AI"
   - "GT28 Predictive History"

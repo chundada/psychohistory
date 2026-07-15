@@ -14,8 +14,8 @@ status: live
 
 本项目的方法论经历了三次迭代：
 - **v2.0**：两阶段摘要提取（旧方案 —— 1000:1 压缩导致质量损失严重）
-- **v8.0**：**检索式提取**（零压缩，信号检索 + 上下文剪裁，6 系列 199 Skill 完成）
-- **v9.0（当前）**：**检索式提取 + 七层汇聚验证**（新增 Stage 6 汇聚验证框架，作为 AI 调用时的分析流程）
+- **v8.0**：**检索式提取**（零压缩，信号检索 + 上下文剪裁，7 系列 209 Skill 完成）
+- **v9.1（当前）**：**检索式提取 + 七层汇聚验证**（新增 Stage 6 汇聚验证框架，作为 AI 调用时的分析流程）
 
 ---
 
@@ -25,7 +25,7 @@ status: live
 
 | 文件 | 说明 |
 |------|------|
-| [[methodology/00-overview.md]] | 全景概览（v9.0） |
+| [[methodology/00-overview.md]] | 全景概览（v9.1） |
 | [[methodology/01-stage0-series-understand.md]] | 列出剧集、分组主题弧、识别核心论点 |
 
 ### Stage 1: ⭐ 检索式提取（Retrieval-based Extraction）
@@ -144,11 +144,11 @@ status: live
 | Geo-Strategy | `gs-*` | 35 | RIA 四段 |
 | Interview | `interview-*` | 10 | RIA 四段 |
 | Civilization | `civ-*` | 50 | RIA 四段 |
-| **合计** | | **199** | |
+| Great Books | `gb-*` | 10 | RIA 四段 |
+| **合计** | | **209** | |
 
 ## ⏳ 待处理
 
 | 系列 | 集数 | 预计 Skills |
 |:-----|:----:|:-----------:|
-| Great Books | 13 | 8-12 |
 | Dante | 12 | 8-10 |

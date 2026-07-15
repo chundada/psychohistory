@@ -5,8 +5,8 @@ type: "progress"
 
 # 📊 Psychohistory - 项目进度追踪
 
-> 最后更新: 2026-07-14 (v9.0 七层汇聚验证框架)
-> ✅ 已完成 6 个系列 · 共 199 个技能文件
+> 最后更新: 2026-07-15 (v9.1 Great Books 系列完成)
+> ✅ 已完成 7 个系列 · 共 209 个技能文件
 
 ---
 
@@ -53,8 +53,14 @@ gantt
     Stage 2 RIA 构造 (50)    :done, 2026-07-14, 1d
     Stage 3 交付             :done, 2026-07-14, 1d
 
+    section Phase 6.5 - Great Books ✅
+    下载字幕 (13集)          :done, 2026-07-15, 1d
+    Stage 0 系列理解         :done, 2026-07-15, 1d
+    Stage 1 检索式提取       :done, 2026-07-15, 1d
+    Stage 2 RIA 构造 (10)    :done, 2026-07-15, 1d
+    Stage 3 交付             :done, 2026-07-15, 1d
+
     section Phase 7 - 后续 (待处理)
-    Great Books 系列(13集)   :2026-07-27, 3d
     Dante 系列(12集)         :2026-08-01, 3d
 ```
 
@@ -125,6 +131,17 @@ gantt
 | Stage 3 交付 | _INDEX.md + 文档更新 | ✅ |
 | 技能位置 | `skills/civ-*.md`（已同步到 series/civilization/skills/） | ✅ |
 
+### 📚 Series 6: Great Books — 13 集 ✅
+
+| 阶段 | 产出 | 状态 |
+|---|---|---|
+| 下载字幕 | 13 个 VTT 文件（GB#1–GB#13） | ✅ |
+| Stage 0 系列理解 | SERIES_OVERVIEW.md | ✅ |
+| Stage 1 检索式提取 | 7 路提取器 → 候选 → 10 最终 | ✅ |
+| Stage 2 RIA 构造 | **10 个 SKILL.md**（gb-literature-*/gb-pred-*/gb-religion-*） | ✅ |
+| Stage 3 交付 | _INDEX.md + 文档更新 | ✅ |
+| 技能位置 | `skills/gb-*.md`（已同步到 series/great-books/skills/） | ✅ |
+
 ### 📦 技能汇总
 
 | 系列 | 前缀 | 数量 | 位置 | 格式 |
@@ -135,7 +152,8 @@ gantt
 | Geo-Strategy | `gs-` | 35 | `skills/` | RIA 四段 |
 | Interview | `interview-` | 10 | `skills/` | RIA 四段 |
 | Civilization | `civ-` | 50 | `skills/` | RIA 四段 |
-| **合计** | | **199** | | |
+| Great Books | `gb-` | 10 | `skills/` | RIA 四段 |
+| **合计** | | **209** | | |
 
 ### 🧪 实战案例
 
@@ -152,8 +170,8 @@ gantt
 |---|---|---|---|
 | RIA++ 格式不一致 | 🟡 中 | GT 用六段（R/I/A1/A2/E/B），其他用四段（R/I/A/B）。功能不受影响，统一为后续优化项 | ⏳ 待处理 |
 | SH/GS/Interview 缺 verified.md | 🟡 低 | 部分系列未单独检出验证文件，已记录在案 | ⏳ 待处理 |
-| INDEX.md 需持续维护 | 🟡 中 | 已完成全面重写覆盖全部 149 技能，后续新增需同步更新 | ✅ 已修复 |
-| 文档统计数据滞后 | 🟢 已解决 | README/QUICK_START/CONTINUE_FOR_AI/MOC 统计数字已同步至 149/5 系列 | ✅ v7.0 修复 |
+| INDEX.md 需持续维护 | 🟡 中 | 已完成全面重写覆盖全部 209 技能，后续新增需同步更新 | ✅ 已修复 |
+| 文档统计数据滞后 | 🟢 已解决 | README/QUICK_START/CONTINUE_FOR_AI/MOC/INDEX 统计数字已同步至 209/7 系列 | ✅ v9.1 修复 |
 | LICENSE 缺失 | 🟢 已解决 | 仓库无 LICENSE 文件 | ✅ v7.0 补充 |
 
 ---
@@ -162,7 +180,6 @@ gantt
 
 | 系列 | 集数 | 预计 Skills | 优先级 |
 |---|---|---|---|
-| 📚 **Great Books** | **13** | 8-12 | ⭐⭐ 最高 |
 | 🔥 **Dante** | **12** | 8-10 | ⭐ |
 
 ---
@@ -171,6 +188,7 @@ gantt
 
 | 版本 | 日期 | 变更 |
 |------|------|------|
+| **v9.1** | 2026-07-15 | Great Books 系列完成 — 13 集字幕下载、Stage 0-3 全流程、10 个 SKILL.md（gb-literature-*/gb-pred-*/gb-religion-*），总技能数 199→209，系列数 6→7 |
 | **v9.0** | 2026-07-14 | 新增七层汇聚验证框架（Stage 6）：methodology/08-stage6-convergence-verify.md。升级PSYCHOHISTORY_SYSTEM_PROMPT.md核心方法，更新QUICK_START.md工作流，同步所有MOC文档。方法论版本：检索式提取 v9.0 |
 | **v8.0** | 2026-07-14 | Civilization 系列完成 — 62 集字幕下载、Stage 0-3 全流程、50 个 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*），总技能数 149→199 |
 | **v7.0** | 2026-07-14 | 文档全面修复：README 重写为 Wikipedia 风格、统计数据同步至 149/5 系列、补充 LICENSE、修复 CONTINUE_FOR_AI/MOC 所有滞后内容 |

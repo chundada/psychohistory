@@ -1,6 +1,6 @@
 # 🚀 Psychohistory 快速使用指南
 
-> 6 个系列已完成，共 199 个技能：Origin（6）、Game Theory（52）、Secret History（46）、Geo-Strategy（35）、Interview（10）、Civilization（50）。完整进度见 `PROGRESS.md`。
+> 7 个系列已完成，共 209 个技能：Origin（6）、Game Theory（52）、Secret History（46）、Geo-Strategy（35）、Interview（10）、Civilization（50）、Great Books（10）。完整进度见 `PROGRESS.md`。
 
 ---
 
@@ -27,36 +27,36 @@
 ```
 先看  ── 地缘政治三定律              → 定位博弈的基本规则
 然后 ── 全球咽喉要道控制             → 找出关键节点
-接着 ── 多重框架汇聚验证法 ⭐       → 看是否三方汇聚到同一判断
-对照 ── 民族国家幻觉／伟人迷思      → 排除常见分析偏见
+接着 ── sh-pre-005 战争催化阶段预警  → 看冲突是否已在催化阶段
+对照 ── gt-failure-nation-state 民族国家幻觉
 ```
 
 ### 当你要预测社会趋势时
 
 ```
-先看  ── 三维社会动力模型 (EOC)       → 评估社会生命力
-然后 ── 帝国衰退三指标诊断法         → 检查衰退信号
-接着 ── 精英过度生产与革命周期       → 是否存在结构性压力
-对照 ── 相关即因果谬误              → 别把趋势当原因
+先看  ── gt-civilization-eoc-model 三维社会动力模型 (EOC)  → 评估社会生命力
+然后 ── gt-predictive-005 帝国衰退三指标诊断法    → 检查衰退信号
+接着 ── civ-civ-007 鼠类乌托邦     → 是否存在过度繁荣病理
+对照 ── gt-failure-correlation-causation 相关即因果谬误
 ```
 
 ### 当你在分析地缘战略时
 
 ```
-先看  ── 非对称法则                  → 判断弱者vs强者
-然后 ── 升级法则                    → 判断冲突会升级吗
-接着 ── 邻近法则                    → 判断什么博弈最紧迫
-深挖  ── 货币战争 / 美元瘾症预测     → 经济层面
-对照 ── 帝国优势即劣势悖论          → 强者也有弱点
+先看  ── gt-game-theory-asymmetry 非对称法则     → 判断弱者vs强者
+然后 ── gt-game-theory-escalation 升级法则       → 判断冲突会升级吗
+接着 ── gs-geopolitics-003 帝国过度扩张诊断      → 诊断帝国边界
+深挖  ── gt-geopolitics-currency-war 货币战争    → 经济层面
+对照 ── gt-failure-advantage-paradox 优势即劣势悖论
 ```
 
 ### 当你在研究文明/宗教现象时
 
 ```
-先看  ── 末法汇聚预测法              → 识别末世论叙事
-然后 ── 末世论作为地缘政治编码       → 解码宗教话语的真实意义
-接着 ── Asabiyyah 边缘征服中心律     → 看谁有凝聚力优势
-对照 ── 虚假二元对立                → 别掉进非黑即白
+先看  ── gt-religion-eschatology-geopolitics 末世论编码  → 识别末世论叙事
+然后 ── sh-rel-005 三大一神教谱系       → 解码宗教话语的真实意义
+接着 ── gs-rel-005 锡安主义与圣约       → 看神圣叙事如何注入政治
+对照 ── gt-failure-false-dichotomy 虚假二元对立
 ```
 
 ---
@@ -65,25 +65,25 @@
 
 | 你在做什么 | 第一个看的 Skill | 然后看 | 最后校准 |
 |---|---|---|---|
-| 分析中美关系 | 地缘政治三定律 | 全球咽喉要道、货币战争 | 伟人迷思 |
-| 预测选举结果 | 博弈胜率 M×E×C | 精英过度生产 | 相关即因果 |
-| 分析俄乌战争 | 升级法则 | 非对称法则、马赛克防御 | 民族国家幻觉 |
-| 分析中东局势 | 末法汇聚 | 喀巴拉加速主义、Pax Judaica | 虚假二元对立 |
-| 研究 AI 风险 | AI 祭仪预测 | AI 意识幻觉 | 清晰性陷阱 |
-| 分析经济危机 | 美元瘾症预测 | 帝国衰退三指标 | 达克效应 |
-| 阅读历史 | Asabiyyah 定律 | 三大超结构、雇佣兵反噬 | 伟人迷思 |
-| 判断信息真假 | 多重框架汇聚验证 ⭐ | 历史类比预测 | AI 意识幻觉 |
-| 分析台海/南海 | 咽喉要道控制 | 地缘三定律、非对称法则 | 虚假二元对立 |
-| 分析文明兴衰 | 文明的生命周期 | 僵尸文明、崩溃-创新循环 | 马克思免疫框架 |
-| 分析帝国衰落 | 文明→游戏转换预警 | 帝国过度扩张、债务帝国 | 中产阶级兴衰指标 |
-| 分析宗教现象 | 宗教演化阶梯 | 可出口的宗教、君士坦丁交换 | 诺斯底竞争 |
-| 分析文学与权力 | 文学-权力共生体 | 荷马的文明边界、莎士比亚帝国语言 | 但丁三位一体叙事 |
-| 分析货币霸权 | 中央银行炼金术 | 大英帝国金融化轨迹 | 文明→游戏转换 |
-| 分析现代主义危机 | 现代主义去合法化螺旋 | 弗洛伊德-马克思三角 | 理性革命世俗化 |
-| 分析科技变革 | 科学革命结构性条件 | 火药革命与国家暴力 | 科技巨头vs央行 |
-| 分析能源战争 | 咽喉要道控制 | 美元瘾症预测 | 民族国家幻觉 |
-| 分析以色列政策 | 卡巴拉救赎 | Pax Judaica、末法汇聚 | 民族国家幻觉 |
-| 分析社会衰落 | 帝国衰退三指标 | 生育率先行指标、制度硬化 | 优势即劣势悖论 |
+| 分析中美关系 | `gt-geopolitics-three-laws` 地缘政治三定律 | `gt-geopolitics-chokepoint` 全球咽喉要道、`gt-geopolitics-currency-war` 货币战争 | `gt-failure-great-man` 伟人迷思 |
+| 预测选举结果 | `gt-predictive-002` 博弈胜率 M×E×C | `gt-game-theory-elite-overproduction` 精英过度生产 | `gt-failure-correlation-causation` 相关即因果 |
+| 分析俄乌战争 | `gt-game-theory-escalation` 升级法则 | `gt-game-theory-asymmetry` 非对称法则、`gt-predictive-012` 马赛克防御 | `gt-failure-nation-state` 民族国家幻觉 |
+| 分析中东局势 | `gt-predictive-001` 末法汇聚 | `gt-religion-kabbalistic-redemption` 喀巴拉加速主义、`gt-religion-pax-judaica` Pax Judaica | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 研究 AI 风险 | `gt-religion-ai-stargate-rapture` AI 祭仪预测 | `gt-failure-ai-consciousness` AI 意识幻觉 | `interview-fail-detached-bureaucracy` 清晰性陷阱 |
+| 分析经济危机 | `gt-predictive-008` 美元瘾症预测 | `gt-predictive-005` 帝国衰退三指标 | `gt-failure-dunning-kruger` 达克效应 |
+| 阅读历史 | `gt-civilization-asabiyyah` Asabiyyah 定律 | `gt-civilization-three-superstructures` 三大超结构、`gt-civilization-mercenary-overthrow` 雇佣兵反噬 | `gt-failure-great-man` 伟人迷思 |
+| 判断信息真假 | `gt-predictive-003` 多重框架汇聚验证 ⭐ | `gt-predictive-010` 历史类比预测 | `gt-failure-ai-consciousness` AI 意识幻觉 |
+| 分析台海/南海 | `gt-geopolitics-chokepoint` 咽喉要道控制 | `gt-geopolitics-three-laws` 地缘三定律、`gt-game-theory-asymmetry` 非对称法则 | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 分析文明兴衰 | `civ-civ-003` 崩溃-创新循环 | `civ-pred-001` 文明→游戏转换预警、`civ-pred-005` 文明崩溃预测、`gb-pred-007` 文学驱动文明史 | `gt-failure-correlation-causation` 相关即因果 |
+| 分析帝国衰落 | `gt-predictive-005` 帝国衰退三指标 | `civ-civ-007` 鼠类乌托邦、`civ-pred-013` 荷兰中产阶级模型 | `gt-failure-advantage-paradox` 优势即劣势 |
+| 分析宗教现象 | `gt-religion-eschatology-geopolitics` 末世论编码 | `sh-rel-005` 三大一神教谱系、`civ-rel-014` 宗教想象力起源 | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 分析文学与权力 | `civ-civ-002` 文学-权力共生体 | `gb-literature-004` 史诗编码文明、`gb-religion-006` 文学反转 | `gb-literature-003` 荷马与自我意识 |
+| 分析货币霸权 | `gt-geopolitics-currency-war` 货币战争 | `gt-predictive-008` 美元瘾症预测、`sh-rel-007` 货币即神 | `gt-failure-correlation-causation` 相关即因果 |
+| 分析意识形态斗争 | `sh-rel-017` 天堂特许经营权 | `civ-civ-009` 意识形态收敛、`gt-religion-communism-as-anti-religion` 反宗教武器、`gb-religion-010` 但丁的三重革命 | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 分析科技变革 | `gt-religion-ai-stargate-rapture` AI 宗教项目 | `civ-pred-009` 火药革命与国家暴力垄断、`civ-pred-008` 现代主义去合法化螺旋 | `gt-failure-ai-consciousness` AI 意识幻觉 |
+| 分析能源战争 | `gt-geopolitics-chokepoint` 咽喉要道控制 | `gt-predictive-008` 美元瘾症预测 | `gt-failure-nation-state` 民族国家幻觉 |
+| 分析以色列政策 | `gt-religion-kabbalistic-redemption` 卡巴拉救赎 | `gt-religion-pax-judaica` Pax Judaica、`gt-predictive-001` 末法汇聚 | `gt-failure-nation-state` 民族国家幻觉 |
+| 分析社会衰落 | `gt-predictive-005` 帝国衰退三指标 | `gt-civilization-fertility-leading-indicator` 生育率先行指标、`gt-civilization-institutional-sclerosis` 制度硬化 | `gt-failure-advantage-paradox` 优势即劣势 |
 
 ---
 
@@ -98,7 +98,7 @@
 
 ---
 
-## 🧠 心理史学核心工作流（v9.0 七层汇聚验证）
+## 🧠 心理史学核心工作流（v9.1 七层汇聚验证）
 
 ### 框架选择：根据问题复杂度
 

@@ -2,7 +2,7 @@
 
 > 将此文件内容作为系统提示/上下文注入你的 AI，即可激活 Psychohistory 知识体系。
 > 支持：Claude Code / Cursor / Claude.ai / ChatGPT / 任何通用 AI。
-> 方法论版本：v9.0
+> 方法论版本：v9.1
 
 ---
 
@@ -81,47 +81,48 @@
 ### 🔮 预测类（"会发生什么？"）
 | 你的问题 | 先看 | 然后 | 接着 | 深挖 | 最后校准 |
 |---|---|---|---|---|---|
-| 国际局势走向 | `gt-predictive-003` 多重框架汇聚法 ⭐ | `gt-predictive-001` 末法汇聚 | `gt-predictive-005` 帝国衰退三指标 | `gt-geopolitics-currency-war` 货币战争 | `gt-failure-nation-state` |
-| 战争/冲突预测 | `gt-predictive-006` 国际象棋模型 | `gt-game-theory-escalation` 升级法则 | `gt-predictive-015` 内战投射 | `interview-geo-hormuz-leverage` 霍尔木兹杠杆 | `gt-failure-great-man` |
-| 经济/金融危机 | `gt-predictive-008` 美元瘾症预测 | `gt-predictive-005` 帝国衰退三指标 | `gt-geopolitics-currency-war` 货币战争 | `interview-pred-2027-collapse` 2027崩溃预测 | `gt-failure-correlation-causation` |
-| 技术/AI 趋势 | `gt-religion-ai-stargate-rapture` AI作为宗教项目 | `gt-religion-money-as-god` 货币作为上帝 | `gt-predictive-011` AI祭仪预测 | `gt-glossary-technate` 技术统治国 | `gt-failure-ai-consciousness` |
-| 选举/政治博弈 | `gt-predictive-002` M×E×C 胜率评估 | `gt-game-theory-elite-overproduction` | `gt-civilization-eoc-model` 三维动力 | `gt-game-theory-proximity` 邻近法则 | `gt-failure-correlation-causation` |
-| 历史类比推演 | `gt-predictive-010` 历史类比预测法 | `gt-civilization-asabiyyah` 边缘征服 | `gt-civilization-mercenary-overthrow` | `ph-origin-collapse-window` 崩溃窗口 | `gt-failure-false-dichotomy` |
+| 国际局势走向 | `gt-predictive-003` 多重框架汇聚法 ⭐ | `sh-pre-003` 预测历史三要素 | `civ-pred-001` 文明→游戏转换预警 | `gs-pre-004` 多因素汇聚预测 | `gt-failure-nation-state` |
+| 战争/冲突预测 | `gt-predictive-006` 国际象棋模型 | `sh-pre-005` 战争催化阶段预警 | `gs-pre-003` 伊朗百年忍耐策略 | `interview-geo-hormuz-leverage` 霍尔木兹杠杆 | `gt-failure-great-man` |
+| 经济/金融危机 | `gt-predictive-008` 美元瘾症预测 | `civ-pred-011` 债务帝国扩张机制 | `civ-pred-013` 荷兰中产阶级共和国模型 | `interview-pred-2027-collapse` 2027崩溃预测 | `gt-failure-correlation-causation` |
+| 技术/AI 趋势 | `gt-religion-ai-stargate-rapture` AI作为宗教项目 | `civ-pred-009` 火药革命与国家暴力垄断 | `civ-pred-008` 现代主义去合法化螺旋 | `gt-glossary-technate` 技术统治国 | `gt-failure-ai-consciousness` |
+| 选举/政治博弈 | `gt-predictive-002` M×E×C 胜率评估 | `civ-civ-003` 崩溃-创新循环 | `gt-civilization-eoc-model` 三维动力 | `civ-pred-007` 民族国家幻觉 | `gt-failure-correlation-causation` |
+| 历史类比推演 | `gt-predictive-010` 历史类比预测法 | `sh-pre-001` 真理三标准检验法 | `gs-pre-002` 心理史学预测范式 | `ph-origin-collapse-window` 崩溃窗口 | `gt-failure-false-dichotomy` |
 
 ### 🎯 博弈分析类（"各方在打什么牌？"）
 | 你的问题 | 先看 | 然后 | 接着 | 深挖 | 最后校准 |
 |---|---|---|---|---|---|
-| 强弱对抗 | `gt-game-theory-asymmetry` 非对称法则 | `gt-game-theory-escalation` 升级法则 | `gt-game-theory-proximity` 邻近法则 | `interview-geo-hormuz-leverage` | `gt-failure-advantage-paradox` |
-| 制度内竞争 | `gt-game-theory-immigration-trap` 移民陷阱 | `gt-game-theory-elite-overproduction` 精英过剩 | `gt-civilization-institutional-sclerosis` | `ph-origin-elite-overproduction` | `gt-failure-correlation-causation` |
-| 多方博弈 | `gt-predictive-006` 国际象棋模型 | `gt-geopolitics-three-laws` 地缘三定律 | `gt-game-theory-proximity` 邻近法则 | `sh-game-007` 博弈论公理 | `gt-failure-nation-state` |
+| 强弱对抗 | `gt-game-theory-asymmetry` 非对称法则 | `sh-game-001` 隐蔽行动博弈 | `gs-game-theory-002` 威慑信号博弈 | `interview-geo-hormuz-leverage` | `gt-failure-advantage-paradox` |
+| 制度内竞争 | `gt-game-theory-immigration-trap` 移民陷阱 | `civ-civ-005` 新教-资本主义精神 | `gt-civilization-institutional-sclerosis` | `ph-origin-elite-overproduction` | `gt-failure-correlation-causation` |
+| 多方博弈 | `gt-predictive-006` 国际象棋模型 | `gs-pre-007` 地缘棋局推演 | `gs-game-theory-009` 多方博弈校准 | `sh-game-007` 博弈论公理 | `gt-failure-nation-state` |
 
 ### 🌍 地缘分析类（"国家行为/国际关系？"）
 | 你的问题 | 先看 | 然后 | 接着 | 深挖 | 最后校准 |
 |---|---|---|---|---|---|
-| 大国竞争 | `gt-geopolitics-three-laws` 地缘三定律 | `gt-geopolitics-chokepoint` 咽喉要道 | `gt-geopolitics-currency-war` 货币战争 | `gt-predictive-005` 帝国衰退三指标 | `gt-failure-great-man` |
-| 能源/资源安全 | `gt-geopolitics-chokepoint` 咽喉要道 | `interview-geo-hormuz-leverage` | `gt-predictive-008` 美元瘾症 | `gs-geopolitics-*` | `gt-failure-nation-state` |
-| 台海/南海局势 | `gt-geopolitics-chokepoint` (马六甲) | `gt-geopolitics-three-laws` 地缘三定律 | `gt-game-theory-asymmetry` 非对称法则 | `gt-game-theory-proximity` 邻近法则 | `gt-failure-false-dichotomy` |
-| 中东局势 | `gt-religion-eschatology-geopolitics` | `gt-religion-eschatological-convergence` 七大末世论 | `gt-religion-kabbalistic-redemption` | `gs-rel-001` 基督徒锡安主义 | `gt-failure-false-dichotomy` |
+| 大国竞争 | `gt-geopolitics-three-laws` 地缘三定律 | `gs-geopolitics-003` 帝国过度扩张诊断 | `gs-geopolitics-004` 地缘博弈均衡 | `gs-pre-012` 地缘政治周期 | `gt-failure-great-man` |
+| 能源/资源安全 | `gt-geopolitics-chokepoint` 咽喉要道 | `interview-geo-hormuz-leverage` | `civ-pred-011` 债务帝国扩张机制 | `gs-geopolitics-010` 能源地缘布局 | `gt-failure-nation-state` |
+| 台海/南海局势 | `gt-geopolitics-chokepoint` (马六甲) | `gs-geopolitics-003` 帝国过度扩张 | `sh-geo-001` 帝国咽喉地图 | `civ-pred-007` 民族国家幻觉 | `gt-failure-false-dichotomy` |
+| 中东局势 | `gt-religion-eschatology-geopolitics` | `sh-rel-005` 三大一神教谱系 | `gs-rel-005` 锡安主义与圣约 | `gs-rel-001` 基督徒锡安主义 | `gt-failure-false-dichotomy` |
 
 ### 🏛️ 长期趋势类（"文明/社会在怎么变？"）
 | 你的问题 | 先看 | 然后 | 接着 | 深挖 | 最后校准 |
 |---|---|---|---|---|---|
-| 社会活力评估 | `gt-civilization-eoc-model` EOC 三维 | `gt-civilization-asabiyyah` 边缘征服 | `gt-civilization-three-superstructures` | `civ-rel-014` 宗教想象力起源 | `gt-failure-correlation-causation` |
-| 衰落信号检测 | `gt-predictive-005` 帝国衰退三指标 | `gt-civilization-fertility-leading-indicator` | `gt-civilization-institutional-sclerosis` | `ph-origin-elite-overproduction` | `gt-failure-advantage-paradox` |
-| 制度分析 | `gt-civilization-institutional-sclerosis` | `gt-civilization-military-industrial-complex` | `gt-civilization-mercenary-overthrow` | `sh-pre-003` 历史三要素 | `gt-failure-great-man` |
-| 人口/生育率趋势 | `gt-civilization-fertility-leading-indicator` | `gt-civilization-three-superstructures` | `gt-civilization-elite-overproduction` | `civ-rel-012` 死亡焦虑 | `gt-failure-correlation-causation` |
+| 社会活力评估 | `gt-civilization-eoc-model` EOC 三维 | `gt-civilization-asabiyyah` 边缘征服 | `civ-civ-003` 崩溃-创新循环 | `civ-rel-014` 宗教想象力起源 | `gt-failure-correlation-causation` |
+| 衰落信号检测 | `gt-predictive-005` 帝国衰退三指标 | `civ-civ-007` 鼠类乌托邦 | `sh-civ-006` 帝国周期相位 | `ph-origin-elite-overproduction` | `gt-failure-advantage-paradox` |
+| 制度分析 | `gt-civilization-institutional-sclerosis` | `civ-civ-009` 意识形态收敛 | `sh-pre-004` 体系兼容性 | `sh-pre-003` 历史三要素 | `gt-failure-great-man` |
+| 人口/生育率趋势 | `gt-civilization-fertility-leading-indicator` | `civ-civ-006` 反文明设计 | `civ-pred-013` 荷兰中产阶级模型 | `civ-rel-012` 死亡焦虑 | `gt-failure-correlation-causation` |
 
 ### 📖 叙事解码类（"他们为什么这么说/做？"）
 | 你的问题 | 先看 | 然后 | 接着 | 深挖 | 最后校准 |
 |---|---|---|---|---|---|
-| 宗教话语分析 | `gt-religion-eschatology-geopolitics` | `gt-religion-eschatological-convergence` | `gt-religion-messianic-accelerationism` | `gs-rel-006` 末世论汇聚 | `gt-failure-false-dichotomy` |
-| 以色列/犹太人相关 | `gt-religion-kabbalistic-redemption` | `gt-religion-pax-judaica` | `gt-predictive-009` 喀巴拉加速主义 | `gs-rel-001` 基督徒锡安主义 | `gt-failure-nation-state` |
-| 意识形态分析 | `gt-religion-communism-as-anti-religion` | `gt-religion-money-as-god` | `gt-game-theory-immigration-trap` | `sh-rel-017` 天堂特许经营权 | `gt-failure-correlation-causation` |
-| 技术叙事/未来主义 | `gt-religion-ai-stargate-rapture` | `gt-predictive-011` AI 祭仪 | `gt-glossary-technate` | `civ-rel-012` 不朽追求 | `gt-failure-ai-consciousness` |
+| 宗教话语分析 | `gt-religion-eschatology-geopolitics` | `sh-rel-005` 三大一神教谱系 | `civ-rel-001` 文学创世 | `gs-rel-006` 末世论汇聚 | `gt-failure-false-dichotomy` |
+| 以色列/犹太人相关 | `gt-religion-kabbalistic-redemption` | `sh-rel-016` 流亡神学 | `gs-rel-005` 锡安主义与圣约 | `gs-rel-001` 基督徒锡安主义 | `gt-failure-nation-state` |
+| 意识形态分析 | `sh-rel-017` 天堂特许经营权 | `civ-civ-009` 意识形态收敛 | `gt-religion-money-as-god` | `sh-rel-007` 货币即神 | `gt-failure-correlation-causation` |
+| 文学解码 | `civ-civ-002` 文学-权力共生体 | `gb-literature-004` 史诗编码文明 | `gb-religion-006` 文学反转 | `gb-religion-008` 但丁道德拓扑学 | `gb-literature-003` 荷马与自我意识 |
+| 技术叙事/未来主义 | `gt-religion-ai-stargate-rapture` | `civ-pred-009` 火药革命与国家暴力 | `civ-pred-008` 现代主义去合法化螺旋 | `civ-rel-012` 不朽追求 | `gt-failure-ai-consciousness` |
 
 ---
 
-## 4. 完整技能索引（199 个技能总目录）
+## 4. 完整技能索引（209 个技能总目录）
 
 ### 🔮 预测模型
 | 文件名 | 名称 | 何时用 |
@@ -141,6 +142,17 @@
 | `gt-predictive-015` | 内战投射理论 | 判断内部冲突是否外溢时 |
 | `interview-pred-causal-chain` | 因果链预测模型 | 双节点时序推演 |
 | `interview-pred-2027-collapse` | 2027全球经济崩溃预测 | 分析系统性金融危机 |
+| `civ-pred-001` | 文明→游戏转换预警模型 | 检测帝国从文明到游戏的相变 |
+| `civ-pred-005` | 新教改革的资本主义生成 | 解析宗教→经济转型条件 |
+| `civ-pred-009` | 火药革命与国家暴力垄断 | 分析军事技术→制度变迁 |
+| `civ-pred-011` | 债务帝国扩张机制 | 分析信贷扩张型帝国模式 |
+| `civ-pred-013` | 荷兰中产阶级共和国模型 | 分析中产阶级→金融食利国退化 |
+| `gs-pre-001` | 三大核心预测（因果链） | 构建连锁预测时 |
+| `gs-pre-002` | 心理史学预测范式 | 将预测转化为模型时 |
+| `gs-pre-003` | 伊朗百年忍耐策略 | 分析长期文明战略时 |
+| `gs-pre-004` | 多因素汇聚预测 | 多种指标同向时 |
+| `gb-pred-005` | 注意力即能量 | 分析信息战场/舆论战时 |
+| `gb-pred-007` | 文学驱动文明史 | 分析作品→千年后果
 
 ### 🎯 博弈论框架
 | 文件名 | 名称 | 何时用 |
@@ -151,6 +163,9 @@
 | `gt-game-theory-immigration-trap` | 移民陷阱——被操纵的博弈 | 分析移民/社会分层时 |
 | `gt-game-theory-elite-overproduction` | 精英过剩与革命周期 | 分析社会动荡/革命时 |
 | `sh-game-007` | 博弈论核心公理 | 所有博弈分析的底层方法 |
+| `sh-game-001` | 隐蔽行动博弈 | 分析非对称/隐蔽对抗 |
+| `gs-game-theory-002` | 威慑信号博弈 | 分析威慑/核博弈 |
+| `gs-game-theory-009` | 多方博弈校准 | 分析3+玩家场景 |
 
 ### 🌍 地缘政治
 | 文件名 | 名称 | 何时用 |
@@ -159,7 +174,12 @@
 | `gt-geopolitics-chokepoint` | 全球咽喉要道控制 | 分析海洋霸权时 |
 | `gt-geopolitics-currency-war` | 货币战争 | 分析美元/制裁时 |
 | `interview-geo-hormuz-leverage` | 霍尔木兹不对称杠杆 | 分析能源封锁 |
-| `gs-geopolitics-*` | Geo-Strategy 完整系列 | 35个地缘技能 |
+| `gs-geopolitics-003` | 帝国过度扩张诊断 | 诊断帝国边界过度延伸 |
+| `gs-geopolitics-004` | 地缘博弈均衡 | 分析地缘力量平衡 |
+| `gs-geopolitics-010` | 能源地缘布局 | 分析能源供应链博弈 |
+| `gs-pre-012` | 地缘政治周期 | 分析地缘周期相位 |
+| `sh-geo-001` | 帝国咽喉地图 | 分析帝国交通命脉 |
+| `sh-geo-002` | 帝国陆地脊柱 | 分析陆权战略轴线 |
 
 ### 🏛️ 文明规律
 | 文件名 | 名称 | 何时用 |
@@ -174,6 +194,15 @@
 | `gt-civilization-eoc-model` | ⭐ **三维社会动力模型** | 综合评估社会生命力时 |
 | `ph-origin-elite-overproduction` | 精英过剩（起源版） | 文明级精英分析 |
 | `ph-origin-collapse-window` | 崩溃窗口与历史机遇 | 崩溃期决策分析 |
+| `civ-civ-002` | 文学-权力共生体 | 分析文学→文明编码 |
+| `civ-civ-003` | 崩溃-创新循环 | 分析崩溃→重生窗口 |
+| `civ-civ-005` | 新教-资本主义精神 | 分析宗教→经济软件 |
+| `civ-civ-006` | 反文明设计 | 分析美国文明悖论 |
+| `civ-civ-007` | 鼠类乌托邦 | 分析过度繁荣病理 |
+| `civ-civ-009` | 意识形态收敛 | 分析帝国认知统一 |
+| `sh-civ-006` | 帝国周期相位 | 分析帝国阶段定位 |
+| `sh-pre-003` | 预测历史三要素 | 历史模式识别方法论 |
+| `sh-pre-004` | 体系兼容性 | 检查分析框架是否冲突 |
 
 ### 📖 宗教叙事
 | 文件名 | 名称 | 何时用 |
@@ -186,16 +215,34 @@
 | `gt-religion-communism-as-anti-religion` | 共产主义作为反宗教武器 | 分析意识形态斗争时 |
 | `gt-religion-pax-judaica` | Pax Judaica 神学帝国 | 分析以色列扩张时 |
 | `gt-religion-money-as-god` | 货币作为上帝 | 分析资本主义信仰时 |
+| `sh-rel-005` | 三大一神教谱系 | 理解一神教源头 |
+| `sh-rel-007` | 货币即神 | 分析现代社会拜物教 |
+| `sh-rel-016` | 流亡神学 | 分析犹太人身份叙事 |
+| `sh-rel-017` | 天堂特许经营权 | 分析宗教市场逻辑 |
 | `gs-rel-001` | 基督徒锡安主义末世论引擎 | 分析美国福音派影响力 |
 | `gs-rel-002` | 基督教末世论叙事框架 | 五阶段末世叙事 |
 | `gs-rel-005` | 锡安主义与圣约 | 神圣领土主张 |
 | `gs-rel-006` | 末世论汇聚（地缘版） | 对立末日叙事合流 |
 | `gs-rel-009` | 以色列游说集团 | 神圣叙事的政治转化 |
 | `gs-rel-010` | 圣战与十字军 | 冲突的神学语言 |
+| `civ-rel-001` | 文学创世——Yahwist源 | 神学→文学编码 |
 | `civ-rel-012` | 吉尔伽美什的不朽追求 | 死亡焦虑驱动分析 |
 | `civ-rel-014` | 宗教想象力的起源 | 宗教作为文明前提 |
 | `civ-rel-015` | 帝国继承叙事 | 合法继承者编码 |
-| 全部 civ-rel-* | Civilization 宗教系列 | 15个宗教技能 |
+
+### 📚 文学解码（Great Books + Civilization）
+| 文件名 | 名称 | 何时用 |
+|---|---|---|
+| `civ-civ-002` | 文学-权力共生体 | 分析叙事如何支撑权力 |
+| `civ-rel-001` | 文学创世——Yahwist源 | 神学→文学编码 |
+| `gb-literature-001` | Great Books 作为人类化技术 | 分析经典如何揭示人的潜能 |
+| `gb-literature-002` | 意识的宇宙：认识论框架 | 分析文本中的意识模型 |
+| `gb-literature-003` | 荷马与自我意识 | 分析"人"的文学发明 |
+| `gb-literature-004` | 史诗编码文明 | 分析价值观如何植入文学 |
+| `gb-religion-006` | 文学反转：维吉尔翻转荷马 | 分析文本→帝国意识形态 |
+| `gb-religion-008` | 但丁的道德拓扑学 | 分析道德的空间化叙事 |
+| `gb-religion-009` | 但丁的罪论 | 分析爱的错置与自我囚禁 |
+| `gb-religion-010` | 但丁的三重革命 | 分析文学对想象力的解放 |
 
 ### ⚠️ 思维陷阱
 | 文件名 | 名称 | 何时自检 |
@@ -256,4 +303,4 @@
 
 ---
 
-*方法论 v9.0 · 七层汇聚验证已激活。用 Psychohistory 的方式分析问题吧。*
+*方法论 v9.1 · 七层汇聚验证已激活。用 Psychohistory 的方式分析问题吧。*

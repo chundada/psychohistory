@@ -1,19 +1,19 @@
 # Psychohistory — A Knowledge Distillation Framework for Predictive Historical Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills: 199](https://img.shields.io/badge/Skills-199-brightgreen)]()
-[![Series: 6](https://img.shields.io/badge/Series-6-blue)]()
+[![Skills: 209](https://img.shields.io/badge/Skills-209-brightgreen)]()
+[![Series: 7](https://img.shields.io/badge/Series-7-blue)]()
 [![Status: Active](https://img.shields.io/badge/Status-Active-ff6600)]()
 
 ---
 
 ## Overview
 
-Psychohistory distills analytical frameworks spanning game theory, geopolitics, civilization cycles, and religious narrative analysis into **199 structured, reusable Skill files** that any AI can invoke.
+Psychohistory distills analytical frameworks spanning game theory, geopolitics, civilization cycles, and religious narrative analysis into **209 structured, reusable Skill files** that any AI can invoke.
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
-> **Methodology v9.0** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/08-stage6-convergence-verify.md`.
+> **Methodology v9.1** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/08-stage6-convergence-verify.md`.
 
 ---
 
@@ -21,7 +21,7 @@ The core premise: historical prediction is not fortune-telling. It is a **multi-
 
 | Deliverable | Description |
 |---|---|
-| **199 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
+| **209 Skill files** | Structured analysis frameworks in RIA/RIA++ format, each containing reading, interpretation, application, and boundary conditions |
 | **PSYCHOHISTORY_SYSTEM_PROMPT.md** | Complete persona activation prompt — paste into any AI to instantiate the analyst role |
 | **QUICK_START.md** | Scenario-to-skill lookup table (22 scenarios mapped to recommended skill combinations) |
 | **INDEX.md** | Zettelkasten-style skill index with trigger scenarios |
@@ -54,7 +54,7 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 
 ## Current Status
 
-**6 series completed · 199 Skill files · ~85% of total lecture content processed**
+**7 series completed · 209 Skill files · ~90% of total lecture content processed**
 
 | Series | Episodes | Skills | Format | Location |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 | Geo-Strategy | 19 | 35 | RIA (R/I/A/B) | `skills/gs-*.md` |
 | Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
 | Civilization | 62 | 50 | RIA (R/I/A/B) | `skills/civ-*.md` |
+| Great Books | 13 | 10 | RIA (R/I/A/B) | `skills/gb-*.md` |
 | **Pending** | | | | |
-| Great Books | 13 | — | — | — |
 | Dante | 12 | — | — | — |
 
 ---
@@ -115,13 +115,14 @@ Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automati
 ```
 Psychohistory/
 ├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
-├── skills/                            ⬅ 199 structured Skill files
+├── skills/                            ⬅ 209 structured Skill files
 │   ├── ph-origin-*.md                 Psychohistory Origin (6)
 │   ├── gt-*.md                        Game Theory (52)
 │   ├── sh-*.md                        Secret History (46)
 │   ├── gs-*.md                        Geo-Strategy (35)
 │   ├── interview-*.md                 Interview (10)
-│   └── civ-*.md                       Civilization (50)
+│   ├── civ-*.md                       Civilization (50)
+│   └── gb-*.md                        Great Books (10)
 ├── cases/                             ⬅ Case studies (multi-framework demonstrations)
 ├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
 ├── DIGEST.md                          ⬅ Curated reading
@@ -136,7 +137,8 @@ Psychohistory/
 │   ├── geo-strategy/
 │   ├── secret-history/
 │   ├── interview-jang-letstalk/
-│   └── civilization/
+│   ├── civilization/
+│   └── great-books/
 └── SPEC.md                            ⬅ Design specification
 ```
 
@@ -149,6 +151,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  199 psychohistorical models · 6 series · actively expanding<br/>
+  209 psychohistorical models · 7 series · actively expanding<br/>
   <em>"The purpose of prediction is not to foresee the future — but to make it better."</em>
 </p>

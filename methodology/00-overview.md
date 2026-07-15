@@ -102,7 +102,8 @@ Psychohistory/
 │   ├── 04-stage2-ria-plus.md
 │   ├── 05-stage3-cross-series-link.md
 │   ├── 06-stage4-pressure-test.md
-│   └── 07-stage5-deliver.md
+│   ├── 07-stage5-deliver.md
+│   └── 08-stage6-convergence-verify.md   # v9.0 新增：七层汇聚验证
 ├── templates/             # 模板文件
 │   ├── SERIES_OVERVIEW.md.template
 │   ├── SKILL.md.template
@@ -114,7 +115,8 @@ Psychohistory/
 │   ├── 03-civilization-extractor.md
 │   ├── 04-religion-extractor.md
 │   ├── 05-predictive-extractor.md
-│   ├── 06-failure-extractor.md
+│   ├── 06-finance-economy-extractor.md   # E6 现役（v4.2 起）
+│   ├── 06-failure-extractor.md           # ⚠️ 已废弃（v4.2）：反例陷阱防护内嵌至 Stage 2
 │   └── 07-glossary-extractor.md
 ├── series/                # 各系列源数据
 │   └── game-theory/
@@ -173,4 +175,4 @@ series/<series-name>/transcripts/  # 放入 VTT 字幕文件
 
 ---
 
-*本文档对应 RIA-TV++ 管道 v9.0，核心改进：新增 Stage 6 七层汇聚验证框架，6 系列 199 个 Skill + 汇聚验证方法论已完成。*
+*本文档对应 RIA-TV++ 管道 v9.1，核心改进：新增 Stage 6 七层汇聚验证框架，7 系列 209 个 Skill + 汇聚验证方法论已完成。*

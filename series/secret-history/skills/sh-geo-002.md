@@ -1,7 +1,7 @@
 ---
 name: "大战略三层攻击向量模型"
 description: "任何国家/组织的战略力量都可以拆解为三层——软力量层（情报/网络/意识形态）、非对称层（代理人/无人机/超限战）、硬实力层（常规军力/地理防御）。三层齐备的国家最难对付"
-source_series: "Secret History / World War 3 Analysis"
+source_series: "Secret History"
 source_episodes:
   - "WW3 Analysis: Grand Strategy of Israel, Russia, Iran"
 tags:

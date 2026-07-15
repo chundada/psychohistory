@@ -1,7 +1,7 @@
 ---
 name: "影子系统规避模型"
 description: "当规则体系试图限制某个行为体时，被限制者不会坐以待毙——他们会建立'影子系统'来绕过规则。影子舰队、影子银行、影子网络……但影子系统本身也会成为新的攻击目标"
-source_series: "Secret History / World War 3 Analysis"
+source_series: "Secret History"
 source_episodes:
   - "WW3 Analysis: Shadow Fleet and Sanctions Evasion"
 tags:

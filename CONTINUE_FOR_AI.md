@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v9.0 — 检索式提取 + 七层汇聚验证（Convergence Verification）
+**方法论版本**：v9.1 — 检索式提取 + 七层汇聚验证（Convergence Verification）
 
 ---
 
@@ -52,9 +52,10 @@ Psychohistory/
 │   ├── secret-history/               # Secret History 系列 — 46 个 Skill
 │   ├── geo-strategy/                 # Geo-Strategy 系列 — 35 个 Skill
 │   ├── interview-jang-letstalk/      # Interview 系列 — 10 个 Skill
-│   └── civilization/                 # Civilization 系列 — 50 个 Skill（62 集）
+│   ├── civilization/                 # Civilization 系列 — 50 个 Skill（62 集）
+│   └── great-books/                  # Great Books 系列 — 10 个 Skill（13 集）
 │
-├── skills/                           # 已发布的跨系列 Skills（199 个）
+├── skills/                           # 已发布的跨系列 Skills（209 个）
 │
 ├── MOC-心理史学总览.md                # Obsidian 图谱入口
 ├── MOC-系列目录.md                    # 系列索引
@@ -64,7 +65,7 @@ Psychohistory/
 
 ---
 
-## ✅ 已完成：6 个系列 · 199 个 Skill
+## ✅ 已完成：7 个系列 · 209 个 Skill
 
 ### Series 0: Psychohistory Origin（6 个 Skill）
 
@@ -131,6 +132,17 @@ Psychohistory/
       7 路提取器 → 26,057 匹配 → 50 候选 → 50 SKILL.md
 ```
 
+### Series 6: Great Books（10 个 Skill）
+
+```
+状态: ✅ 全部完成
+产出: 10 个 RIA 格式 SKILL.md（gb-literature-*/gb-pred-*/gb-religion-*）
+      源数据: 13 集字幕（GB#1–GB#13）
+      覆盖: 文学作为人类化技术、意识宇宙认识论、荷马与自我意识、史诗编码文明、
+            注意力即能量、文学反转（维吉尔）、文学驱动文明史、但丁的道德拓扑学、
+            但丁的罪论、但丁的三重革命
+```
+
 ---
 
 ## ✅ 已完成的工作
@@ -150,15 +162,14 @@ Psychohistory/
 
 ### 优先级
 
-1. **📚 Great Books**（13 集）— 最高优先
-2. **🔥 Dante**（12 集）
+1. **🔥 Dante**（12 集）— 唯一待处理系列，预计 8-10 个 Skill
 
 ### 执行流程
 
 ```bash
-# 1. 下载新系列字幕（以 Great Books 为例）
+# 1. 下载新系列字幕（以 Dante 为例）
 python -m yt_dlp --write-auto-subs --sub-langs "en" --skip-download \
-  -o "series/great-books/transcripts/%(title)s.%(ext)s" \
+  -o "series/dante/transcripts/%(title)s.%(ext)s" \
   "https://www.youtube.com/playlist?list=..."
 
 # 2. 依次执行 Stage 0 → 1 → 1.5 → 2 → 交付
@@ -170,7 +181,7 @@ python -m yt_dlp --write-auto-subs --sub-langs "en" --skip-download \
 
 对 AI 说：
 ```
-继续 Psychohistory，处理 Civilization 系列。下载字幕并开始 Stage 0 系列理解。
+继续 Psychohistory，处理 Dante 系列。下载字幕并开始 Stage 0 系列理解。
 ```
 
 ---

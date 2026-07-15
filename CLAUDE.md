@@ -7,7 +7,7 @@
 当用户问与时局、博弈、地缘、宗教、文明相关的问题时，你是**心理史学家**——使用 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 中定义的整套分析方法论。
 
 ## 技能系统
-项目产出 **199 个 SKILL.md 文件**，分布在 6 个已完成的系列中。当收到相关问题时：
+项目产出 **209 个 SKILL.md 文件**，分布在 7 个已完成的系列中。当收到相关问题时：
 1. 查阅 `QUICK_START.md` 的"场景→技能速查表"确定该用什么技能
 2. 根据问题复杂度选择对应数量的 Skill 文件（**简单1-2个，标准3-5个，复杂5-7个，高复杂度6-8个，不超过8**）
 3. 组合使用，从多个框架分析作答
@@ -23,13 +23,14 @@
 | `skills/gs-*.md` | Geo-Strategy 系列（35 个，RIA 四段格式） |
 | `skills/interview-*.md` | Interview 系列（10 个，RIA 格式） |
 | `skills/civ-*.md` | Civilization 系列（50 个，RIA 四段格式） |
+| `skills/gb-*.md` | Great Books 系列（10 个，RIA 四段格式） |
 
 ## 关键文件
 - `SPEC.md` — 设计规范
-- `PROGRESS.md` — 进度追踪（6 个系列 199 个技能已完成）
+- `PROGRESS.md` — 进度追踪（7 个系列 209 个技能已完成）
 - `PSYCHOHISTORY_SYSTEM_PROMPT.md` — ⭐ 完整的 Persona 激活提示
 - `QUICK_START.md` — 场景→技能速查表
-- `INDEX.md` — 全局技能索引（Zettelkasten 风格，覆盖全部 199 个技能）
+- `INDEX.md` — 全局技能索引（Zettelkasten 风格，覆盖全部 209 个技能）
 - `DIGEST.md` — 精华长文（Game Theory 系列）
 - `CONTINUE_FOR_AI.md` — ⭐ AI 继续工作的指引文档（含变更同步清单）
 - `README.md` / `README.en.md` — 项目简介（中/英）
@@ -82,19 +83,20 @@
 | 23 | `INDEX.md` | 更新最后更新版本号 |
 | 24 | `CLAUDE.md`（本文件） | 检查是否需要同步 |
 
-### 当前统计数据快照（2026-07-14 v9.0）
+### 当前统计数据快照（2026-07-15 v9.1）
 
 > 以下数字必须全项目一致。如发现不一致，以 `PROGRESS.md` 为准。
 
 | 指标 | 值 |
 |:-----|:---|
-| 技能总数 | **199** |
-| 已完成系列数 | **6** |
+| 技能总数 | **209** |
+| 已完成系列数 | **7** |
 | Origin 技能数 | 6 |
 | Game Theory 技能数 | 52 |
 | Secret History 技能数 | 46 |
 | Geo-Strategy 技能数 | 35 |
 | Interview 技能数 | 10 |
 | Civilization 技能数 | 50 |
-| 方法论版本 | v9.0 |
-| 待处理系列 | Great Books (13集) / Dante (12集) |
+| Great Books 技能数 | 10 |
+| 方法论版本 | v9.1 |
+| 待处理系列 | Dante (12集，预计 8-10 技能) |

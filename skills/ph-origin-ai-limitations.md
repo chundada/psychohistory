@@ -87,4 +87,4 @@ updated: 2026-07-13
 - **与 [[interview-fail-hubris-signal]]**：对 AI 的过度自信本身就是一种傲慢信号，是思维失败的前兆
 - **与 [[interview-pred-causal-chain]]**：因果链模型必须考虑人类的策略性反应，否则预测会失效
 - **与 [[ph-origin-psychohistory-definition]]**：三要素框架正是从 AI 的局限性中推导出来的
-- **与 [[gt-false-dichotomy]]**：避免陷入"AI 万能 vs AI 无用"的虚假二分，真正的答案在中间
+- **与 [[gt-failure-false-dichotomy]]**：避免陷入"AI 万能 vs AI 无用"的虚假二分，真正的答案在中间

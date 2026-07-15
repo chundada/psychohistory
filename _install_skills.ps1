@@ -1,7 +1,7 @@
 # Install Psychohistory — full system
 # Run: PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 
-$projectRoot = "C:\Users\周春宇\Desktop\Psychohistory"
+$projectRoot = $PSScriptRoot
 
 Write-Host "🧠 Psychohistory — Full System Install" -ForegroundColor Cyan
 Write-Host "======================================`n" -ForegroundColor Cyan

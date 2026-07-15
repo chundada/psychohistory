@@ -1,8 +1,8 @@
 # PSYCHOHISTORY · 心理史学全局索引
 
 > **Zettelkasten 风格技能总索引**  
-> 已蒸馏 **199 个技能** × 6 个系列 + 2 个实战案例  
-> 最后更新：2026-07-14 (v9.0)  
+> 已蒸馏 **209 个技能** × 7 个系列 + 2 个实战案例  
+> 最后更新：2026-07-15 (v9.1)  
 > ⭐ **核心方法**：`methodology/08-stage6-convergence-verify.md` — 七层汇聚验证法
 
 | 系列 | 前缀 | 数量 | 位置 |
@@ -13,7 +13,8 @@
 | Geo-Strategy | `gs-` | 35 | `skills/` |
 | Interview | `interview-` | 10 | `skills/` |
 | Civilization | `civ-` | 50 | `skills/` |
-| **合计** | | **199** | |
+| Great Books | `gb-` | 10 | `skills/` |
+| **合计** | | **209** | |
 
 ---
 
@@ -25,6 +26,7 @@
 - [Geo-Strategy（35）](#geo-strategy--地缘战略)
 - [Interview（10）](#interview--访谈)
 - [Civilization（50）](#civilization--文明史)
+- [Great Books（10）](#great-books--经典文学)
 - [实战案例](#实战案例)
 
 ---
