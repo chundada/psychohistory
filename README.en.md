@@ -65,8 +65,6 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 | Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
 | Civilization | 62 | 50 | RIA (R/I/A/B) | `skills/civ-*.md` |
 | Great Books | 13 | 10 | RIA (R/I/A/B) | `skills/gb-*.md` |
-| **Pending** | | | | |
-| Dante | 12 | — | — | — |
 
 ---
 

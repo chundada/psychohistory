@@ -7,8 +7,8 @@ status: live
 
 # MOC - 系列目录
 
-> 心理史学项目涵盖 7 大系列，总计约 160 集。
-> 已完成 7 个系列（Origin + GT + SH + GS + Interview + Civilization + Great Books），共 209 个 Skill。
+> 心理史学项目涵盖 7 大系列，总计约 160 集。全部系列已蒸馏完成。
+> 共 7 个系列（Origin + GT + SH + GS + Interview + Civilization + Great Books），209 个 Skill。
 
 ---
 
@@ -22,8 +22,7 @@ status: live
 | 3 | Secret History | **28** | ~25h | 宗教哲学、权力、历史深层逻辑 | **已完成**（46 Skill） |
 | 4 | Geo-Strategy | **11+8** | ~8h | 地缘战略、时局、预测 | **已完成**（35 Skill） |
 | 5 | Great Books | **13** | ~5h | 经典文本、思想史 | **已完成**（10 Skill） |
-| 6 | Dante | **12** | ~50h | 宗教哲学、文学 | 待处理 |
-| 7 | Interview (Jang Let's Talk) | — | — | 深度访谈、时局分析 | **已完成**（10 Skill） |
+| 6 | Interview (Jang Let's Talk) | — | — | 深度访谈、时局分析 | **已完成**（10 Skill） |
 
 ---
 
@@ -79,19 +78,13 @@ status: live
 - **核心话题**：经典文本解读、文学作为人类化技术、意识宇宙认识论、史诗编码文明、文学反转、但丁的三重革命
 - **状态**：**已完成**（10 个 Skill，RIA 四段格式），位于 `skills/gb-*.md`
 
-### Dante
-- **集数**：12 集
-- **时长**：约 50 小时
-- **核心话题**：神曲深度解读、宗教哲学、文学分析
-- **状态**：待处理
-
 ---
 
 ## 扩展路线
 
 ```
 ✅ Game Theory → ✅ Secret History → ✅ Geo-Strategy → ✅ Interview → ✅ Origin → ✅ Civilization
-✅ Great Books (13集 → 10技能) → ⏳ Dante (12集)
+✅ Great Books (13集 → 10技能)
   → 新视频持续注入（按系列归入 → 检索式增量提取 → 重新链接）
 ```
 

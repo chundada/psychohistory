@@ -156,33 +156,7 @@ Psychohistory/
 | 前期 | Obsidian 库 + AI 接手文档 |
 | 前期 | v3.0 检索式提取方法论 |
 
----
 
-## 🔜 下一步（新系列启动）
-
-### 优先级
-
-1. **🔥 Dante**（12 集）— 唯一待处理系列，预计 8-10 个 Skill
-
-### 执行流程
-
-```bash
-# 1. 下载新系列字幕（以 Dante 为例）
-python -m yt_dlp --write-auto-subs --sub-langs "en" --skip-download \
-  -o "series/dante/transcripts/%(title)s.%(ext)s" \
-  "https://www.youtube.com/playlist?list=..."
-
-# 2. 依次执行 Stage 0 → 1 → 1.5 → 2 → 交付
-# 3. 与已有 skills/ 做 Zettelkasten 链接
-# 4. 更新 INDEX.md + DIGEST.md + 推送
-```
-
-### 启动命令
-
-对 AI 说：
-```
-继续 Psychohistory，处理 Dante 系列。下载字幕并开始 Stage 0 系列理解。
-```
 
 ---
 

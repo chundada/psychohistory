@@ -60,8 +60,7 @@ gantt
     Stage 2 RIA 构造 (10)    :done, 2026-07-15, 1d
     Stage 3 交付             :done, 2026-07-15, 1d
 
-    section Phase 7 - 后续 (待处理)
-    Dante 系列(12集)         :2026-08-01, 3d
+
 ```
 
 ---
@@ -176,18 +175,13 @@ gantt
 
 ---
 
-## 🟢 下一个系列待处理
-
-| 系列 | 集数 | 预计 Skills | 优先级 |
-|---|---|---|---|
-| 🔥 **Dante** | **12** | 8-10 | ⭐ |
-
 ---
 
 ## 📌 方法论版本记录
 
 | 版本 | 日期 | 变更 |
 |------|------|------|
+| **v9.2** | 2026-07-15 | 移除 Dante 待处理系列 — 更新全部文档同步（CLAUDE.md/INDEX.md/README/MOC/CONTINUE_FOR_AI/PROGRESS/SPEC/DIGEST），所有系列已完工，无待处理项 |
 | **v9.1** | 2026-07-15 | Great Books 系列完成 — 13 集字幕下载、Stage 0-3 全流程、10 个 SKILL.md（gb-literature-*/gb-pred-*/gb-religion-*），总技能数 199→209，系列数 6→7 |
 | **v9.0** | 2026-07-14 | 新增七层汇聚验证框架（Stage 6）：methodology/08-stage6-convergence-verify.md。升级PSYCHOHISTORY_SYSTEM_PROMPT.md核心方法，更新QUICK_START.md工作流，同步所有MOC文档。方法论版本：检索式提取 v9.0 |
 | **v8.0** | 2026-07-14 | Civilization 系列完成 — 62 集字幕下载、Stage 0-3 全流程、50 个 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*），总技能数 149→199 |

@@ -114,7 +114,7 @@ Stage 0(系列理解) → Stage 1(检索式提取) → Stage 2(RIA+ 建造,含�
 
 ```
 Game Theory (Pilot) → Civilization (59集) → Secret History (27集)
-  → Geo-Strategy (19集) → Great Books + Dante (25集)
+  → Geo-Strategy (19集) → Great Books (13集)
   → 新视频持续注入（按系列归入 → 检索式增量提取 → 重新链接）
 ```
 
