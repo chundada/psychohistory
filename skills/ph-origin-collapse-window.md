@@ -26,8 +26,10 @@ updated: 2026-07-13
 
 > "When Homer was writing, society had collapsed. When Dante was writing, society had collapsed. So if it is true, if my predictions are correct and society is approaching collapse, then there should be a lot of space and leeway and flexibility to create this AI."
 
+> [GSEND 00:02:48]
 > "Where there is darkness, there can also be light."
 
+> [GSEND 00:02:37]
 > "This is an extremely hopeless, an extremely bleak and dark picture of the world. But remember where there is darkness, there can also be light."
 
 > "The future is what we imagine, not what we have to put up with. So if we don't like the future, if we don't like the way we live our lives, then we can change that with our imagination."

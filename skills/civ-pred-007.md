@@ -22,9 +22,10 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#58 00:00-05:00; C#END 18:00-20:00]
+> [C#58 00:00-05:00; C#END 18:00-20:00 00:00:28]
 > "Nation state is composed of two words: nation and state. State is easy to understand — it is just the supreme executive authority sovereign to a territory. The nation is a new idea and it's the idea of a people with a shared identity whether it's a language or a culture or a history or ethnicity."
 >
+> [C#58 00:01:22]
 > "This idea of the nation state is probably the most powerful ideology in human history. It has led people to tremendous achievements, but it's also led people to catastrophic wars, including World War I and World War II."
 >
 > "In the Pax Americana, what matters is the international rules-based order... World War II was about the nation-state."

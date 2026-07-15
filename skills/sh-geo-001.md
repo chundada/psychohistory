@@ -24,12 +24,15 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [SH28 00:00:53]
 > "The Jews are construct and tool of empire. In other words, they're really the middle managers to the ones who helped manage the empire."
 
 > "The Jews weren't around, then it would be the Indians or some other group."
 
+> [SH28 00:28:06]
 > "When these wars come out, what these Jews do is they support both sides. They support both sides... they make a lot of money and then they figure out where it is in their most advantage to be."
 
+> [SH01 00:24:30]
 > "Power has brainwashed you into thinking something that is not true. You've been taught from the first day that money is scarce."
 
 ---

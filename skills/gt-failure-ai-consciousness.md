@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -60,13 +56,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者将 AI 意识幻觉置于"Reality is a Hallucination"的更大框架中：AI 是柏拉图洞穴中的新影子。精英通过控制 AI 的输出——即控制"影子"的样子——来操控民众的信仰。他预测硅谷精英会利用 AI 创造"新宗教"（AI 作为神谕/先知），因为控制意识的工具比控制身体的工具更强大。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -76,9 +73,8 @@ v2_prediction_strength: "weak"
 4. **AI公司的营销宣传将AI拟人化时**——"我们的AI会思考""你的AI助手了解你"
 5. **看到他人将感情寄托在AI上时**（与AI恋爱、成为AI的"朋友"）——这是ELIZA效应在当代的极端表现
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **理解基本原理**：了解当前AI（LLM）的工作原理——统计模式匹配，不是思考——这是免疫的第一步
 2. **识别拟人化语言**：标出所有将AI行为描述为"理解""想要""认为""感觉"的表述

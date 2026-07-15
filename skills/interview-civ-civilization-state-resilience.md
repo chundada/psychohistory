@@ -22,8 +22,10 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "Iran is a different case because Iran it is a cohesive civilization state. Correct. They're very proud of being Persian. Right. Also they've been under sanctions ever since 1979. Ever since 1979 they knew that they would eventually confront the great Satan. They knew that eventually America would want to regime change their government. So they've been preparing at least for 20 years, right? Because in 2003 when United States went into Iraq and the Iranian people were able to see what happened in Iraq, they knew that eventually America would come and do the same thing to Iran."
 
+> [Interview]
 > "first of all, uh the regime has proven to be much more cohesive and resilient than Americans could possibly imagine because they killed like I think up to like three tiers of leadership, right? So not only they kill the top leadership, they but they killed the replacement and then the replacement to the replacement."
 
 ---

@@ -21,6 +21,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "But you could surmise that if he were to come back into office, then he would declare war on Iran, right? So, these two things were linked together. If Donald Trump could win in 2024, then he would most certainly declare war against Iran. So, we're now entering into the, you know, fifth month of this conflict."
 
 > "these two things were linked together"

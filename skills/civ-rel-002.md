@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 波斯熔炉——居鲁士与弥赛亚概念的地缘政治锻造

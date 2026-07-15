@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -48,6 +44,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者用"约会游戏"（GT01）作为核心案例：玩家（年轻男女）、规则（约会规范/社会期望）、激励（婚姻/地位/基因传播）。通过分析三组件，作者预测了现代社会的婚配危机——所有女性追求同一小群顶级男性→该群男性没有动力承诺→大量女性资源浪费→生育率崩溃。这一预测不是来自复杂的数学模型，而是来自简单的三组件分析。

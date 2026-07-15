@@ -14,8 +14,6 @@ tags:
 related_skills:
   - "gt-predictive-004"
   - "gt-predictive-009"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-013"
   - "gt-predictive-002"
@@ -62,13 +60,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授引用了Karen Hao的《Empire of AI》一书，展示了OpenAI从理想主义项目转变为"帝国"的过程。教授特别指出：(1) AI的核心技术（监督学习+反向传播）并不神秘，但其营销包装成"魔法"和"神"是为了制造宗教化效应；(2) 数据中心的庞大投资（$5000亿"星门"计划）从算力角度不合理，但从"建造祭仪场所"角度完全合理；(3) 中美AI公司之间的"竞争"是表演——实际上双方共享同一神秘主义愿景。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -77,9 +76,8 @@ v2_prediction_strength: "strong"
 3. 需要判断AI"威胁论"或"奇点论"背后的真实驱动力
 4. 评估政府对AI的监管需求——从"祭仪"而非"技术"角度出发
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **忽略技术路线图**：暂时搁置算力、参数、benchmark等技术指标（这些是表象而非驱动力）
 2. **追踪意识形态信号**：收集AI公司高管的公开言论，特别是关于"神""灵魂""意识""永生""外星人"的言论

@@ -1,6 +1,6 @@
 ---
 name: "Pax Judaica 神学帝国"
-description: "将圣经预言（从尼罗河到幼发拉底的大以色列）、卡巴拉神秘主义与AI监控国家合并为一个神学-技术帝国方案"
+description: "分析姜雪琴在 GT16/GT12 中转述的一种神学-地缘政治叙事——该叙事将大以色列预言、卡巴拉与 AI 监控合并为帝国方案；属于叙事分析对象，非事实主张"
 source_series: "Game Theory"
 source_episodes:
   - "GT16"
@@ -9,11 +9,9 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
 depends-on:
   - "gt-religion-messianic-accelerationism"
   - "gt-religion-kabbalistic-redemption"
-contrasts-with: []
 composes-with:
   - "gt-religion-eschatological-convergence"
   - "gt-religion-ai-stargate-rapture"
@@ -21,6 +19,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # Pax Judaica 神学帝国
@@ -66,13 +65,14 @@ Pax Judaica 是一个三层嵌套的神学-地缘政治叙事：
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT16中，作者将Pax Judaica呈现为美国帝国衰落后的最可能替代方案。作者用四维战争分析（叙事、政治、经济和军事）证明美国正在输掉伊朗战争，而以色列正在通过展示"意志、制造能力和战略智慧"来试镜成为新帝国。在GT12中，作者揭示了这一方案的神学基础——共济会、基督教锡安主义者和犹太教极端派系正在推动这一计划，而大多数人不了解它的真实本质。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -83,9 +83,8 @@ Pax Judaica 是一个三层嵌套的神学-地缘政治叙事：
 - **中东贸易路线重新布线**以以色列为中心——印度-中东-欧洲走廊（IMEC）
 - **AI监控基础设施在中东快速扩张**——帝国神经系统
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **追踪美国帝国衰落 vs 以色列能力上升的对比指标**：军事、经济、政治意志、技术优势
 2. **监测大以色列项目的地理推进**：约旦河西岸定居点、戈兰高地、叙利亚/黎巴嫩边境动态

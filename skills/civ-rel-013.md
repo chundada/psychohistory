@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 诺斯底竞争——正统/异端竞争作为宗教进化的机制

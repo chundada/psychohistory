@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -58,15 +54,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以"学校恶霸"比喻美国帝国：恶霸要维护"信誉"所以必须对任何轻微挑战做出激烈反应。这种刚性导致战略僵化——恶霸在每场冲突中都必须"赢"（升级），反而被挑战者操纵。案例包括：美国在越战中不断升级轰炸但仍然失败；伊朗通过代理人战争策略让美国无法用传统军力优势应对，陷入升级困境。
 
 作者还指出 MAD（相互确保摧毁）虽然防止了核战争，但大国在常规战争中的升级博弈仍然适用这一法则。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -76,9 +73,8 @@ v2_prediction_strength: "strong"
 4. **冲突有明确的升级阶梯**（从口角到法律/军事行动）——需要决定在哪一级梯级回应
 5. **你的对手更强大但更不灵活**——这是校准策略生效的最佳场景
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **评估实力对比**：确认你的硬实力弱于对方，但你的灵活性高于对方
 2. **识别对手的"信誉承诺"**：找出对手在哪条红线上不能退让（这些承诺是其战略僵化的来源）

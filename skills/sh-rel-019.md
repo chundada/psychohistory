@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 犹太和平
@@ -21,7 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH29]
+> [SH29 00:25:34]
 > "So, I'm not saying this is true, but I'm saying like if the goal is packed, it does help us connect the dots. It helps explain why things are happening the way they are."
 >
 > — SH29: Pax Judaica

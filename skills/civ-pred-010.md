@@ -21,11 +21,12 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#46 00:00-15:00]
+> [C#46 00:00-15:00 00:00:03]
 > "Today we start a three-part series on the French Revolution, which I believe to be the most significant event in human history."
 >
 > "It is the religious worldview that underpins society and civilization. It is what allows society to function."
 >
+> [C#46 00:00:29]
 > "To oversimplify, there have been four major religious worldviews in human history: animistic, polytheistic, monotheistic, and now... rational."
 >
 > — C#46: The Revolution of Reason

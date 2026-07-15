@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 奥古斯丁两城记——文明崩溃时的神学生存策略

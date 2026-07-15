@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 荷马的文明边界——史诗如何定义"我们"与"他们"

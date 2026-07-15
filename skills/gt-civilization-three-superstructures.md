@@ -8,9 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-civilization-fertility-leading-indicator"
   - "gt-civilization-eoc-model"
@@ -59,13 +56,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者用此框架解释了人类从原始部落到现代社会的演化轨迹。在GT01中，他展示了不同阶段的婚姻制度其实是对超结构约束的理性反应——在第三阶段，女性"不将就"不是道德堕落，而是在地位博弈中理性的策略行为。作者的预测是：一旦进入第三阶段，没有任何政策（补贴、宣传、福利）能逆转生育率下降趋势，因为地位博弈是零和而不可满足的。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你需要理解以下任何现象时，应用此框架：
 
@@ -75,9 +73,8 @@ v2_prediction_strength: "strong"
 - **为什么女性受教育程度与生育率负相关？**——教育增加女性的地位竞争筹码，提高生育的机会成本
 - **正在经历人口转型的社会应如何定位自身？**——确认当前处于哪个超结构阶段
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **确定社会的基本参数**：人口规模、密度、增长率、人均财富、技术水平、外部竞争强度
 2. **匹配超结构阶段**：用以下维度判断——A) 生育动机（生存/竞争/地位）；B) 婚姻模式（父权混淆/包办/约会）；C) 社会凝聚力来源（血缘/集体目标/个人成就）

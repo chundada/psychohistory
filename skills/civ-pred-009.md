@@ -26,6 +26,7 @@ updated: 2026-07-14
 >
 > "Sparta had a hoplite army, it became an oligarchy. Athens had a navy, and so it was a democracy. Macedonia had the companion cavalry, and it was a monarchy. Rome had the legion, and it was a republic."
 >
+> [C#45 00:00:09]
 > "How did Europe, starting about the year 1700, conquer the entire world?"
 >
 > — C#45: The Gunpowder Revolution

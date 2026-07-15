@@ -9,15 +9,13 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
 ---
+
+> 本技能与 ph-origin-elite-overproduction 同主题，以该技能为主技能；本文件保留差异化的原始引文与应用案例。
 
 # 精英过剩（Glossary 定义）
 
@@ -51,6 +49,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT03 和 GT10 中反复使用精英过剩来解释从美国内战（南北精英的零和博弈）到中国革命（精英分裂的极端表现）再到当代美国的两极化（民主党 vs 共和党精英内斗）的全部现象。在帝国层面，精英过剩是"不对称法则"中 Organization → Elite Overproduction 的产物。

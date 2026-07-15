@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - geopolitics
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -57,13 +53,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT27 中以普京视角阐述这一战略：普京的真实大战略不是占领乌克兰领土，而是通过能源武器、黄金储备、与中国/伊朗/印度建立非美元贸易体系来腐蚀美元霸权。作者指出，2022年俄乌战争后美国冻结俄罗斯3000亿美元外汇储备是全球南方的"觉醒时刻"——各国意识到美元储备可能被随时没收，加速了去美元化进程。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -73,9 +70,8 @@ v2_prediction_strength: "strong"
 4. **美国国债/GDP比率攀升至历史高位**——美元信用压力增大
 5. **SWIFT被武器化用于制裁**——促使受制裁国家建立替代系统
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **评估美元霸权健康度**：监控美元在全球外汇储备中的占比趋势（警戒线：跌破50%）
 2. **追踪去美元化协议网络**：绘制所有签署本币结算协议的双边/多边关系图

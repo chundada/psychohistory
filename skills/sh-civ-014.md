@@ -21,7 +21,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH28]
+> [SH28 00:00:02]
 > "We've discussed transnational capital, the British Empire. We've also discussed the Sabatine Franks. Today we will put the two ideas together and show how the alliance between these two different forces have created modernity."
 >
 > — SH28: Empire of Evil

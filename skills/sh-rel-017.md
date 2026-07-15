@@ -13,6 +13,7 @@ tags:
   - empire
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 天堂特许经营权
@@ -30,6 +31,7 @@ updated: 2026-07-13
 
 > "Once Paul builds the structure of Christianity, the church system based on the pattern... it becomes the empire itself."
 
+> [SH24 00:01:08]
 > "Jesus who's come to remind you that you don't have to be a slave... higher power than the Roman Empire."
 
 > "We need to create an organized religion and we need to fool people... Catholic Church will pretend to worship Jesus, but actually we're going to worship Satan."

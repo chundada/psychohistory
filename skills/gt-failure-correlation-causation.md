@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -50,13 +46,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者批判美国教育体系基于此类错误归因设计的"成功学"课程：要求贫困学生早起、穿西装、培养"成功习惯"——但这些特征是中产/上层阶级的文化标志（success symbols），而非成功的原因。他进一步指出这对贫困学生更具破坏性：当他们按建议做后仍然未获成功，他们会自责而非质疑框架本身。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -66,9 +63,8 @@ v2_prediction_strength: "weak"
 4. **听到"只要...就能..."式的简化成功论时**——尤其是省略了前提条件的叙述
 5. **自我归因时**：如果你相信"不成功是因为没做到某些成功者的习惯"，请检查是否误将相关当因果
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别相关性声明**：标出所有"X和Y相关/同时出现"的论述
 2. **提出反向因果假设**：假设Y导致X而非X导致Y（成功导致早起，而非早起导致成功）

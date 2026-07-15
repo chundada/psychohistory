@@ -13,6 +13,7 @@ tags:
   - civilization
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 三大一神教谱系

@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -51,6 +47,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在整个系列中反复引用非对称法则来解释美国-伊朗博弈：美国40年制裁没有消灭伊朗，反而激发了伊朗的自主工业能力、内部凝聚力和区域代理人网络。而非对称法则也适用于其他帝国场景——从古罗马 vs 日耳曼部落到美国 vs 阿富汗。

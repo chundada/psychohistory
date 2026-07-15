@@ -13,7 +13,7 @@ Psychohistory distills analytical frameworks spanning game theory, geopolitics, 
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
-> **Methodology v9.1** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/08-stage6-convergence-verify.md`.
+> **Methodology v10.0** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/convergence-verify.md`.
 
 ---
 
@@ -25,7 +25,7 @@ The core premise: historical prediction is not fortune-telling. It is a **multi-
 | **PSYCHOHISTORY_SYSTEM_PROMPT.md** | Complete persona activation prompt — paste into any AI to instantiate the analyst role |
 | **QUICK_START.md** | Scenario-to-skill lookup table (22 scenarios mapped to recommended skill combinations) |
 | **INDEX.md** | Zettelkasten-style skill index with trigger scenarios |
-| **DIGEST.md** | Curated long-read summary of the Game Theory series |
+| **series/game-theory/DIGEST.md** | Curated long-read summary of the Game Theory series |
 
 ---
 
@@ -54,17 +54,7 @@ Traditional knowledge distillation follows a "compress → summarize" pipeline t
 
 ## Current Status
 
-**7 series completed · 209 Skill files · ~90% of total lecture content processed**
-
-| Series | Episodes | Skills | Format | Location |
-|---|---|---|---|---|
-| Psychohistory Origin | — | 6 | RIA (R/I/A/B) | `skills/ph-origin-*.md` |
-| Game Theory | 29 | 52 | RIA++ (R/I/A1/A2/E/B) | `skills/gt-*.md` |
-| Secret History | 28 | 46 | RIA (R/I/A/B) | `skills/sh-*.md` |
-| Geo-Strategy | 19 | 35 | RIA (R/I/A/B) | `skills/gs-*.md` |
-| Interview (Jang Let's Talk) | — | 10 | RIA | `skills/interview-*.md` |
-| Civilization | 62 | 50 | RIA (R/I/A/B) | `skills/civ-*.md` |
-| Great Books | 13 | 10 | RIA (R/I/A/B) | `skills/gb-*.md` |
+**7 series completed · 209 Skill files (~151 episodes), actively expanding** — per-series episode/skill counts and the latest statistics are tracked in `PROGRESS.md` (the single source of truth).
 
 ---
 
@@ -101,7 +91,7 @@ PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automatically:
 
 1. Activate the psychohistorian persona
-2. Select 2-4 relevant skills from the library
+2. Select skills by question complexity (3-5 for a standard analysis, 1-2 for simple questions, up to 8 for complex scenarios)
 3. Apply **multi-framework convergence validation**
 4. Self-calibrate using the failure mode checklist
 5. Output **conditional predictions** with explicit boundary conditions
@@ -110,35 +100,7 @@ Copy `PSYCHOHISTORY_SYSTEM_PROMPT.md` as the system prompt. The AI will automati
 
 ## Repository Structure
 
-```
-Psychohistory/
-├── PSYCHOHISTORY_SYSTEM_PROMPT.md   ⬅ Persona activation prompt
-├── skills/                            ⬅ 209 structured Skill files
-│   ├── ph-origin-*.md                 Psychohistory Origin (6)
-│   ├── gt-*.md                        Game Theory (52)
-│   ├── sh-*.md                        Secret History (46)
-│   ├── gs-*.md                        Geo-Strategy (35)
-│   ├── interview-*.md                 Interview (10)
-│   ├── civ-*.md                       Civilization (50)
-│   └── gb-*.md                        Great Books (10)
-├── cases/                             ⬅ Case studies (multi-framework demonstrations)
-├── QUICK_START.md                     ⬅ Scenario-to-skill lookup
-├── DIGEST.md                          ⬅ Curated reading
-├── INDEX.md                           ⬅ Zettelkasten trigger index
-├── PROGRESS.md                        ⬅ Project progress tracking
-├── CLAUDE.md                          ⬅ AI workspace configuration
-├── extractors/                        ⬅ 7 retrieval-based extractors
-├── methodology/                       ⬅ Distillation pipeline SOPs
-├── series/                            ⬅ Source transcripts by series
-│   ├── psychohistory-origin/
-│   ├── game-theory/
-│   ├── geo-strategy/
-│   ├── secret-history/
-│   ├── interview-jang-letstalk/
-│   ├── civilization/
-│   └── great-books/
-└── SPEC.md                            ⬅ Design specification
-```
+See `README.md` for the full repository layout (kept single-sourced there).
 
 ---
 

@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -55,15 +51,16 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以特朗普为例：媒体塑造"特朗普独裁者"形象，但特朗普连修建边境墙的承诺都无法兑现（被法院/国会/军队阻挠）。普京同理——如果普京真能一人控制俄罗斯，他不会在俄乌战争中犯下如此多的战略失误。这些失误源于不同利益集团（军火商、石油寡头、安全部门）之间的拉扯。
 
 作者进一步警告：如果把一切归因于个人，你无法预测政治——因为你在分析个人"意图"而非系统"结构"。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -73,9 +70,8 @@ v2_prediction_strength: "weak"
 4. **评估政权稳定性时**——如果分析只看领导人个人支持率而不看利益集团对齐度，结论会偏
 5. **某国政策出现明显矛盾或不一致时**——这正是不同利益集团拉扯的结果，而非领导人"反复无常"
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **替换分析框架**：从"个人决策"模型切换到"多力量对齐"模型
 2. **识别关键权力节点**：列出该国/组织中最有影响力的5-8个集团（军事、金融、工业、情报、文化等）

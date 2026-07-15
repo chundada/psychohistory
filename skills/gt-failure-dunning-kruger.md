@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -53,13 +49,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以美国2008年金融危机为例：华尔街CEO们和美联储主席极度自信自己的模型能控制风险——但这种自信恰恰是他们对风险认知不足的产物。真正的风险专家（如 Taleb 等黑天鹅理论家）反而极度没有自信、不断质疑自己的假设。达克效应解释了为什么权力顶层的人最容易忽视系统性风险。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -69,9 +66,8 @@ v2_prediction_strength: "weak"
 4. **领导人/CEO连续做出错误决策但从不停下来质疑自己的假设时**
 5. **你在学习新领域的初期感受到"我已经懂了"的错觉时**——这是你自己的达克效应
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别高危场景**：权力高度集中且缺乏反馈机制的组织——达克效应最猖獗的环境
 2. **测量自信与能力的差距**：对比一个人的自我评价（"我多擅长X"）与客观表现指标

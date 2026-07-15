@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - geopolitics
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -59,15 +55,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT16 中首次系统阐述此框架，并将其作为理解美国-伊朗-以色列三边关系的钥匙。第一定律解释了为什么以色列和伊朗最终会合作抛弃各自的"弱小盟友"；第二定律解释了为什么海湾国家永远无法形成独立于美国的外交政策；第三定律解释了中东和平的本质——不是和平条约，而是大国的势力范围划分。
 
 在 GT28（Predictive History）中作者将此三定律用于预测：俄、中、伊的欧亚大陆同盟将按第一定律运作——他们尊重彼此势力范围、共同排挤美国（作为"第四方"）。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -77,9 +74,8 @@ v2_prediction_strength: "strong"
 4. **遇到理想主义外交政策叙事时**（如"民主推广""人权高于主权"）——用三定律识别真实动机
 5. **理解看似矛盾的地缘联盟时**——如以色列与阿拉伯国家的关系正常化（亚伯拉罕协议）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别强者与弱者**：按综合国力（经济+军事+人口+技术）将参与方排列
 2. **绘制"实力轴"**：标注谁是统治级玩家（可单独行动）、谁是次级玩家（需站队）

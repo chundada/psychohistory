@@ -21,7 +21,7 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#8]
+> [C#8 00:01:15]
 > "Geography is destiny. And this basically means that your geography will determine the culture, the economy, and the political structure of your society."
 >
 > — C#8: Greek City-States and Geographic Destiny

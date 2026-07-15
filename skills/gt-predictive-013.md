@@ -15,8 +15,6 @@ related_skills:
   - "gt-predictive-008"
   - "gt-predictive-006"
   - "gt-predictive-005"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-010"
   - "gt-predictive-015"
@@ -59,13 +57,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架预测了全球贸易战争演化方向：(1) 美国控制马六甲→封锁中国能源进口→迫使中国从美国购买液化天然气→用美元结算；(2) 美国控制巴拿马运河→封锁中国与拉美的农产品贸易；(3) 美国通过印尼协议军事化第一岛链→封锁中国东出太平洋的通道；(4) 伊朗被攻击导致霍尔木兹海峡关闭→全球20%能源供应被切断→世界经济衰退。教授的结论是：美国已对所有挑战者形成了"咽喉点包围圈"，短期（5-10年）内任何国家都无法突破。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -75,9 +74,8 @@ v2_prediction_strength: "strong"
 4. 理解"一带一路"或其他替代贸易路线的战略意义
 5. 分析海军军备竞赛的底层逻辑
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **绘制咽喉点地图**：在全球地图上标出6-8个关键咽喉点的位置
 2. **评估各点控制权**：

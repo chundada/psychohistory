@@ -9,9 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-religion-messianic-accelerationism"
   - "gt-religion-pax-judaica"
@@ -19,6 +16,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 卡巴拉通过罪恶救赎
@@ -54,13 +52,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT28和GT14中，作者将卡巴拉"通过罪恶救赎"的叙事直接映射到当代中东地缘政治。他指出耶路撒冷神学派对特拉维夫遭伊朗导弹袭击"毫不悲伤"的原因——因为世俗、唯物主义的特拉维夫是"动物灵魂"的化身，它的毁灭是精神净化的必要阶段。作者揭示极端的以色列宗教领袖不是在战争中寻找和平，而是在毁灭中寻找救赎。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -70,9 +69,8 @@ v2_prediction_strength: "strong"
 - **世俗生命损失在宗教叙事中被重新分类**——对信徒来说，物质损失是精神收益
 - **地缘政治冲突中存在明显的"催促末世"行为**——行动者不是在避免最坏情况，而是在加速它
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别行动者引用的宗教叙事**：是否使用大卫/拔示巴或卡巴拉的隐喻框架？
 2. **区分"物质计算"和"神圣计算"**：对行动者来说，物质赢和神圣赢是否是同一件事？

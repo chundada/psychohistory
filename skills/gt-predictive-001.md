@@ -12,7 +12,6 @@ tags:
 related_skills:
   - "gt-predictive-003"
   - "gt-predictive-009"
-depends-on: []
 contrasts-with:
   - "gt-predictive-010"
 composes-with:
@@ -52,13 +51,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架分析了美伊战争：从地缘政治/现实政治角度，美国攻击伊朗完全不理性；但从末世论角度分析六大传统的汇聚点（第三圣殿、Gog-Magog之战、敌基督崛起），发现所有传统的剧本都指向同一方向——中东战争扩大→全球危机→新秩序。由此预测：(1) 美国将使用地面部队→国家征兵→内战；(2) 阿克萨清真寺将被摧毁→第三圣殿重建；(3) GCC经济崩溃→被以色列吸收；(4) 俄国赢得乌克兰战争→第三罗马预言实现。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当遇到以下情况时，使用本技能：
 
@@ -66,9 +66,8 @@ v2_prediction_strength: "strong"
 2. 冲突各方有明确的宗教/意识形态传统（犹太教/基督教/伊斯兰教/东正教等）
 3. 主流分析框架（现实主义/自由主义）给出的预测互相矛盾
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别冲突各方**：列出所有主要行为体（国家/非国家行为体）
 2. **挖掘极端末世论**：对每个行为体，研究其宗教/意识形态传统中最极端的末世论版本（而非主流温和版本）

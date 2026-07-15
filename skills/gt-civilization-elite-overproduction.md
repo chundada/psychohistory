@@ -9,8 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
-depends-on: []
 contrasts-with:
   - "gt-civilization-asabiyyah"
 composes-with:
@@ -21,6 +19,8 @@ updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
 ---
+
+> 本技能与 ph-origin-elite-overproduction 同主题，以该技能为主技能；本文件保留差异化的原始引文与应用案例。
 
 # 精英过度生产与派系斗争律
 
@@ -57,13 +57,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT05中，作者用战国时期的秦朝统一过程为例：正是不同城邦的派系邀请边缘群体（秦）作为雇佣兵参与内部斗争，才为征服打开了大门。在GT29中，作者将这一概念应用于美国帝国的当前状态——精英派系斗争导致对外政策混乱（无理由入侵委内瑞拉、伊朗）和内部治理崩溃。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此定律：
 
@@ -73,9 +74,8 @@ v2_prediction_strength: "strong"
 - **决策越来越短视，长期战略被派系利益绑架**——精英只关心未来4年而非40年
 - **社会整体利益被反复牺牲以换取派系短期胜利**——"宁予友邦，不予家奴"
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **量化精英生产速度**：统计精英阶层的子女人数、教育轨迹、进入精英层的比例
 2. **测量精英位置增长速度**：政治职位、高管位置、顶级学术位置的增量

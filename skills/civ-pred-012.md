@@ -21,7 +21,7 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#56 00:00-15:00]
+> [C#56 00:00-15:00 00:00:01]
 > "Karl Marx is one most influential thinkers in human history. His contribution to intellectual thought cannot be overstated."
 >
 > "Let's pretend there are two scenarios. In scenario one, you get into a really good college, and you decide to become a lawyer. You make a lot of money. You can buy a big house, go on vacations to Bali, you can have a BMW."

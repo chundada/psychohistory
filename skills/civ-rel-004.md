@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 君士坦丁交换——基督教作为帝国统一操作系统的武器化

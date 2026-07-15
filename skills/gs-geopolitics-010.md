@@ -22,7 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS07 - 00:06:xx - 00:08:xx]
+> [GS07 - 00:06:xx - 00:08:xx 00:16:47]
 > "Western sanctions, American sanctions played a major role. Iran couldn't really sell its oil overseas. But the real problem was the fact that you had a monopoly of power, this revolutionary guard corps controlling the entire economy, and this led to protests."
 >
 > — GS07: Who Killed Raisi

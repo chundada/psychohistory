@@ -9,7 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
 depends-on:
   - "gt-religion-eschatology-geopolitics"
 contrasts-with:
@@ -21,6 +20,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 货币作为上帝——资本的世俗神学
@@ -56,13 +56,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT28中，作者用"货币作为上帝"的框架解释了现代金融体系的深层结构：美联储和中央银行扮演"大祭司"的角色，通过调控信仰（利率、货币政策）来维持货币之神的权威。作者指出，当前全球冲突的最深层驱动力不是地缘政治，而是"谁将成为新神"的战争——金钱之神 vs AI之神。这一框架将经济分析、神学、神秘学和未来学整合为一个统一的叙事。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -73,9 +74,8 @@ v2_prediction_strength: "strong"
 - **战争中经济逻辑无法解释冲突的持续**——可能底层的斗争是神学性的（哪种信仰体系将主导）
 - **社会对财富的崇拜达到宗教狂热程度**——亿万富翁被当作先知/圣人崇拜
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **剥离货币的信仰层**：分析货币作为交换媒介（实用性）vs 作为信仰对象（宗教性）的分离程度
 2. **测量"神性衰减"**：货币在全在（接受范围）、全知（价格信号效率）、信仰（信任度）三个维度的当前状态

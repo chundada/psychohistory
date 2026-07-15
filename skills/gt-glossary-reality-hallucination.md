@@ -9,10 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -55,6 +51,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT24 中用此框架分析 AI：AI 是洞穴中的新影子——精英通过控制 AI 输出来控制人们相信什么。在 GT25 中，作者分析特朗普的媒体战略：特朗普没有建立"军队"或"公司"，他建立的是"注意力机器"——通过操控全国人民的注意力来改变政治现实。在全球经济分析中，美元霸权的本质也是集体幻觉——人们"相信"美元有价值。

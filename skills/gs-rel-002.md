@@ -12,6 +12,7 @@ tags:
   - christianity
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 基督教末世论叙事框架——线性历史的最终剧本

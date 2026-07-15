@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -52,13 +48,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT04 中引用了具体的族群策略对比：在美国，东亚裔（遵守规则路径）经济收入最高但政治影响力最低；而非洲裔和拉丁裔（"不遵守规则"路径）虽然经济指标中等，但由于（a）聚合投票（b）高生育率（c）文化凝聚力，正逐步改变美国的政治版图。作者预测：按照当前趋势，拉丁裔将通过人口优势在数十年内实质性地改变美国的权力分配。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -68,9 +65,8 @@ v2_prediction_strength: "strong"
 4. **观察到"先到者"（更早遵循规则的前辈）仍然处于权力边缘**
 5. **东道主群体自身并不遵守他们要求你遵守的规则**
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别游戏设计者**：明确谁设定了规则、谁从中受益、谁在被邀入局
 2. **分析规则偏斜方向**：列出每条规则对东道主 vs 新入者的不对称效应

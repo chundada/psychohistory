@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -58,13 +54,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT08 中追溯共产主义与资本主义的共同起源——两者都源于启蒙运动的理性主义和经济决定论。苏联解体后，西方精英并没有"消灭"共产主义，而是将其保留为"中国威胁论"的叙事工具。他进一步指出当代政治中"威权 vs. 民主"的叙事同样是一个虚假的二元对立——掩盖了真正的权力结构（金融资本 + 技术官僚）。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -74,9 +71,8 @@ v2_prediction_strength: "weak"
 4. **分析意识形态冲突时**——追问：这两个"对立"体系的底层假设是否共享？它们的共同敌人是谁？
 5. **看到"非此即彼"的投票/决策场景时**——检查是否有选项被人为排除
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别二元框架**：标出论述中被构建的对立两极（A vs B）
 2. **寻找第三个选项（C、D、E...）**：扩展选项空间——列出至少5个不在二元框架中的可能性

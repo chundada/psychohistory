@@ -23,6 +23,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [SH20 00:03:42]
 > "The idea of game theory is to understand that all historical actors are motivated by their interests or worldview... best strategy?"
 
 > "All historical actors are motivated by their interests."

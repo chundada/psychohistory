@@ -1,6 +1,6 @@
 # 🚀 Psychohistory 快速使用指南
 
-> 7 个系列已完成，共 209 个技能：Origin（6）、Game Theory（52）、Secret History（46）、Geo-Strategy（35）、Interview（10）、Civilization（50）、Great Books（10）。完整进度见 `PROGRESS.md`。
+> 全部 7 个系列已蒸馏完成，共 209 个技能；各系列分布与最新统计以 `PROGRESS.md` 为唯一口径。
 
 ---
 
@@ -68,7 +68,7 @@
 | 分析中美关系 | `gt-geopolitics-three-laws` 地缘政治三定律 | `gt-geopolitics-chokepoint` 全球咽喉要道、`gt-geopolitics-currency-war` 货币战争 | `gt-failure-great-man` 伟人迷思 |
 | 预测选举结果 | `gt-predictive-002` 博弈胜率 M×E×C | `gt-game-theory-elite-overproduction` 精英过度生产 | `gt-failure-correlation-causation` 相关即因果 |
 | 分析俄乌战争 | `gt-game-theory-escalation` 升级法则 | `gt-game-theory-asymmetry` 非对称法则、`gt-predictive-012` 马赛克防御 | `gt-failure-nation-state` 民族国家幻觉 |
-| 分析中东局势 | `gt-predictive-001` 末法汇聚 | `gt-religion-kabbalistic-redemption` 喀巴拉加速主义、`gt-religion-pax-judaica` Pax Judaica | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 分析中东局势 | `gt-predictive-001` 末法汇聚 | `gt-religion-kabbalistic-redemption` 喀巴拉加速主义、`gt-religion-pax-judaica` Pax Judaica ⚠️ | `gt-failure-false-dichotomy` 虚假二元对立 |
 | 研究 AI 风险 | `gt-religion-ai-stargate-rapture` AI 祭仪预测 | `gt-failure-ai-consciousness` AI 意识幻觉 | `interview-fail-detached-bureaucracy` 清晰性陷阱 |
 | 分析经济危机 | `gt-predictive-008` 美元瘾症预测 | `gt-predictive-005` 帝国衰退三指标 | `gt-failure-dunning-kruger` 达克效应 |
 | 阅读历史 | `gt-civilization-asabiyyah` Asabiyyah 定律 | `gt-civilization-three-superstructures` 三大超结构、`gt-civilization-mercenary-overthrow` 雇佣兵反噬 | `gt-failure-great-man` 伟人迷思 |
@@ -79,11 +79,31 @@
 | 分析宗教现象 | `gt-religion-eschatology-geopolitics` 末世论编码 | `sh-rel-005` 三大一神教谱系、`civ-rel-014` 宗教想象力起源 | `gt-failure-false-dichotomy` 虚假二元对立 |
 | 分析文学与权力 | `civ-civ-002` 文学-权力共生体 | `gb-literature-004` 史诗编码文明、`gb-religion-006` 文学反转 | `gb-literature-003` 荷马与自我意识 |
 | 分析货币霸权 | `gt-geopolitics-currency-war` 货币战争 | `gt-predictive-008` 美元瘾症预测、`sh-rel-007` 货币即神 | `gt-failure-correlation-causation` 相关即因果 |
-| 分析意识形态斗争 | `sh-rel-017` 天堂特许经营权 | `civ-civ-009` 意识形态收敛、`gt-religion-communism-as-anti-religion` 反宗教武器、`gb-religion-010` 但丁的三重革命 | `gt-failure-false-dichotomy` 虚假二元对立 |
+| 分析意识形态斗争 | `sh-rel-017` 天堂特许经营权 | `civ-civ-009` 意识形态收敛、`gt-religion-communism-as-anti-religion` 反宗教武器 ⚠️、`gb-religion-010` 但丁的三重革命 | `gt-failure-false-dichotomy` 虚假二元对立 |
 | 分析科技变革 | `gt-religion-ai-stargate-rapture` AI 宗教项目 | `civ-pred-009` 火药革命与国家暴力垄断、`civ-pred-008` 现代主义去合法化螺旋 | `gt-failure-ai-consciousness` AI 意识幻觉 |
 | 分析能源战争 | `gt-geopolitics-chokepoint` 咽喉要道控制 | `gt-predictive-008` 美元瘾症预测 | `gt-failure-nation-state` 民族国家幻觉 |
-| 分析以色列政策 | `gt-religion-kabbalistic-redemption` 卡巴拉救赎 | `gt-religion-pax-judaica` Pax Judaica、`gt-predictive-001` 末法汇聚 | `gt-failure-nation-state` 民族国家幻觉 |
+| 分析以色列政策 | `gt-religion-kabbalistic-redemption` 卡巴拉救赎 | `gt-religion-pax-judaica` Pax Judaica ⚠️、`gt-predictive-001` 末法汇聚 | `gt-failure-nation-state` 民族国家幻觉 |
 | 分析社会衰落 | `gt-predictive-005` 帝国衰退三指标 | `gt-civilization-fertility-leading-indicator` 生育率先行指标、`gt-civilization-institutional-sclerosis` 制度硬化 | `gt-failure-advantage-paradox` 优势即劣势 |
+
+> ⚠️ 标记的技能叙事断言较强，在部分国产模型中易触发拒答，详见下文「国产模型适配说明」。
+
+---
+
+## 🇨🇳 国产模型适配说明
+
+粘贴到 Kimi、DeepSeek、豆包等国产模型时，建议跳过 `gt-religion-pax-judaica` 与 `gt-religion-communism-as-anti-religion` 两个技能（叙事断言强，易触发拒答）；其余技能可正常使用。
+
+---
+
+## 💡 提问技巧：避免 AI 总是套用同几个技能
+
+系统提示 v10.0 已内置"反套路规则"（关键词检索 + 长尾必选 + 会话去重），但你的提问方式同样关键：
+
+1. **问题里带具体名词**——"伊朗的能源牌怎么打"比"中东局势怎么看"更容易命中长尾技能（关键词检索靠的就是这些词）
+2. **点名要求换角度**——"上一个回答用过 EOC 模型了，这次换文明周期以外的框架"
+3. **要求先列候选再分析**——"先列出你打算用的 5 个技能和理由，我确认后再分析"
+4. **指定未用过的系列**——"这次用 Secret History 系列的技能来分析"（7 个系列视角差异很大）
+5. **追问时要求换技能**——"用不同的技能再分析一遍这个问题，对比两次结论"
 
 ---
 
@@ -91,14 +111,14 @@
 
 建议按照这个顺序通读一次：
 
-1. **`DIGEST.md`** — 10 分钟读完精华（必读）
-2. **`INDEX.md` 第四章"按触发场景索引"** — 5 分钟建立场景感
+1. **`series/game-theory/DIGEST.md`** — 10 分钟读完精华（必读）
+2. **`INDEX.md`** — 5 分钟建立全局技能地图
 3. **任意一个 HIGH 优先级的 SKILL.md** — 了解 RIA++ 格式
 4. 遇到具体问题时，回到上表找对应 Skill
 
 ---
 
-## 🧠 心理史学核心工作流（v9.1 七层汇聚验证）
+## 🧠 心理史学核心工作流（v10.0 七层汇聚验证）
 
 ### 框架选择：根据问题复杂度
 
@@ -160,5 +180,5 @@ Step 9: 汇聚评分
 | 弱汇聚 | 4/7 (57%) | 只输出情景范围 |
 | 发散 | ≤3/7 (<43%) | 不合成，只列各框架分析 |
 
-> **完整版**：`methodology/08-stage6-convergence-verify.md`
+> **完整版**：`methodology/convergence-verify.md`
 > **AI激活提示**：`PSYCHOHISTORY_SYSTEM_PROMPT.md`

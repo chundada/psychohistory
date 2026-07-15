@@ -8,10 +8,8 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
 depends-on:
   - "gt-civilization-three-superstructures"
-contrasts-with: []
 composes-with:
   - "gt-civilization-eoc-model"
   - "gt-civilization-elite-overproduction"
@@ -50,15 +48,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT01中，作者用全球生育率vs人均GDP地图进行了实证证明：以色列是唯一保持更替水平以上（2.1+）生育率的富裕、高科技西方国家。作者解释这一例外——在世界仇恨以色列的环境中，生育被视为爱国主义和宗教责任，即"生育即地位"。
 
 作者预测南朝鲜将在2040年前面临人口崩溃，到2100年如果趋势不变将成为"僵尸社会"——绝大多数人口超过65岁，经济体系崩溃。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此定律：
 
@@ -68,9 +67,8 @@ v2_prediction_strength: "strong"
 - **年轻人推迟/放弃婚姻和生育**——"约会游戏"取代"配对繁衍"
 - **移民成为维持人口的唯一手段**——但移民引发文化冲突进一步降低生育意愿
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **确认超结构阶段**：判断社会处于三大超结构中的哪一个阶段（低人口→增长→过剩）
 2. **测量生育率趋势**：跟踪总和生育率（TFR）相对于更替水平（2.1）的变化速度和方向

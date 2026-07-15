@@ -8,15 +8,13 @@ tags:
   - psychohistory
   - game-theory
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
 ---
+
+> 本技能与 ph-origin-elite-overproduction 同主题，以该技能为主技能；本文件保留差异化的原始引文与应用案例。
 
 # 精英过剩与革命周期
 
@@ -50,15 +48,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT03 中以美国教育体系和财富分配为例展示精英过剩模型：常春藤毕业生（年产量约10万）远超顶级权力位置（国会535席 + 财富500强CEO + 最高法院9席），导致大量"被制造出来的失败者"——这些过剩精英要么加入系统性剥削（成为华尔街/硅谷工具），要么成为革命的潜在领导者。
 
 在 GT10 中进一步将精英过剩定位为帝国的三大自毁机制之一：大规模 → 不平等 → 精英过剩 → 内斗外溢。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下现象同时出现时应当激活本框架：
 
@@ -68,9 +67,8 @@ v2_prediction_strength: "strong"
 4. **债务/GDP 比率处于历史高位**且底层实际收入停滞或下降
 5. **社会出现"游戏重置"的舆论叙事**（如"系统性变革""重建""革命"等话语扩散）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别社会所处周期阶段**：采集顶层权力位置数量（政治/经济/文化精英席位）与合格竞争者数量之比
 2. **测量流动性指标**：代际收入弹性、受教育程度与最终收入的相关系数

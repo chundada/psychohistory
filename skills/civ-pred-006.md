@@ -21,9 +21,10 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#43 02:00-20:00]
+> [C#43 02:00-20:00 00:02:23]
 > "What is created by God are the divine laws that underlie the universe. God created the atoms, God created the laws that allow these atoms to interact with each other."
 >
+> [C#43 00:03:03]
 > "We humans are special, why? Because we are both divinely created and created by the laws of the universe. We have a dual nature."
 >
 > "If you're perfect, if you're eternal, if you're immutable, you lack imagination, because there are no boundaries to you. But if you're human, you're forced to have an imagination, because you'll make mistakes."

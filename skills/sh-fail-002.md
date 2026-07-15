@@ -25,10 +25,13 @@ updated: 2026-07-13
 
 > "If I can see a swan a thousand times, I can then infer that all swans are white."
 
+> [SH28 00:14:32]
 > "You cannot prove that just because you've never seen a black swan, black swans don't exist."
 
+> [SH28 00:14:42]
 > "You could have seen 10 million white swans does not prove that all swans are white."
 
+> [SH10 00:30:41]
 > "I'm not trying to tell you what is true, but I'm just trying to present you new possibilities."
 
 > "There are different big bangs. There are multiple big bangs. I can't prove it exists, but a lot there's a lot of evidence to suggest it does exist."

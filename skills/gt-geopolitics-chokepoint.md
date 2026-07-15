@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - geopolitics
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -59,13 +55,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT21 中以美国在海湾和中东的长期行为模式说明该框架。美国不寻求在阿富汗/伊拉克真正胜利（那样就会失去驻军理由），而是维持可控混乱。台湾、南海、乌克兰等地缘热点同理——美国在上述地区的介入不是为了解决问题，而是为了让各方持续依赖美国的安全保障。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -75,9 +72,8 @@ v2_prediction_strength: "strong"
 4. **评估"一带一路"或类似陆桥项目的战略脆弱性时**
 5. **理解为什么美国不在某些冲突中寻求彻底胜利——维持可控混乱才是目标**
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **绘制全球咽喉要道地图**：列出所有关键海运节点及其依赖国
 2. **评估每个节点的控制权**：谁实际控制（军事基地）、谁有挑战能力（反舰导弹、水雷）

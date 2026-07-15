@@ -9,10 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -49,6 +45,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者比较了1980年代中国 vs 当代欧洲的超级结构差异来解释同样的"资本主义游戏"为什么产生相反的效果：1980年代中国（高能量、高开放度、高凝聚力）高速增长；当代欧洲（低能量、封闭、低凝聚力）陷入停滞。不是资本主义变了——是超级结构变了。

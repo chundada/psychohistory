@@ -9,90 +9,21 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v9.1 — 检索式提取 + 七层汇聚验证（Convergence Verification）
+**方法论版本**：v10.0 — 检索式提取 + 七层汇聚验证（Convergence Verification）
 
 ---
 
 ## 🏗️ 仓库结构
 
-```
-Psychohistory/
-├── .obsidian/                        # Obsidian 库配置（可直接在 Obsidian 中打开）
-├── SPEC.md                           # ⭐ 设计规范 — 先读这个
-├── PROGRESS.md                       # ⭐ 进度板 — 看当前在做什么
-├── README.md                         # 项目简介
-├── CONTINUE_FOR_AI.md                # ← 你现在正在读的
-├── _打开库.ps1                        # 用 Obsidian 打开此库的快捷脚本
-│
-├── methodology/                      # 蒸馏流水线 SOP（按阶段编号）
-│   ├── 00-overview.md
-│   ├── 01-stage0-series-understand.md
-│   ├── 02-stage1-retrieval-extract.md    # ⭐ 核心：检索式提取
-│   ├── 03-stage1.5-quadruple-verify.md
-│   ├── 04-stage2-ria-plus.md
-│   ├── 05-stage3-cross-series-link.md
-│   ├── 06-stage4-pressure-test.md
-│   ├── 07-stage5-deliver.md
-│   └── 08-stage6-convergence-verify.md     # ⭐ v9.0 核心：七层汇聚验证
-│
-├── extractors/                       # 7 路检索式提取器 Prompt
-│   ├── 01-game-theory-extractor.md
-│   ├── 02-geopolitics-extractor.md
-│   ├── 03-civilization-extractor.md
-│   ├── 04-religion-extractor.md
-│   ├── 05-predictive-extractor.md
-│   ├── 06-failure-extractor.md
-│   └── 07-glossary-extractor.md
-│
-├── templates/                        # 输出模板
-│
-├── series/                           # 各系列源数据（已全部完成蒸馏）
-│   ├── psychohistory-origin/         # Origin 系列 — 6 个元方法论 Skill
-│   ├── game-theory/                  # Game Theory 系列 — 52 个 Skill（Pilot）
-│   ├── secret-history/               # Secret History 系列 — 46 个 Skill
-│   ├── geo-strategy/                 # Geo-Strategy 系列 — 35 个 Skill
-│   ├── interview-jang-letstalk/      # Interview 系列 — 10 个 Skill
-│   ├── civilization/                 # Civilization 系列 — 50 个 Skill（62 集）
-│   └── great-books/                  # Great Books 系列 — 10 个 Skill（13 集）
-│
-├── skills/                           # 已发布的跨系列 Skills（209 个）
-│
-├── MOC-心理史学总览.md                # Obsidian 图谱入口
-├── MOC-系列目录.md                    # 系列索引
-├── MOC-核心方法论.md                   # 方法论索引
-└── MOC-Game-Theory.md                # Game Theory 入口
-```
+> 目录树单源维护于 `README.md` 的「仓库结构」一节，请以该处为准。
 
 ---
 
 ## ✅ 已完成：7 个系列 · 209 个 Skill
 
-### Series 0: Psychohistory Origin（6 个 Skill）
+全部 7 个系列（Origin、Game Theory、Secret History、Geo-Strategy、Interview、Civilization、Great Books）均已蒸馏完成，技能以 RIA/RIA++ 格式单源存储于 `skills/` 目录。各系列集数、技能数、产出明细与最新统计以 `PROGRESS.md` 为唯一口径。
 
-```
-状态: ✅ 全部完成
-产出: 6 个 RIA 格式 SKILL.md（心理史学三要素、精英过剩崩溃模型、AI 局限性、未来想象、第二基地、崩溃窗口）
-```
-
-### Series 1: Game Theory — Pilot（52 个 Skill）
-
-```
-状态: ✅ 全部完成（共 6 个阶段）
-      耗时: 1 天（2026-07-13）
-      产出: 52 个可调用的 Skill
-```
-
-#### 最终产出
-
-| 交付物 | 说明 |
-|---|---|
-| `skills/gt-*.md` | 52 个 RIA++ 格式 SKILL.md（含 R/I/A1/A2/E/B 六段） |
-| `INDEX.md` | 按触发场景索引 + 技能总览 + 术语表 |
-| `DIGEST.md` | 精华长文（10,000 字，必读） |
-| `QUICK_START.md` | 场景→技能速查表（遇到问题查这个） |
-| `_install_skills.ps1` | 一键安装到 `~/.claude/skills/Psychohistory/` |
-
-#### 经验总结（对后续系列）
+### Game Theory（Pilot）经验总结（对后续系列）
 
 | 学到的教训 | 后续改进 |
 |---|---|
@@ -101,62 +32,11 @@ Psychohistory/
 | Zettelkasten Mermaid 图好看无用 | 跳过，INDEX 场景索引更有用 |
 | E5 预测模型最丰富（12 个 HIGH） | 后续系列优先投给预测信号 |
 
-### Series 2: Secret History（46 个 Skill）
-
-```
-状态: ✅ 全部完成
-产出: 46 个 RIA 格式 SKILL.md（R/I/A/B 四段）
-```
-
-### Series 3: Geo-Strategy（35 个 Skill）
-
-```
-状态: ✅ 全部完成
-产出: 35 个 RIA 格式 SKILL.md（R/I/A/B 四段）
-```
-
-### Series 4: Interview（10 个 Skill）
-
-```
-状态: ✅ 全部完成
-产出: 10 个 RIA 格式 SKILL.md
-```
-
-### Series 5: Civilization（50 个 Skill）
-
-```
-状态: ✅ 全部完成
-产出: 50 个 RIA 格式 SKILL.md（civ-civ-*/civ-rel-*/civ-pred-*）
-      源数据: 62 集字幕（59 集正传 + END + BONUS + 57 重传）
-      12 个主题弧（从农业革命到美国帝国衰落）
-      7 路提取器 → 26,057 匹配 → 50 候选 → 50 SKILL.md
-```
-
-### Series 6: Great Books（10 个 Skill）
-
-```
-状态: ✅ 全部完成
-产出: 10 个 RIA 格式 SKILL.md（gb-literature-*/gb-pred-*/gb-religion-*）
-      源数据: 13 集字幕（GB#1–GB#13）
-      覆盖: 文学作为人类化技术、意识宇宙认识论、荷马与自我意识、史诗编码文明、
-            注意力即能量、文学反转（维吉尔）、文学驱动文明史、但丁的道德拓扑学、
-            但丁的罪论、但丁的三重革命
-```
-
 ---
 
 ## ✅ 已完成的工作
 
-| Git 提交 | 内容 |
-|----------|------|
-| 最新 | v6.0 全面修复：同步全部技能到根目录（149个）、重写INDEX.md覆盖全系列、修复文档统计数据 |
-| 前期 | Stage 2: 52 个 RIA++ Skill 文件 |
-| 前期 | Stage 1.5: 四重验证完成 |
-| 前期 | Stage 1: 7 路检索式提取 → 81+ 候选 |
-| 前期 | Obsidian 库 + AI 接手文档 |
-| 前期 | v3.0 检索式提取方法论 |
-
-
+> 完整版本记录与每次变更内容见 `PROGRESS.md` 的「方法论版本记录」（当前版本 v10.0），此处不再单独维护。
 
 ---
 

@@ -24,6 +24,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [SH14 00:17:35]
 > "The bureaucrats will collude together to steal power from the king... servant rules the king... major pattern of history."
 
 > "This is a pattern that repeats over and over again. First you have the king who sets up the bureaucracy to help him rule. Then the bureaucracy grows. Then the bureaucracy becomes more powerful than the king. Then the bureaucracy actually rules the country, and the king is just a figurehead."

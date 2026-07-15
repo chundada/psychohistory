@@ -9,10 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -60,6 +56,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT05 中对比1980年代的中国（能量高、开放度高、凝聚力高）与当代西方（能量低、开放度低——拒绝承认错误、凝聚力低——个体化分裂），解释为什么西方正在被边缘挑战者超越。在 GT10 中，这三个指标被嵌入不对称法则作为"弱者反制帝国"的核心武器。

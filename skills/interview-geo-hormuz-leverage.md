@@ -22,6 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "Okay, so before the war started, I made two comments about the shamus. The first comment is if Iran were to be attacked, the very first thing they would do is close off the short moves because that is the point of the maxim maximum leverage over the Americans. Okay, that's the first comment. Second comment is there's absolutely nothing nothing whatsoever the Americans can do about it, right? And we know because of operation prosperity guardian ... the Houthies closed off the Red Sea ... the Americans sent this massive naval for uh flotillaa to the Red Sea called Operation Prosperity Guardian. And this was like a massive undertaking. And the Americans went and they blew up a lot of mountains and did no damage to the hoofies at all."
 
 > "it is a nature of asymmetrical warfare that if you are committed and you um are cohesive and you are conducting gullet warfare, there's very little an empire can do about this."

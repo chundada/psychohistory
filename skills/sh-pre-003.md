@@ -25,6 +25,7 @@ updated: 2026-07-13
 
 > "There are three components to this new history model which I call predictive history. The first is to understand historical patterns."
 
+> [SH20 00:03:40]
 > "Second tool is idea of game theory. All historical actors are motivated by their interests."
 
 > "I've identified three different patterns of geopolitics. Competition within nation states are what matter. Competition between nation states don't really matter or they're not as significant as competition within nation states."

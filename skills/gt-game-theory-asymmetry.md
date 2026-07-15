@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -56,13 +52,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以美国-伊朗关系为完整案例阐述该框架。美国的三大优势（3亿人口、全球最先进军事组织、15万亿国防预算）在40年对伊博弈中逐一转化为劣势：经济制裁未削弱伊朗反而激发其能量和创新（如国产武器系统 + 核技术突破）；军事威胁使伊朗内部更团结（凝聚力）；伊朗被迫学习适应（开放——从山寨到自主）。同时美国自身不平等加剧、精英内斗激化、傲慢导致战略失误（伊拉克战争、阿富汗撤军）。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下组合出现时应当激活本框架：
 
@@ -72,9 +69,8 @@ v2_prediction_strength: "strong"
 4. **强者内部出现不平等加剧、精英内斗、决策僵化的迹象**
 5. **冲突时间跨度超过5-10年**（短期冲突不符合不对称法则的时间尺度）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **绘制实力对比矩阵**：列出强者三大优势（Mass/Organization/Death）与弱者三维反制（Energy/Openness/Cohesion）的具体指标
 2. **测量强者的劣势转化程度**：

@@ -25,6 +25,7 @@ updated: 2026-07-14
 > [C#52 05:00-20:00; C#END 20:00-25:00]
 > "After World War II, America is the only major industrial nation left standing. America used the opportunity to rebuild both its economy as well as the global economy."
 >
+> [Civilization #END：  The Decline and Fall of the American Empire.en.vtt 00:21:30]
 > "America said to Europe: 'We'll make these products, these manufactured goods, these cars, and you will buy them.' Europe said: 'We have no money.' America said: 'Don't worry about it. We're lending you the money.'"
 >
 > "Pax Americana argues for consumerism. Consumerism is just individuals should just go and spend money and enjoy the life."

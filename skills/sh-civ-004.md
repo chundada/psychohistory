@@ -21,7 +21,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH08 开篇]
+> [SH08 开篇 00:00:23]
 > "The meritocracy means that people should succeed based on their talent, their ability, and their hard work. And in theory this sounds like a good idea. And in fact, the school system is built around the idea of a meritocracy."
 >
 > — SH08: Death by Meritocracy

@@ -8,8 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
-depends-on: []
 contrasts-with:
   - "gt-civilization-institutional-sclerosis"
   - "gt-civilization-elite-overproduction"
@@ -51,15 +49,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT05中，作者用"世界游戏"实验演示这一原理：巴基斯坦（资源最少）在模拟中排名第二，仅次于美国，超过日本和英国。资源匮乏迫使团队展示最高水平的能量、开放性和凝聚力。
 
 作者还将此理论应用于当代预测：基于EOC指标，认为德国、日本和以色列将在未来成为重要的帝国力量，而当前作为"游戏掌控者"的美国正在衰落的轨道上。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此定律：
 
@@ -68,9 +67,8 @@ v2_prediction_strength: "strong"
 - **防御性军事技术/战术被边缘群体学会**——历史模式中，雇佣兵或边缘战士总会吸收中心的技术并反噬
 - **中心文明对自身优越性过度自信**——"终结历史"的狂妄是衰落的最后信号
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别中心文明的凝聚力指标**：测量群体团结度、牺牲意愿、腐败程度、个人主义趋势
 2. **评估边缘群体的EOC**：能量、开放性、凝聚力——三个维度的综合评分

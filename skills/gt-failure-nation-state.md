@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -57,13 +53,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以"美国盟友"和"中国/俄罗斯"的对比为例：美国在欧洲和海湾的盟友本质上是"附庸国"——其精英与美国精英利益一致，所以这些国家永远不会做出真正违背美国核心利益的行为。作者挑战"中国或俄罗斯会与美国全面对抗"的分析——警告说这些分析忽略了中俄精英与美国精英之间也存在大量共同利益。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -73,9 +70,8 @@ v2_prediction_strength: "weak"
 4. **分析"盟友关系"时**——不要看条约和宣言，要看精英网络的实际绑定程度
 5. **评估地缘风险时**——将"国家的行为"转化为"不同精英集团对抗/合作"的分析框架
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **替换分析单位**：将"国家行为体"替换为"国家内部的精英利益集团联盟"
 2. **识别关键精英群体**：政治精英（政党）、经济精英（财团/跨国公司）、安全精英（军队/情报）、文化精英（媒体/大学）

@@ -134,90 +134,26 @@ GT10-The-Law-of-Asymmetry.vtt → 00:12:30 - 00:18:45
 
 ---
 
-## 三、7 路提取器的检索信号表
+## 三、7 路提取器与检索信号
 
-### E1：博弈模型提取器
+各提取器的完整检索信号表**不再复制于此**，唯一定义见 `extractors/` 目录对应文件（避免双轨维护）：
 
-| 检索信号 | 命中预期 |
-|---------|---------|
-| prisoner dilemma, chicken game, game theory, Nash equilibrium | 博弈论基础 |
-| signaling, commitment, credibility, reputation | 信号博弈 |
-| escalation, MAD, mutual assured destruction | 升级理论 |
-| asymmetry, asymmetric warfare, power imbalance | 不对称冲突 |
-| proximity, adjacency, buffer state | 地缘博弈 |
-| strategy, game, player, payoff, incentive | 通用博弈框架 |
+| 编号 | 提取器 | 定义文件（唯一事实源） |
+|------|--------|----------------------|
+| E1 | 博弈模型提取器 | `extractors/01-game-theory-extractor.md` |
+| E2 | 地缘法则提取器 | `extractors/02-geopolitics-extractor.md` |
+| E3 | 文明规律提取器 | `extractors/03-civilization-extractor.md` |
+| E4 | 宗教叙事提取器 | `extractors/04-religion-extractor.md` |
+| E5 | 预测模型提取器（最高优先级） | `extractors/05-predictive-extractor.md` |
+| E6 | 经济金融模式提取器（v4.2 起） | `extractors/06-finance-economy-extractor.md` |
+| E7 | 术语词典提取器 | `extractors/07-glossary-extractor.md` |
 
-### E2：地缘法则提取器
+> 注：原「反例陷阱提取器」已于 v4.2 废弃，失败模式防护改为在 Stage 2 构造 RIA+ 时内嵌检查（写 B 段时自然完成）。旧定义见 `extractors/deprecated-06-failure-extractor.md`（已废弃，勿再运行）。
 
-| 检索信号 | 命中预期 |
-|---------|---------|
-| heartland, rimland, Mackinder, Spykman | 经典地缘理论 |
-| Thucydides trap, rising power, established power | 修昔底德陷阱 |
-| sea power, land power, maritime, continental | 海权/陆权 |
-| empire, imperial overreach, decline | 帝国兴衰 |
-| buffer state, sphere of influence, containment | 缓冲区/遏制 |
-| NATO, alliance, pivot, rebalance | 当代联盟 |
+### 信号词使用规则
 
-### E3：文明规律提取器
-
-| 检索信号 | 命中预期 |
-|---------|---------|
-| elite overproduction, Peter Turchin | 精英过剩 |
-| demographic transition, population decline | 人口转型 |
-| institutional sclerosis, bureaucratic | 制度僵化 |
-| collapse, decline, fall, cycle | 文明崩溃 |
-| asabiyyah, cohesion, Ibn Khaldun | 社会凝聚力 |
-| complexity, fragility, resilience | 复杂性/脆弱性 |
-
-### E4：宗教叙事提取器
-
-| 检索信号 | 命中预期 |
-|---------|---------|
-| messiah, messianic, millenarian, eschatology | 弥赛亚/末世论 |
-| monotheism, polytheism, divine | 一神教 |
-| prophecy, prophet, revelation | 预言 |
-| myth, narrative, sacred text, scripture | 神话叙事 |
-| Dante, divine comedy, heaven, hell, purgatory | 但丁 |
-| Bible, Gospel, Paul, Jesus, Augustine | 圣经传统 |
-
-### E5：预测模型提取器（最高优先级）
-
-| 检索信号 | 命中预期 |
-|---------|---------|
-| if...then, when...then, conditional | 条件预测 |
-| predict, prediction, forecast | 显式预测 |
-| future, will happen, coming, next | 未来推演 |
-| scenario, possibility, likely, probability | 情景分析 |
-| signal, indicator, sign, warning | 早期信号 |
-| pattern, cycle, repeat, historical analogy | 模式识别 |
-| turning point, inflection, tipping | 拐点识别 |
-| inevitable, certain, guaranteed | 确定性断言 |
-
-### E6：经济金融模式提取器（v4.2 起）
-
-> 原「反例陷阱提取器」已于 v4.2 废弃：失败模式防护改为在 Stage 2 构造 RIA+ 时内嵌检查（写 B 段时自然完成），不再作为独立提取器运行。
-> 现役定义见 `extractors/06-finance-economy-extractor.md`；旧定义保留在 `extractors/06-failure-extractor.md`（frontmatter 已标 deprecated）。
-
-| 检索信号 | 命中预期 |
-|---------|---------|
-| debt, sovereign debt, default, credit crunch, leverage | 债务与危机动力学 |
-| inflation, deflation, hyperinflation, stagflation | 通胀/通缩/滞胀 |
-| dollar hegemony, petrodollar, de-dollarization, reserve currency | 美元霸权与货币体系 |
-| sanctions, SWIFT, asset freeze, trade war, tariff | 制裁经济学与贸易战 |
-| central bank, Federal Reserve, QE, QT, interest rate | 央行与货币政策 |
-| yen carry trade, capital flight, liquidity, bank run | 资本流动与流动性危机 |
-| bubble, speculative, Minsky moment, overvaluation | 资产泡沫识别 |
-| supply chain, oil price, energy crisis, commodity | 供应链与全球化断裂 |
-
-### E7：术语词典提取器
-
-| 检索信号 | 命中预期 |
-|---------|---------|
-| defined as, what I mean by, by this I mean | 定义信号 |
-| called it, coined, term, concept | 独创术语 |
-| in other words, that is, namely | 释义信号 |
-| key concept, important idea, crucial | 强调信号 |
-| recurring terms across multiple episodes | 多次出现的词 |
+- **信号词语言必须与源字幕原文一致**：英文 VTT 用英文信号词检索，中文 VTT 用中文信号词检索；命中之后，再在「中文解读」环节做中文解读。
+- **小系列（≤15 集）可按内容选 3-5 个提取器**，不必 7 路全跑——先依据 Stage 0 产出的 SERIES_OVERVIEW 判断系列主题构成，只运行与主题相关的提取器。
 
 ---
 

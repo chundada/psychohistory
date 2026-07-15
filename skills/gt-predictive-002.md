@@ -12,8 +12,6 @@ tags:
 related_skills:
   - "gt-predictive-006"
   - "gt-predictive-013"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-001"
   - "gt-predictive-009"
@@ -57,13 +55,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该公式解释了为何少数极端主义者（如Chabad Lubavitch）能在全球范围内高效协调、影响政治进程。举例：二战期间，一群Chabad信徒利用他们的协调网络，成功说服美国司法部长、最高法院大法官乃至纳粹高级官员配合营救他们的拉比——这是高协调战胜大数量的经典案例。教授也将此应用于分析美伊战争：伊朗虽然军事规模远小于美国，但因高度统一的神学信仰而拥有极高的协调性和能量，使其在持久战中具有不对称优势。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要评估以下场景时，使用本技能：
 
@@ -71,9 +70,8 @@ v2_prediction_strength: "strong"
 2. 出现"弱者对抗强者"的局面，主流分析认为弱者必败时
 3. 需要评估叙事/意识形态对组织战斗力的实际贡献时
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **列出博弈各方**：确定主要参与者和联盟关系
 2. **估算质量（M）**：统计各方的人口/资金/资源/基础设施总量（以规模排名而非绝对数值即可）

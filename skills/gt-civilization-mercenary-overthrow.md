@@ -8,10 +8,8 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
 depends-on:
   - "gt-civilization-asabiyyah"
-contrasts-with: []
 composes-with:
   - "gt-civilization-military-industrial-complex"
 created: 2026-07-13
@@ -51,13 +49,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT16中，作者将此模式应用于当代中东：以色列最初由英国和美国创建作为"斗牛犬"——在中东制造不稳定以控制石油供应的代理人。但现在以色列角色的转变正是雇佣兵反噬的典型表现：以色列在问"为什么我们做所有工作、承受所有仇恨，却仍然是美国帝国体系中的次要角色？"作者认为以色列正在"试镜"取代美国成为中东的新帝国（Pax Judaica）。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此模式：
 
@@ -68,9 +67,8 @@ v2_prediction_strength: "strong"
 - **帝国精英对代理人既依赖又鄙视**——典型的"又用又防"心理
 - **代理人开始将自己的利益置于帝国利益之上**
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别帝国的暴力代理结构**：谁在执行帝国最关键的暴力任务？是帝国人民还是边缘雇佣兵？
 2. **测量能力转移速率**：代理人学习帝国核心技能的速度有多快？技术差距在缩小吗？

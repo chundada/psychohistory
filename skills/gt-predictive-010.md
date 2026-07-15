@@ -13,7 +13,6 @@ tags:
 related_skills:
   - "gt-predictive-008"
   - "gt-predictive-003"
-depends-on: []
 contrasts-with:
   - "gt-predictive-001"
 composes-with:
@@ -59,13 +58,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架做出了几个关键预测：(1) 特朗普访华将复制尼克松访华的历史结构——结束贸易战、开放中国金融部门、中美深度捆绑；(2) 普京与朝鲜的防御条约类比于一战前的同盟体系——次要国家会被大国利用来牵制对手；(3) 长期战争将导致欧洲内部政治剧变，就像一战导致沙俄崩溃和布尔什维克上台一样。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当遇到以下情况时，使用本技能：
 
@@ -74,9 +74,8 @@ v2_prediction_strength: "strong"
 3. 主流分析用"历史终结"或"新时代"来否认类比的可能性时
 4. 感觉当前局势"似曾相识"但无法准确找到对应点
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **还原驱动结构**：问"导致当前局势的核心驱动力是什么？"而不是"这个事件像历史上哪个事件？"
 2. **寻找深层机制**：寻找具有相同驱动结构的先例（同样的货币压力、同样的精英冲突、同样的技术变革）

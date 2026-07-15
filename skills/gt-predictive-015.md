@@ -15,8 +15,6 @@ tags:
 related_skills:
   - "gt-predictive-005"
   - "gt-predictive-008"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-006"
   - "gt-predictive-013"
@@ -71,13 +69,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架预测了美国的"三部曲"：(1) 伊朗战争创造外部敌人→转移美国内部精英冲突；(2) 为了维持战争而建立"政府连续性"系统→特朗普需要第三个任期；(3) 通过AI监控国家（Stargate数据中心计划）压制国内反战声音。同时教授指出，俄罗斯和美国存在双向的内战投射：双方都在利用"内战外推"机制，将各自的国内分裂投射到乌克兰和中东战场。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -86,9 +85,8 @@ v2_prediction_strength: "strong"
 3. 该国同时出现"对外军事扩张"+"国内监控立法加速"的信号
 4. 评估一场"代理人战争"背后的国内政治驱动力
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **诊断国内冲突水平**：
    - 精英冲突程度（政治极化指数、政府效率评分）

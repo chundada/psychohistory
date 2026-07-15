@@ -13,8 +13,6 @@ tags:
 related_skills:
   - "gt-predictive-003"
   - "gt-predictive-015"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-013"
 created: 2026-07-13
@@ -51,13 +49,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架解释美国为何无缘无故入侵伊朗：美国内部三项指标全部恶化——金融资本控制了国家（华尔街+美联储），年轻人拒绝生育（生育率低于替代水平），大量精英争夺有限权力位置（政治极化达到内战边缘）。内战的压力被"向外投射"到伊朗身上，同时还在讨论吞并加拿大和格陵兰。这些看似疯狂的行为实际上是衰退帝国的标准操作程序。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要评估以下情况时，使用本技能：
 
@@ -66,9 +65,8 @@ v2_prediction_strength: "strong"
 3. 判断一个大国短期内是否可能采取极端冒险行为
 4. 研究历史帝国的兴衰周期
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **诊断金融化程度**：
    - 计算前1%/10%人口的财富占比（是否在上升？）

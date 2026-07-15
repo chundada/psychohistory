@@ -24,8 +24,10 @@ updated: 2026-07-14
 > [C#49 00:00-25:00]
 > "It's on the AngloAmerican Empire which rules the world today. We will first look at the rise of the British Empire. To understand the rise of the British Empire, we first need to discuss the rise of the Spanish Empire."
 >
+> [C#49 00:00:34]
 > "The Spanish were the first to colonize the new world. They were looking for gold and silver. And it turned out they found a lot of gold and silver. And all this money was now going back to Spain."
 >
+> [C#49 00:00:56]
 > "You would think it's a really good thing that they found all this gold and silver, but it was a disaster for the nation. At this time in history, Spain was a feudal Catholic monarchy and all this money just made the system even worse."
 >
 > — C#49: The Dutch Golden Age and the Rise of the Middle Class

@@ -24,6 +24,7 @@ updated: 2026-07-13
 
 > "I think a year from now things will be a lot worse for the global economy. So, rather than us talking about the Iran war, we're instead we might be talking about the economy, how the global economy has collapsed. ... We're seeing a lot of very powerful institutions like the Bank of International Settlements come out and say the AI bubble is about to burst which means ... they're about to engineer a financial crisis in America ... how in a year's time. You have massive unemployment. You have stock market collapse around the world. You'll have companies going bankrupt. It'll be very expensive to fly. There'll be energy lockdowns all around the world. And that I think will be the big story of 2027."
 
+> [Interview]
 > "what the yen carry trade is this because of deflation in the Japanese economy the bank of Japan has been trying to print as much money as possible to create liquidity in the economy. So what they've been doing is they've been lending money to Japanese corporations and banks at zero interest. ... what they do is they take this money and then buy US treasuries which pays 5% interest, right?"
 
 ---

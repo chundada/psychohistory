@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 教会帝国
@@ -21,7 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH25]
+> [SH25 00:09:29]
 > "You kings, you compete for who rules the earth. But we, the Catholic Church, we decide who goes to heaven... The Catholic Church becomes the dominant power in Western Europe."
 >
 > — SH25: Empire of Church

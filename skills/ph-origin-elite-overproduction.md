@@ -13,6 +13,7 @@ tags:
   - collapse
 created: 2026-07-13
 updated: 2026-07-13
+aliases: ["elite overproduction", "精英过剩", "精英生产过剩"]
 ---
 
 # 精英过剩崩溃模型
@@ -24,6 +25,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [GSEND 00:05:45]
 > "Cliodynamics... just means the mathematical movement of History. He's trying to create history as a mathematical model and when he did that there's certain interesting trends and patterns that he discovered... one idea that he discovered is something called the overproduction of the elites... and this concept explains why societies collapse."
 
 > "Now traditionally we've understood the collapse of societies as having to do with maybe like too much debt or too much inequality or maybe climate change or War... What Peter Turchin points out... is the reason why societies collapse in the end is you have too many Elites... Society has many Elites... over time Elites become more and more numerous... the number of wealthy people go up, the number of famous people go up, the number of entrepreneurs go up..."

@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 陀思妥耶夫斯基与第三罗马——俄罗斯弥赛亚意识的文学锻造

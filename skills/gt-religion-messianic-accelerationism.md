@@ -9,10 +9,8 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
 depends-on:
   - "gt-religion-eschatology-geopolitics"
-contrasts-with: []
 composes-with:
   - "gt-religion-kabbalistic-redemption"
   - "gt-religion-eschatological-convergence"
@@ -21,6 +19,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 弥赛亚加速主义
@@ -56,13 +55,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT12中，作者用1990年Rabbi Schneerson对Benjamin Netanyahu说"加快速度"的视频作为核心证据。在GT28中，作者将此模式投射到未来——预言中东将出现自称弥赛亚的人物。作者的核心论证是：帝国衰落（美国在中东的弱化）为弥赛亚狂热创造了空间，而加速主义者将利用这个空间推动地缘政治走向末世脚本的下一幕。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -73,9 +73,8 @@ v2_prediction_strength: "strong"
 - **主流信徒认为某些行为是亵渎**，但加速主义者认为那是神圣的义务
 - **帝国力量在中东减弱**——权力真空为弥赛亚运动提供了空间
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别特定宗教传统中的加速主义派系**：他们在总信徒中的比例和影响力
 2. **分析加速主义者的具体"触发列表"**：他们认为哪些事件必须被"人工实现"以加速弥赛亚到来

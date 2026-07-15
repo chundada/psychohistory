@@ -25,6 +25,7 @@ updated: 2026-07-13
 
 > "Money is not scarce, it is infinite. We don't have limited resources. We have scarcity."
 
+> [SH01 00:24:30]
 > "Power has brainwashed you into thinking something that is not true. You've been taught from the first day that money is scarce."
 
 > "And this system is what we call today central banking. So, that's how money and finance works."

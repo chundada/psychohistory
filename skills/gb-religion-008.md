@@ -11,6 +11,7 @@ tags:
   - religion-narrative
 created: 2026-07-15
 updated: 2026-07-15
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 但丁的道德拓扑学：结构与类比映射

@@ -12,6 +12,7 @@ tags:
   - political-power
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 以色列游说集团——将神圣叙事转化为政治议程

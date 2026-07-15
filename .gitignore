@@ -27,9 +27,8 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Obsidian 个人工作区配置（库配置保留，工作区状态排除）
-.obsidian/workspace*.json
-.obsidian/graph.json
+# Obsidian 个人配置（整个目录不纳入版本控制）
+.obsidian/
 
 # Cursor / Trae AI 工具配置
 .cursorrules
@@ -43,3 +42,12 @@ __pycache__/
 # 中间数据文件
 intermediate_data.json
 extraction_summary.json
+
+# 灵感笔记字幕原件（大文件，本地保留，不纳入版本控制）
+INSPIRATION-*.vtt
+
+# 上传暂存目录
+.uploads/
+
+# 案例页共享静态资源（字体/第三方库，本地保留）
+cases/_shared/

@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -51,6 +47,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT20 中以马赛克防御解释为什么美国不可能通过"精准打击"或"领导层斩首"来结束与伊朗的冲突。即使炸毁所有伊朗领导人的住所，伊朗的31个省份也会各自独立继续战斗——这意味着美国面对的是一场无法以"停火"结束的战争。这是非对称法则中弱者结构优势的具体体现。

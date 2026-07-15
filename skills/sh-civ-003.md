@@ -21,7 +21,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH04 开篇]
+> [SH04 开篇 00:00:04]
 > "Today we do death by gerontocracy. Gerontocracy just means rule by old people. Last class we discussed the decline of western society and civilization and why it's happening."
 >
 > — SH04: Death by Gerontocracy

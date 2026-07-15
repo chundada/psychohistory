@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -51,6 +47,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者用"约会游戏"案例展示纳什均衡的失效：按纳什均衡，每个女性应该追求与自己匹配的最优男性，整体达到最优的配对稳定。但现实中所有女性追求同一小群顶级男性（地位追求），导致底层男性被完全排除，大量女性资源浪费，整体生育率下降——这是"自杀性行为"（集体自毁），而非纳什均衡预测的"最优稳定"。

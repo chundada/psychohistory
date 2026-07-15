@@ -22,6 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "Iran is a different case because Iran it is a cohesive civilization state. Correct. They're very proud of being Persian."
 
 ---

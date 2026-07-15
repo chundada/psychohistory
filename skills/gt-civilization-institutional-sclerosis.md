@@ -8,8 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - civilization-patterns
-related_skills: []
-depends-on: []
 contrasts-with:
   - "gt-civilization-asabiyyah"
 composes-with:
@@ -50,13 +48,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT05中，作者以"世界游戏"的教师版实验为演示：第一天排名第一的团队在第二天必然跌至末位，因为成功导致傲慢和僵化；而末位团队因被迫反思和适应而跃居首位。作者用此预见美国帝国的衰落——作为全球"团队1"五十年后，美国已失去自我反思的能力，只能加倍错误。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此定律：
 
@@ -66,9 +65,8 @@ v2_prediction_strength: "strong"
 - **精英阶层迷恋符号和形式**而非实质——头衔、办公室大小、会议礼仪比实际产出更重要
 - **组织对新思想的免疫反应**——外部的新想法被视为威胁而非机会
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别组织当前处于哪个阶段**：（1）开放竞争/战国阶段 vs （2）均衡/帝国阶段
 2. **评估流动性指标**：底层人才进入精英层的通道是否仍然畅通？晋升是基于能力还是关系？

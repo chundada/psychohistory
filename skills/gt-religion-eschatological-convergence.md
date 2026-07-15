@@ -8,10 +8,8 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
 depends-on:
   - "gt-religion-eschatology-geopolitics"
-contrasts-with: []
 composes-with:
   - "gt-religion-messianic-accelerationism"
   - "gt-religion-pax-judaica"
@@ -19,6 +17,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 七大末世论汇聚
@@ -48,13 +47,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT12中，作者用此定律做出了一个具体预测：阿克萨清真寺将在本次战争中被摧毁。这个预测的推理不是基于军事分析，而是基于末世论汇聚——七个传统的脚本都要求这个事件发生，而操控战争的力量（包括美国的基督教锡安主义者和以色列的加速主义者）有动机去实现它。作者将此称为"博弈论的预测力"——不是命运，而是各方按照共同脚本行动导致的可预见结果。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你遇到以下情况时，应用此框架：
 
@@ -64,9 +64,8 @@ v2_prediction_strength: "strong"
 - **理解"为什么所有人都朝着同一个灾难前进"**——不是阴谋，不是巧合，是叙事汇聚的力学结果
 - **区分"可能"和"很可能"**——末世论汇聚使"可能"变为"很可能"
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **列出所有涉及冲突的主要宗教传统**：犹太教、基督教（新教/天主教/东正教）、伊斯兰教（逊尼/什叶）
 2. **提取每个传统的核心末世事件序列**：每个传统认为世界终结前必须发生的具体事件

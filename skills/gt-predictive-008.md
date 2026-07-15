@@ -16,7 +16,6 @@ related_skills:
   - "gt-predictive-013"
   - "gt-predictive-005"
   - "gt-predictive-015"
-depends-on: []
 contrasts-with:
   - "gt-predictive-001"
 composes-with:
@@ -66,13 +65,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架预测了特朗普访华的真实意图：美元体系濒临崩溃，美国需要将中国储蓄转化为美债购买力。特朗普带来的12万亿美元企业代表团并非为了"公平贸易"，而是为了说服中国开放金融部门，让中国百姓将人民币储蓄兑换为美元并通过华尔街投资美国国债。教授还预测了日本被"逼入死胡同"的逻辑：美国通过封锁中东能源通道，迫使日本必须从美国购买液化天然气，从而用美元结算。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -81,9 +81,8 @@ v2_prediction_strength: "strong"
 3. 分析敌对大国的反美元策略（去美元化、替代支付系统、金砖国家扩张）
 4. 预判全球金融格局演变方向（多极储备货币体系的形成时间表）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **确立美元中心视角**：假定所有美国重大外交行动的首要目标都是维护美元霸权
 2. **追踪债务指标**：跟踪美国联邦债务/GDP比率和年度利息支出——利息支出超过军费时是危机临界点

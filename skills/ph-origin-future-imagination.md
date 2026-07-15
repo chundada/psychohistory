@@ -26,16 +26,19 @@ updated: 2026-07-13
 
 > "Remember Dante in Divine Comedy said that the future is not what happens to you. It's not something that you wait for. The future is what you imagine and fight for. The future is what you make happen."
 
+> [GSEND 00:01:12]
 > "There is a God but God gave us the ability to imagine and the capacity to love and it's these two things that will guide us and enable us to build a better world."
 
 > "The future is what we imagine, not what we have to put up with. So if we don't like the future, if we don't like the way we live our lives, then we can change that with our imagination."
 
+> [GSEND 00:58:42]
 > "Dante is very explicit. He says that what drives us is love and the willingness to imagine. That's who we are. If we love, we'll be more human. If we imagine, we'll be more human."
 
 > "Not only do you have to believe in a better world, you have to imagine, you have to fight for it, because you have to leave behind a legacy for your children."
 
 > "Why teach this course? It's to bring you a message of hope. Through your own imagination, through your own hard work, you can create a better world. You don't have to sit back and just let the world happen. You don't have to wait for the future. You can make it happen."
 
+> [GSEND 00:02:48]
 > "Where there is darkness, there can also be light."
 
 ---

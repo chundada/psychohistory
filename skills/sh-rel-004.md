@@ -10,6 +10,7 @@ tags:
   - religion-narrative
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 查拉图斯特拉
@@ -21,7 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH19 中段]
+> [SH19 中段 00:25:24]
 > "The two primal spirits who reveal themselves in vision as twins are the better and the bad in thought and word and action. And between these two, the wise ones choose all right. The foolish one not so."
 >
 > — SH19: Thus Spoke Zarathustra

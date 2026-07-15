@@ -22,6 +22,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "Well, the entire American strategy was predicated on that Iran was will be like Venezuela, right? So the idea is on the first day they go in they kill the Ayatollah and then the Iranian people will rise up and overthrow the regime and American air power will come in to support these pro-democracy protesters and then uh the Iranians will sue for peace. ... That was the entire strategy going in and everyone especially Donald Trump were surprised by the fierce Iranian response. ... the entire American strategy, I think, was based on hubris. It was just based on contempt for the Iranians."
 
 ---

@@ -1,20 +1,9 @@
 # PSYCHOHISTORY · 心理史学全局索引
 
 > **Zettelkasten 风格技能总索引**  
-> 已蒸馏 **209 个技能** × 7 个系列 + 2 个实战案例  
-> 最后更新：2026-07-15 (v9.1)  
-> ⭐ **核心方法**：`methodology/08-stage6-convergence-verify.md` — 七层汇聚验证法
-
-| 系列 | 前缀 | 数量 | 位置 |
-|------|------|------|------|
-| Psychohistory Origin | `ph-origin-` | 6 | `skills/` |
-| Game Theory | `gt-` | 52 | `skills/` |
-| Secret History | `sh-` | 46 | `skills/` |
-| Geo-Strategy | `gs-` | 35 | `skills/` |
-| Interview | `interview-` | 10 | `skills/` |
-| Civilization | `civ-` | 50 | `skills/` |
-| Great Books | `gb-` | 10 | `skills/` |
-| **合计** | | **209** | |
+> 已蒸馏 **209 个技能** × 7 个系列 + 2 个实战案例（各系列分布以 `PROGRESS.md` 为准）  
+> 最后更新：2026-07-15 (v10.0)  
+> ⭐ **核心方法**：`methodology/convergence-verify.md` — 七层汇聚验证法
 
 ---
 
@@ -394,19 +383,7 @@
 
 ## 📌 触发场景速查
 
-| 你想分析什么 | 优先调用的系列 | 推荐技能数 |
-|-------------|--------------|-----------|
-| 当前地缘冲突走向 | Geo-Strategy + Secret History | 3-5 |
-| 中美/中日关系 | Geo-Strategy + Game Theory | 3-4 |
-| 中东局势/美伊 | Secret History + Geo-Strategy | 4-6 |
-| 全球经济/金融危机 | Interview + Secret History | 3-4 |
-| AI行业走向 | Game Theory（预测+宗教） | 3-5 |
-| 货币/美元体系 | Game Theory（地缘+货币）+ Civilization | 3-4 |
-| 社会崩溃/文明兴衰 | Civilization + Secret History + Origin | 4-6 |
-| 宗教驱动行为 | Civilization（宗教叙事）+ Game Theory | 3-5 |
-| 资产配置/宏观对冲 | Interview + Secret History（预警） | 4-6 |
-| 帝国兴衰周期 | Civilization（预测模型）+ Game Theory | 3-5 |
-| 文学/文本作为权力工具 | Civilization（宗教叙事） | 2-4 |
+> 场景→技能速查表单源维护于 `QUICK_START.md`（含 19 个场景映射与国产模型适配说明），请直接查阅该文件。
 
 ---
 

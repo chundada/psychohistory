@@ -8,9 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-religion-eschatological-convergence"
   - "gt-religion-messianic-accelerationism"
@@ -18,6 +15,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 末世论作为地缘政治编码
@@ -48,13 +46,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT28中，作者用此框架解释了为什么三种截然不同的分析框架（地缘政治、末世论、帝国衰落）都指向相同的预测结果：它们本质上是在不同抽象层次上描述同一现实。作者追溯了末世论叙事的历史起源——从波斯居鲁士大帝利用犹太祭司返回耶路撒冷，到罗马-犹太战争催生基督教和伊斯兰教——展示了"弥赛亚-战争-第三圣殿"叙事如何从真实历史事件中凝练而成。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你遇到以下情况时，应用此框架：
 
@@ -64,9 +63,8 @@ v2_prediction_strength: "strong"
 - **预测地缘政治事件的可能走向**——如果各方都按同一套末世脚本行动，那么脚本的下一步就是最可能的结果
 - **解释"弥赛亚狂热"现象**——为什么在特定历史时刻总有人宣称自己是弥赛亚
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别当前地缘政治冲突中的末世论叙事元素**：各方引用哪些预言？引用的具体经文是什么？
 2. **追溯叙事的真实历史起源**：这个末世脚本最初是从哪段真实历史凝练而成？

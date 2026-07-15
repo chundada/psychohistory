@@ -9,10 +9,6 @@ tags:
   - psychohistory
   - game-theory
   - glossary
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -51,6 +47,8 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者在 GT23 中将 Technate 定位为美国四位大棋手之一的"后"（queen/大战略）。在 GT21 中，作者将 Trump 的"美国优先"解释为 Technate 的早期表现形式——不是真的要撤退世界，而是要将北美力量集中后再出击。作者预测美国将放弃在全球的过多驻军，集中资源打造北美堡垒。

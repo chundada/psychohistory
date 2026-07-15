@@ -13,6 +13,7 @@ tags:
   - power
 created: 2026-07-13
 updated: 2026-07-13
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 保罗神学革命
@@ -24,6 +25,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [SH24 00:03:10]
 > "Paul and not Jesus is the real founder of Christianity."
 
 > "Christianity is a religion about Jesus, but not by Jesus. It's by Paul."
@@ -34,6 +36,7 @@ updated: 2026-07-13
 
 > "Once Paul builds the structure of Christianity, the church system based on the pattern... it becomes the empire itself."
 
+> [SH24 00:51:22]
 > "To those under the law, I become as one under the law... I become all things to all people."
 
 ---

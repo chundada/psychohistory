@@ -5,7 +5,7 @@ type: "progress"
 
 # 📊 Psychohistory - 项目进度追踪
 
-> 最后更新: 2026-07-15 (v9.1 Great Books 系列完成)
+> 最后更新: 2026-07-15 (v10.0 架构精简)
 > ✅ 已完成 7 个系列 · 共 209 个技能文件
 
 ---
@@ -181,6 +181,7 @@ gantt
 
 | 版本 | 日期 | 变更 |
 |------|------|------|
+| **v10.0** | 2026-07-15 | 文档单源化（统计数字仅留 PROGRESS.md）、删除 5 个 MOC、methodology 归档 3 个废弃 SOP、技能库存储单源化（series/*/skills/ 副本移除）、系统提示词新增分析立场声明、新增 PSYCHOHISTORY_LITE.md、安装脚本重写 |
 | **v9.2** | 2026-07-15 | 移除 Dante 待处理系列 — 更新全部文档同步（CLAUDE.md/INDEX.md/README/MOC/CONTINUE_FOR_AI/PROGRESS/SPEC/DIGEST），所有系列已完工，无待处理项 |
 | **v9.1** | 2026-07-15 | Great Books 系列完成 — 13 集字幕下载、Stage 0-3 全流程、10 个 SKILL.md（gb-literature-*/gb-pred-*/gb-religion-*），总技能数 199→209，系列数 6→7 |
 | **v9.0** | 2026-07-14 | 新增七层汇聚验证框架（Stage 6）：methodology/08-stage6-convergence-verify.md。升级PSYCHOHISTORY_SYSTEM_PROMPT.md核心方法，更新QUICK_START.md工作流，同步所有MOC文档。方法论版本：检索式提取 v9.0 |

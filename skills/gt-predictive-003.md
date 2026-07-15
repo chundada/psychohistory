@@ -12,8 +12,6 @@ tags:
 related_skills:
   - "gt-predictive-001"
   - "gt-predictive-005"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-010"
 created: 2026-07-13
@@ -51,13 +49,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授在GT28中系统展示了该方法：先用现实主义地缘政治分析（美国发动伊朗战争是为了阻止中俄伊联盟、维持美元霸权），再用末世论分析（六大传统的汇聚点指向同一终局），最后用帝国衰落分析（金融化+人口危机+精英过剩导致内战外推），三个框架各自独立但结论完全一致。这一汇聚为教授的预测提供了方法论上的"可信度背书"。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当对重大地缘事件做出预测时，使用本技能：
 
@@ -65,9 +64,8 @@ v2_prediction_strength: "strong"
 2. 对该预测的可信度有疑问，需要方法论层面的验证时
 3. 主流媒体/专家只用单一框架（如只谈地缘政治）来解释事件时
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **选择至少三个独立框架**：例如 (a) 现实主义/地缘政治框架、(b) 宗教/意识形态/末世论框架、(c) 制度衰落/精英冲突框架
 2. **确保框架独立性**：确认三个框架的理论基础和核心假设不同，不互相依赖

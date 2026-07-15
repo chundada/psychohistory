@@ -14,8 +14,6 @@ related_skills:
   - "gt-predictive-002"
   - "gt-predictive-013"
   - "gt-predictive-015"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-010"
 created: 2026-07-13
@@ -57,13 +55,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架逐一分析了四国的棋局：美国（民主制王→怕内战，大战略=大北美Technate，攻=技术/宣传/美元）、俄罗斯（独裁王→怕继承危机，大战略=第三罗马）、伊朗（神权王→怕极端化分裂，大战略=什叶例外主义）、以色列（混合体制→怕内部分裂，大战略=大以色列计划）。通过分析各方的文化基因文本（如美国的Paradise Lost vs 俄罗斯的Crime and Punishment），教授预测了各对手在冲突中的行为模式：美国会全力避免内战，俄罗斯会拖入消耗战以等待继承危机。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -72,9 +71,8 @@ v2_prediction_strength: "strong"
 3. 预测冲突中各方可能采取的"将死"路径
 4. 评估各方行为的约束条件（政治系统/大战略限制了哪些行动是不可能的）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别主要玩家**：列出参与博弈的主要行为体
 2. **为王（政治系统）建档**：分析每个行为体的政治制度类型及其致命弱点

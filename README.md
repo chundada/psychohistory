@@ -44,7 +44,7 @@
 
 本项目将这一理念工程化：不建模数学公式，而是将涵盖 **博弈论、地缘政治、文明规律、宗教叙事** 四大领域的知识体系蒸馏为 **209 个结构化、可复用的 AI Skill 文件**，供 AI 直接调用。
 
-> **方法论版本 v9.1** · 核心分析方法：**七层汇聚验证**（Seven-Layer Convergence Verification）——将 7+1 个独立分析框架汇聚对比，通过汇聚度评分提升预测置信度。详见 `methodology/08-stage6-convergence-verify.md`。
+> **方法论版本 v10.0** · 核心分析方法：**七层汇聚验证**（Seven-Layer Convergence Verification）——将 7+1 个独立分析框架汇聚对比，通过汇聚度评分提升预测置信度。详见 `methodology/convergence-verify.md`。
 
 <br>
 
@@ -133,20 +133,7 @@ mindmap
 
 ## 系列分布
 
-<p align="center">
-  <strong>已完成 7 个系列 · 209 个 Skill · 持续扩张中</strong>
-</p>
-
-| 系列 | 来源 | 技能数 | 格式 | 路径 |
-|:-----|:-----|:-------|:-----|:-----|
-| 🔰 Psychohistory Origin | 元方法论 | 6 | RIA 四段 | `skills/ph-origin-*.md` |
-| 🎮 Game Theory | 29 集 | 52 | RIA++ 六段 | `skills/gt-*.md` |
-| 📜 Secret History | 28 集 | 46 | RIA 四段 | `skills/sh-*.md` |
-| 🗺️ Geo-Strategy | 19 集 | 35 | RIA 四段 | `skills/gs-*.md` |
-| 🎙️ Interview | — | 10 | RIA 四段 | `skills/interview-*.md` |
-| 🌍 Civilization | 62 集 | 50 | RIA 四段 | `skills/civ-*.md` |
-| 📚 Great Books | 13 集 | 10 | RIA 四段 | `skills/gb-*.md` |
-| **合计** | **~151 集** | **209** | | |
+已完成 **7 个系列 · 209 个 Skill**（~151 集，持续扩张中），全部技能以 RIA/RIA++ 格式单源存储于 `skills/` 目录；各系列集数、技能数与最新统计详见 `PROGRESS.md`。
 
 <br>
 
@@ -160,7 +147,7 @@ mindmap
 | **PSYCHOHISTORY_SYSTEM_PROMPT.md** | 完整角色激活提示——粘贴到任意 AI 中即刻激活心理史学家身份 |
 | **QUICK_START.md** | 场景→技能速查表（22 个场景映射到推荐技能组合） |
 | **INDEX.md** | Zettelkasten 风格全局索引，含触发场景关键词和术语表 |
-| **DIGEST.md** | Game Theory 系列精华长文阅读（10,000 字） |
+| **series/game-theory/DIGEST.md** | Game Theory 系列精华长文阅读（10,000 字） |
 | **PROGRESS.md** | 项目进度追踪与路线图 |
 | **实战案例** | CASE-001 第三次世界大战催化阶段分析、CASE-002 地缘经济展望 2026-2027 |
 
@@ -183,7 +170,7 @@ PowerShell -ExecutionPolicy Bypass .\_install_skills.ps1
 将 `PSYCHOHISTORY_SYSTEM_PROMPT.md` 粘贴为系统提示，AI 将自动：
 
 1. 激活心理史学家身份
-2. 从技能库中选取 2-4 个相关技能
+2. 按问题复杂度从技能库中选取技能（标准分析为 3-5 个，简单 1-2 个，复杂场景最多 8 个）
 3. 执行 **多重框架汇聚验证**
 4. 使用思维陷阱清单进行自我校准
 5. 输出 **条件式预测**，附带明确的边界条件
@@ -208,7 +195,7 @@ Step 6: 校准偏见       → 7 个 Failure Mode Skills
 ```
 Psychohistory/
 ├── PSYCHOHISTORY_SYSTEM_PROMPT.md   角色激活提示
-├── skills/                           209 个结构化 Skill 文件
+├── skills/                           209 个结构化 Skill 文件（单源存储）
 │   ├── ph-origin-*.md                Psychohistory Origin（6）
 │   ├── gt-*.md                       Game Theory（52）
 │   ├── sh-*.md                       Secret History（46）
@@ -218,26 +205,21 @@ Psychohistory/
 │   └── gb-*.md                       Great Books（10）
 ├── cases/                            实战分析案例
 ├── QUICK_START.md                    场景→技能速查表
-├── DIGEST.md                         精华阅读
 ├── INDEX.md                          Zettelkasten 索引
-├── PROGRESS.md                       项目进度追踪
+├── PROGRESS.md                       项目进度追踪（统计数字唯一来源）
 ├── CLAUDE.md                         AI 工作区配置
 ├── extractors/                       7 路检索式提取器 Prompt
-├── methodology/                      蒸馏流水线 SOP（8 篇）
+├── methodology/                      蒸馏流水线 SOP
 ├── templates/                        输出模板
 ├── series/                           各系列源数据
 │   ├── psychohistory-origin/
-│   ├── game-theory/
+│   ├── game-theory/                  含 DIGEST.md（Game Theory 精华阅读）
 │   ├── geo-strategy/
 │   ├── secret-history/
 │   ├── interview-jang-letstalk/
 │   ├── civilization/
 │   └── great-books/
-├── SPEC.md                           设计规范
-├── MOC-心理史学总览.md               Obsidian 图谱入口
-├── MOC-系列目录.md                   系列索引
-├── MOC-核心方法论.md                  方法论索引
-└── MOC-Game-Theory.md                Game Theory 入口
+└── SPEC.md                           设计规范
 ```
 
 <br>
@@ -245,6 +227,8 @@ Psychohistory/
 ---
 
 ## 学术脉络
+
+> 本库为对公开视频内容的学术性转述与批判性分析，所录观点不代表本库立场；原始内容来自 YouTube 频道 @PredictiveHistory（姜雪琴教授）。
 
 心理史学作为分析框架，其思想渊源可追溯至：
 

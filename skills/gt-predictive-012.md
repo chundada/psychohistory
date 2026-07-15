@@ -13,7 +13,6 @@ tags:
 related_skills:
   - "gt-predictive-015"
   - "gt-predictive-013"
-depends-on: []
 contrasts-with:
   - "gt-predictive-006"
 composes-with:
@@ -64,13 +63,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架分析了美伊停火谈判的不可能性：虽然伊朗政府表面上愿意谈判，但基层IRGC部队不信任美国和以色列，不会执行停火。教授进一步揭示：伊朗同时向谈判桌派遣代表团和向中东海域增派军舰的行为，表明伊朗政治领导层已经失去了对军队控制，而军队的"死机开关"意味着战争会打到底。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要评估以下情况时，使用本技能：
 
@@ -79,9 +79,8 @@ v2_prediction_strength: "strong"
 3. 研究区块链DAO或自治民兵组织的冲突是否可管理
 4. 判断一场冲突是否会"打到底"还是"可谈判解决"
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **分析对手指挥链**：画出对手的组织结构图——是层级制（树状）还是分布式（网络状）？
 2. **检测自治程度**：上级命令在多大程度上能被下级执行？是否有"选择性服从"的证据？

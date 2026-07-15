@@ -14,8 +14,6 @@ tags:
 related_skills:
   - "gt-predictive-001"
   - "gt-predictive-002"
-depends-on: []
-contrasts-with: []
 composes-with:
   - "gt-predictive-006"
   - "gt-predictive-015"
@@ -58,13 +56,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 教授用该框架分析了以色列在美伊战争中的行为模式：以色列不仅仅是在"自卫"，而是在利用这场战争实现"大以色列计划"——通过摧毁GCC经济、让伊朗成为区域威胁、制造全球反犹主义，来加速末日剧本。教授特别指出，拉比Schneerson对内塔尼亚胡说的"加速"（hurry up）指令，实质上是指加速冲突以迫使救世主降临。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当需要分析以下情况时，使用本技能：
 
@@ -73,9 +72,8 @@ v2_prediction_strength: "strong"
 3. 分析中东冲突时，行为体的目标似乎是"越乱越好"而非"平息局势"
 4. 评估某行为体是否在执行"加速主义"策略（通过制造危机来推动系统变革）
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别喀巴拉影响**：判断行为体的决策层是否受喀巴拉/诺斯替神秘主义传统影响（如以色列的Chabad Lubavitch、犹太锡安主义极端派）
 2. **理解"赎罪逻辑"**：从该传统出发，理解其"先作恶后赎罪"的决策框架

@@ -11,6 +11,7 @@ tags:
   - religion-narrative
 created: 2026-07-14
 updated: 2026-07-14
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 宗教想象力的起源——从仪式到叙事的认知跃迁

@@ -21,8 +21,10 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "And what this what this tells me and this is really really important to appreciate is the military bureaucracy has become dislodged from reality itself. They don't care if they win the war or not, right? Because they don't suffer any consequences. If you are the Iranians and you were to lose this war, well, the entire elite would be replaced. Your children uh your grandchildren would lose social mobility in the country. And quite honestly, a lot of people will die in the process, right? ... The worst that can happen maybe 10 years from now when this war is totally lost, Congress will call these generals before Congress in a congressional testimony and they'll shout at these generals for two hours and that'll be it, right? That's the extent of the consequences for losing a war for America."
 
+> [Interview]
 > "we know you send in these massive warships against an entrenched enemy with drones. There's nothing you can do. You can't actually hurt them, but you don't know what else to do. So, you'll just keep on with this strategy even though you are not even though you know it's not effectual."
 
 ---

@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -58,15 +54,16 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者以美伊战争为例：美国、以色列、伊朗三国的国际博弈看似是关于核武器和中东霸权，但作者指出各国决策的真正驱动力是内部冲突——美国的党派斗争（民主党 vs 共和党）比伊朗的核威胁更"邻近"美国决策者；以色列的宗教-世俗分裂比阿拉伯国家的联盟更"邻近"以色列决策者。所以外部战争的走向实际上由各国内部博弈的结果决定。
 
 作者进一步指出：普通人无法理解精英决策，是因为普通人用"外部博弈重要性"去分析，而精英在"内部博弈邻近性"中决策。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下情况出现时应当激活本框架：
 
@@ -76,9 +73,8 @@ v2_prediction_strength: "strong"
 4. **分析地缘政治时发现预测总是偏差**——可能因为你用"客观重要度"而非"邻近度"在排序
 5. **帮助他人理解精英决策时**——用邻近法则解释为什么"别人觉得不重要的事"成了决策核心
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **列出所有嵌套博弈**：从最内层（个人/家庭生存）到最外层（国际/文明层级），完整列出当前所有参与的游戏
 2. **评估邻近性权重**：对每个博弈按"心理距离"评分（1-10），最近的博弈给最高权重

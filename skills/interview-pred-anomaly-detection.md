@@ -23,6 +23,7 @@ updated: 2026-07-13
 
 > "so what I look for when I watch the news are these anomaly like things that sort of stand out and don't really make much sense so uh the event that drew my attention is in January January 2020 Donald Trump ordered the assassination of General Kasam Salammani ... the assassination of Kasan Salmani it was an anomaly. It didn't make much sense. But also remember in that context if you were to kill a diplomat that's a declaration of war. ... So, um, that I think was the biggest sign that Donald Trump was intent on a war against Iran. And it was only because he lost the November November 2020 election, so that the war was delayed, But you could surmise that if he were to come back into office, then he would declare war on Iran."
 
+> [Interview]
 > "I think that the assassination of Kasan Salmani it was an anomaly. It didn't make much sense."
 
 ---

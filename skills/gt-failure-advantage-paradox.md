@@ -8,10 +8,6 @@ tags:
   - psychohistory
   - failure-mode
   - game-theory-framework
-related_skills: []
-depends-on: []
-contrasts-with: []
-composes-with: []
 created: 2026-07-13
 updated: 2026-07-13
 verified: true
@@ -59,13 +55,14 @@ v2_prediction_strength: "weak"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 作者首次提出此框架时以美国-伊朗博弈为例。美国拥有全部三大优势（3亿人口、全球最先进的军事官僚系统、15万亿年度经济产出），但这些优势正在转化为劣势：不平等达1929年大萧条以来最高水平；常春藤精英过剩导致两党极端化；全球唯一超级大国的身份使美国决策层拒绝学习对手的战略教训。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当以下组合出现时应当激活本框架：
 
@@ -75,9 +72,8 @@ v2_prediction_strength: "weak"
 4. **观察到资源/军费充足反而导致战略失误率上升、学习意愿下降**
 5. **在与明显更弱小的对手长期对抗中占不到便宜**——这是优势转化的典型信号
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **绘制"优势-劣势转化矩阵"**：对每个核心优势，列出对应的劣势转化路径和当前转化程度（0-100%）
 2. **监测不平等指标**：基尼系数趋势、顶层vs底层收入比、社会流动性指数

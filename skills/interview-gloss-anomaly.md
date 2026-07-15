@@ -21,6 +21,7 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
+> [Interview]
 > "so what I look for when I watch the news are these anomaly like things that sort of stand out and don't really make much sense"
 
 ---

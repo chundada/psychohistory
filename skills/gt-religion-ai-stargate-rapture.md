@@ -1,6 +1,6 @@
 ---
 name: "AI作为宗教项目——星门、恶魔与灾难"
-description: "OpenAI等项目本质上不是科学事业，而是以创造神和触发末世灾难为核心使命的宗教/神秘学项目"
+description: "基于 Karen Hao《Empire of AI》等公开信源，分析 AI 领袖言论中的宗教修辞——一种解释框架，非对相关个人动机的事实断言"
 source_series: "Game Theory"
 source_episodes:
   - "GT24"
@@ -9,10 +9,8 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
 depends-on:
   - "gt-religion-eschatology-geopolitics"
-contrasts-with: []
 composes-with:
   - "gt-religion-money-as-god"
   - "gt-religion-eschatological-convergence"
@@ -20,6 +18,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # AI作为宗教项目——星门、恶魔与灾难
@@ -55,13 +54,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT24中，作者引用了Karen Hao的《Empire of AI》一书中的大量证据——从Sam Altman称创办AI公司是"创造宗教"，到Ilya Sutskever的地堡和被提计划，到前OpenAI高管的"召唤外星人声明"。作者将这些证据整合进更大的叙事：AI项目是共济会"在地球上创造神"的现代版本。Stargate这个名字不是巧合，而是对CIA远程监控项目和神秘学跨维度传送门的直接引用。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -71,9 +71,8 @@ v2_prediction_strength: "strong"
 - **AI安全讨论中出现"隔离"、"地堡"、"保护核心团队"的表述**——暗示创造者知道他们在释放危险的东西
 - **科技领袖的行为模式偏离理性创业行为**，转向类似邪教领袖的模式
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **分析AI领袖的公开声明中的宗教词汇**：收集和归类"使命"、"神圣"、"拯救"、"被提"、"奇点"等术语
 2. **追踪AI项目的资金和基础设施建设**：数据中心的选址、规模、命名模式

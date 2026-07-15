@@ -21,7 +21,7 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#52]
+> [C#52 00:00:46]
 > "America is the only country that went from barbarism to decadence without civilization in between... America was designed as the anti-civilization."
 >
 > — C#52: Democratic Empire

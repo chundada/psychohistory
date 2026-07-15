@@ -1,6 +1,6 @@
 ---
 name: "共产主义作为反宗教武器"
-description: "共产主义不是资本主义的敌人，而是资本主义精英创造出来用于摧毁宗教、君主制、民族主义和民主的工具"
+description: "转述 GT08 的一种非主流历史解释框架：共产主义与资本主义的共生关系假说。与主流史学有重大分歧，供对比分析"
 source_series: "Game Theory"
 source_episodes:
   - "GT08"
@@ -8,8 +8,6 @@ tags:
   - psychohistory
   - game-theory
   - religion-narrative
-related_skills: []
-depends-on: []
 contrasts-with:
   - "gt-religion-money-as-god"
 composes-with:
@@ -18,6 +16,7 @@ created: 2026-07-13
 updated: 2026-07-13
 verified: true
 v2_prediction_strength: "strong"
+framing: "叙事分析对象，非本体系立场"
 ---
 
 # 共产主义作为反宗教武器
@@ -48,13 +47,14 @@ v2_prediction_strength: "strong"
 
 ---
 
-## A1 — Application by Author（作者应用）
+## A — Application
+
+### A1 — Application by Author（作者应用）
 
 在GT08中，作者用大量历史"巧合"支持这一论点：卡尔·马克思被英国（最资本主义国家）允许自由写作和居住、从资本主义家族获得资金、撰写《共产党宣言》（明确宣称是国际阴谋的秘密文件）、1917年布尔什维克革命中华尔街和伦敦金融城资助雇佣军、在俄罗斯从富人手中掠夺财富偿还外国银行等。作者的结论是：共产主义和资本主义不是对立面，而是"世界征服中的合作伙伴"。
 
----
 
-## A2 — Application Trigger（触发条件）
+### A2 — Application Trigger（触发条件）
 
 当你观察到以下情况时，应用此框架：
 
@@ -64,9 +64,8 @@ v2_prediction_strength: "strong"
 - **财富不平等持续扩大**的同时**社会凝聚力（宗教、家庭、社区）同步瓦解**——资本主义清除了最后的抵抗
 - **知识分子/异议分子被"文明反噬"**——为推翻旧秩序而引入的力量最终服务于资本而非人民
 
----
 
-## E — Execution（执行步骤）
+### E — 执行步骤
 
 1. **识别社会中"反宗教"叙事的来源和资助者**：谁从摧毁传统信仰中获益？
 2. **追踪"摧毁-替代"序列**：旧信仰体系被摧毁后，什么新的"信仰"（消费主义/物质主义/民族主义）填补了真空？
