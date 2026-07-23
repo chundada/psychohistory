@@ -9,7 +9,7 @@
 
 **项目**：Psychohistory（心理史学）— 把 @PredictiveHistory YouTube 频道的知识蒸馏为 AI Skill 体系
 **仓库**：`github.com/chundada/psychohistory`
-**方法论版本**：v10.0 — 检索式提取 + 七层汇聚验证（Convergence Verification）
+**方法论版本**：v11.2 — 检索式提取 + 七层汇聚验证（Convergence Verification）+ 两层规则（必须层/增强层）
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## ✅ 已完成的工作
 
-> 完整版本记录与每次变更内容见 `PROGRESS.md` 的「方法论版本记录」（当前版本 v10.0），此处不再单独维护。
+> 完整版本记录与每次变更内容见 `PROGRESS.md` 的「方法论版本记录」（当前版本 v11.2），此处不再单独维护。
 
 ---
 

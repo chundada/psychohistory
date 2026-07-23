@@ -44,7 +44,7 @@
 
 本项目将这一理念工程化：不建模数学公式，而是将涵盖 **博弈论、地缘政治、文明规律、宗教叙事** 四大领域的知识体系蒸馏为 **209 个结构化、可复用的 AI Skill 文件**，供 AI 直接调用。
 
-> **方法论版本 v10.0** · 核心分析方法：**七层汇聚验证**（Seven-Layer Convergence Verification）——将 7+1 个独立分析框架汇聚对比，通过汇聚度评分提升预测置信度。详见 `methodology/convergence-verify.md`。
+> **方法论版本 v11.2** · 核心分析方法：**七层汇聚验证**（Seven-Layer Convergence Verification）——将 7+1 个独立分析框架汇聚对比，通过汇聚度评分提升预测置信度。详见 `methodology/convergence-verify.md`。
 
 <br>
 
@@ -194,7 +194,9 @@ Step 6: 校准偏见       → 7 个 Failure Mode Skills
 
 ```
 Psychohistory/
-├── PSYCHOHISTORY_SYSTEM_PROMPT.md   角色激活提示
+├── PSYCHOHISTORY_SYSTEM_PROMPT.md   角色激活提示（当前 v11.2）
+├── PSYCHOHISTORY_LITE.md            单文件粘贴版（无文件工具 AI 用）
+├── versions/                        系统提示词与方法论历史版本备份
 ├── skills/                           209 个结构化 Skill 文件（单源存储）
 │   ├── ph-origin-*.md                Psychohistory Origin（6）
 │   ├── gt-*.md                       Game Theory（52）
@@ -204,6 +206,7 @@ Psychohistory/
 │   ├── civ-*.md                      Civilization（50）
 │   └── gb-*.md                       Great Books（10）
 ├── cases/                            实战分析案例
+├── daily_pp_monitor/                 聚丙烯供应链每日监测（信号跟踪）
 ├── QUICK_START.md                    场景→技能速查表
 ├── INDEX.md                          Zettelkasten 索引
 ├── PROGRESS.md                       项目进度追踪（统计数字唯一来源）

@@ -1,8 +1,5 @@
 # 七层汇聚验证（Convergence Verification）
 
-> **版本**：v11.0（2026-07-15） · 上版本备份：`versions/convergence-verify.v10.0.md`
-> **变更**：§6 新增"冷门系列轮询"规则
->
 > **注意**：本文件描述 AI 调用技能库时的汇聚验证方法，**不属于蒸馏流水线**；`PSYCHOHISTORY_SYSTEM_PROMPT.md` 为该方法的唯一事实源。
 
 > 将多重独立分析框架的结果汇聚对比——当多数框架指向同一方向时，置信度指数级提升。

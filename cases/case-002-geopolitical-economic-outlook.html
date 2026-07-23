@@ -6,6 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>地缘经济展望报告 · 2026下半年–2027</title>
 <style>
+  /* 字体：优先本地 _shared 副本（离线可用），缺失时回退 Google Fonts CDN */
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700&family=Bricolage+Grotesque:wght@400;700&family=Geist+Mono:wght@400&display=swap');
   @font-face {
     font-family: 'BigShoulders';
     src: url('./_shared/fonts/BigShoulders-Bold.woff2') format('woff2');
@@ -62,7 +64,7 @@
   body {
     background: var(--bg);
     color: var(--ink);
-    font-family: 'BricolageGrotesque', sans-serif;
+    font-family: 'BricolageGrotesque', 'Bricolage Grotesque', sans-serif;
     font-size: 16px;
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
@@ -87,7 +89,7 @@
     border-bottom: 1px solid var(--rule);
   }
   .cover .label {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.8rem;
     color: var(--accent2);
     letter-spacing: 0.15em;
@@ -95,7 +97,7 @@
     margin-bottom: 1rem;
   }
   .cover h1 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: clamp(2.2rem, 6vw, 4rem);
     line-height: 1.1;
     color: var(--ink);
@@ -110,7 +112,7 @@
     margin-bottom: 0.5rem;
   }
   .cover .meta {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.75rem;
     color: var(--muted);
     margin-top: 0.5rem;
@@ -128,7 +130,7 @@
   }
   nav.toc .container { display: flex; gap: 8px; flex-wrap: wrap; }
   nav.toc a {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.7rem;
     color: var(--muted);
     text-decoration: none;
@@ -148,7 +150,7 @@
   section + section { border-top: 1px solid var(--rule); }
 
   h2 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 1.7rem;
     color: var(--ink);
     margin-bottom: 1.5rem;
@@ -162,14 +164,14 @@
   }
 
   h3 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 1.2rem;
     color: var(--ink);
     margin: 1.5rem 0 0.75rem;
   }
   h3 .tag {
     display: inline-block;
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.65rem;
     padding: 2px 8px;
     border-radius: 3px;
@@ -205,7 +207,7 @@
   .insight-card:hover { border-color: var(--accent); }
   .insight-card .card-icon { font-size: 1.2rem; margin-bottom: 6px; }
   .insight-card h4 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 1rem;
     color: var(--ink);
     margin-bottom: 8px;
@@ -216,7 +218,7 @@
     margin: 0;
   }
   .insight-card .stat {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 1.8rem;
     font-weight: 700;
     color: var(--accent);
@@ -224,7 +226,7 @@
   }
   .insight-card .stat.sub { color: var(--accent2); }
   .insight-card .stat-label {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.7rem;
     color: var(--muted);
     text-transform: uppercase;
@@ -254,7 +256,7 @@
     color: var(--ink);
   }
   blockquote .cite {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.75rem;
     color: var(--muted);
     margin-top: 8px;
@@ -280,7 +282,7 @@
   thead th {
     background: var(--bg2);
     color: var(--ink);
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-weight: 700;
     font-size: 0.8rem;
     padding: 12px 14px;
@@ -305,7 +307,7 @@
     margin: 2rem 0;
   }
   .chart-figure figcaption {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 0.95rem;
     color: var(--ink);
     margin-bottom: 0.75rem;
@@ -339,7 +341,7 @@
   .prob-meter .prob-fill.medium { background: linear-gradient(90deg, var(--green), var(--orange)); }
   .prob-meter .prob-fill.low { background: linear-gradient(90deg, var(--green), var(--green)); }
   .prob-meter .prob-label {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.85rem;
     font-weight: 700;
     min-width: 42px;
@@ -384,7 +386,7 @@
   .timeline-item.now::before { border-color: var(--red); box-shadow: 0 0 8px var(--red); }
   .timeline-item.future::before { border-color: var(--accent2); }
   .timeline-item .t-date {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.75rem;
     color: var(--accent);
     margin-bottom: 4px;
@@ -393,7 +395,7 @@
   .timeline-item.now .t-date { color: var(--red); }
   .timeline-item.future .t-date { color: var(--accent2); }
   .timeline-item h4 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 1rem;
     color: var(--ink);
     margin-bottom: 4px;
@@ -419,12 +421,12 @@
   }
   .scenario-card .s-icon { font-size: 2rem; margin-bottom: 8px; }
   .scenario-card h4 {
-    font-family: 'BigShoulders', sans-serif;
+    font-family: 'BigShoulders', 'Big Shoulders Display', sans-serif;
     font-size: 1.1rem;
     margin-bottom: 8px;
   }
   .scenario-card .s-prob {
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 8px;
@@ -475,7 +477,7 @@
   .footer-note {
     text-align: center;
     margin-top: 24px;
-    font-family: 'GeistMono', monospace;
+    font-family: 'GeistMono', 'Geist Mono', monospace;
     font-size: 0.7rem;
     color: var(--muted);
     opacity: 0.6;
@@ -1073,7 +1075,9 @@
 </footer>
 
 <!-- ECharts -->
+<!-- echarts：优先本地 _shared 副本（离线可用），缺失时回退 jsDelivr CDN -->
 <script src="./_shared/js/echarts.min.js"></script>
+<script>window.echarts || document.write('<script src="https:\/\/cdn.jsdelivr.net\/npm\/echarts@5.5.1\/dist\/echarts.min.js"><\/script>')</script>
 <script src="assets/charts.js"></script>
 
 </body>

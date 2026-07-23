@@ -13,7 +13,7 @@ Psychohistory distills analytical frameworks spanning game theory, geopolitics, 
 
 The core premise: historical prediction is not fortune-telling. It is a **multi-framework cross-validation method** based on identifiable structural patterns, boundary conditions, and falsifiable logical chains.
 
-> **Methodology v10.0** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/convergence-verify.md`.
+> **Methodology v11.2** · Core method: **Seven-Layer Convergence Verification** — cross-references 7+1 independent analytical frameworks to boost confidence via convergence scoring. See `methodology/convergence-verify.md`.
 
 ---
 
