@@ -4,7 +4,7 @@ description: "帝国不是靠皇帝一个人统治的，它需要一个中间人
 source_series: "Secret History"
 source_episodes:
   - "SH28: Empire of Evil (Secret History #27)"
-  - "SH25: Church and Empire (Secret History #25)"
+  - "SH01: How Power Works (Secret History #1)"
 tags:
   - secret-history
   - geopolitics
@@ -12,12 +12,12 @@ tags:
   - middle-managers
   - power-structure
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 帝国中层管理者框架
 
-> **来源**：Secret History · Empire of Evil / Church and Empire
+> **来源**：Secret History · Empire of Evil / How Power Works
 > **一句话**：每个大帝国都需要一个"外人"来当中层管理者——本地人不好管，外族人更忠诚，因为他们的权力完全来自帝国，没有帝国他们什么都不是。
 
 ---
@@ -26,14 +26,18 @@ updated: 2026-07-13
 
 > [SH28 00:00:53]
 > "The Jews are construct and tool of empire. In other words, they're really the middle managers to the ones who helped manage the empire."
+> — SH28: Empire of Evil (Secret History #27)
 
 > "The Jews weren't around, then it would be the Indians or some other group."
+> — SH28: Empire of Evil (Secret History #27)
 
 > [SH28 00:28:06]
-> "When these wars come out, what these Jews do is they support both sides. They support both sides... they make a lot of money and then they figure out where it is in their most advantage to be."
+> "When these wars come out, what these Jews do is they support both sides. So they can't possibly lose and then they make a lot of money and then they figure out where it is in their most advantage to be."
+> — SH28: Empire of Evil (Secret History #27)
 
 > [SH01 00:24:30]
 > "Power has brainwashed you into thinking something that is not true. You've been taught from the first day that money is scarce."
+> — SH01: How Power Works (Secret History #1)
 
 ---
 

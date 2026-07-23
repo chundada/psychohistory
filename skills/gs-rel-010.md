@@ -11,7 +11,7 @@ tags:
   - holy-war
   - language
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,8 +24,11 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GU07 - 00:18:xx - 00:20:xx]
-> "Both sides use the language of holy war. For the Islamic world, this is jihad, a sacred struggle. For the Christian Zionists, this is a crusade, a fight for God. When both sides frame the conflict as a divine duty, there is no room for compromise. Because you cannot negotiate with evil."
+> [GU07 - 00:09:37 - 00:09:56]
+> "In the Zorastrian tradition, the world is divided into good and evil. The light and the darkness, the truth and the lie. And at the end of the days there'll be a final battle between these two cosmic forces."
+>
+> [GU07 - 00:32:42 - 00:32:57]
+> "Another convergence point is that the Dome of the Rock will be destroyed, and thus provoking the Muslim world to take arms against Israel and possibly initiating the war of Gog and Magog."
 >
 > — GU07: When Eschatologies Converge
 

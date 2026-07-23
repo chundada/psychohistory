@@ -9,7 +9,7 @@ tags:
   - civilization
   - imperial-overstretch
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 帝国过度扩张——霸权的自我消耗
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END/17]
-> "Empires always overextend... They conquer more than they can govern, and the cost of maintaining the empire eventually exceeds the benefits."
+> [C#END 00:48:28 - 00:48:39]
+> "If America were to invade Iran, there's very little chance that America would win this war. In fact, it may be the end of the American empire."
 >
-> — C#END/17: American Imperial Decline / Caesar Crosses the Rubicon
+> — C#END: The Decline and Fall of the American Empire
+
+> [C#17 00:04:13 - 00:05:00]
+> "It's a great system if you're a small and poor nation always at war with larger nations. But this breaks down when you become a rich, big empire and you're the major hegemon in the area. And this system will lead to three major problems in the Roman Republic: corruption, division, civil wars — the first one between Marius and Sulla, and then between Julius Caesar and Pompey, and then finally between Octavian and Mark Antony — and also inequality."
+>
+> — C#17: Homer, Vergil, and the War for the Soul of Rome
 
 ---
 

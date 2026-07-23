@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#19 - 00:04:00 - 00:08:00]
-> "Gilgamesh... the earliest known epic... the quest for immortality... the flood story predates Genesis... the human refusal to accept death as the end... religion as a response to mortality"
+> [C#19 00:35:48–00:36:13]
+> "They did something that was completely different and which made them immortal. Just as the pyramids made the Egyptians immortal, they create something called the Epic of Gilgamesh. And today we celebrate the Epic of Gilgamesh as the first work of world literature."
 >
-> — C#19: Gilgamesh, the Flood, and the Quest for Immortality
+> — C#19: Gilgamesh and Mesopotamia's Quest for Immortality
+
+> [C#19 00:39:28–00:40:06]
+> "Eventually he must die. He does not want to die. He fears death. So he hears about this immortal man, this man who has lived forever and who will live forever, and he decides to seek him out... everyone implores him, Gilgamesh, give up this vain project. Immortality is for the gods. We are humans, we must die. That's what makes us different from the gods."
+>
+> — C#19: Gilgamesh and Mesopotamia's Quest for Immortality
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - civilization
   - axial-age
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 轴心时代突破——人类意识的第二次进化
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#3/7]
-> "The Axial Age... Between 800 and 200 BC, something remarkable happened across the world. In Greece, India, and China, independently, humans began to ask fundamental questions about existence, morality, and the nature of reality."
+> [C#3 00:22:06 - 00:22:29]
+> "Ritual is just the expression of religion in everyday practice. In other words, their lives are extremely ritualized, meaning what they do every second has a religious meaning and religious significance."
 >
-> — C#3/7: Religious Imagination / Homer and Greek Civilization
+> — C#3: The Religious Imagination
+
+> [C#7 00:26:11 - 00:26:40]
+> "Homer was a teacher as well as a poet. Now the third reason, and what made Homer special, is what we call edification. Edification means to be a better you, to be a higher you."
+>
+> — C#7: Homer's Iliad and the Birth of Greek Civilization
 
 ---
 

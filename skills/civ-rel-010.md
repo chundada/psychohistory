@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,8 +22,28 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#53 - 00:02:15 - 00:12:43]
-> "God is a force that redeems and saves all... heirs to the Holy Roman Empire... the Holy Roman Empire was based... two great prophets... Russia's unique spiritual path... the Russian soul as savior or destroyer"
+> [C#53 00:02:11]
+> "For them, God is a force that redeems and saves all. God is merciful. God is forgiving, okay? This is a very different conception from both the German and the Anglo-American conception."
+>
+> — C#53: Dostoevsky and the Soul of Russia
+
+> [C#53 00:16:01]
+> "The Germans believe they are heirs to the Holy Roman Empire, which is a confederation... the Holy Roman Empire was based on consensus. It was based on diplomacy. Okay, it was based on intermarriage."
+>
+> — C#53: Dostoevsky and the Soul of Russia
+
+> [C#53 00:18:00]
+> "For the Russians, for the longest time — even Putin shares this philosophy — they believe they are trying to restore the Byzantine Empire and be the third Rome and save civilization."
+>
+> — C#53: Dostoevsky and the Soul of Russia
+
+> [C#53 00:28:54]
+> "If you study Russian civilization, okay? It is unique because of these three major contradictions."
+>
+> — C#53: Dostoevsky and the Soul of Russia
+
+> [C#53 00:35:12]
+> "In Russian civilization, there are two great prophets. They are Leo Tolstoy and Fyodor Dostoevsky."
 >
 > — C#53: Dostoevsky and the Soul of Russia
 

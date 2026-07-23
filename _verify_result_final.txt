@@ -1,0 +1,205 @@
+总文件: 209
+全部引文验证通过(>=0.7): 146
+部分引文弱匹配(0.4-0.7, 可能改写/拼接): 54
+存在引文无法匹配(<0.4, 疑似编造或错集): 6
+找不到对应转录: 3
+
+===== 疑似问题文件（引文匹配 <0.4）=====
+
+--- civ-civ-004.md  eps=['C#END']
+  ✗ [0.00] "America is a zombie civilization... It's structura..." 全库最佳[0.50] Civilization #42：  The Protestant Reformation and the Birth 
+
+--- civ-civ-009.md  eps=['C#40']
+  ✗ [0.00] "After the fall of Rome, the Catholic Church became..." 全库最佳[0.56] Civilization #40：  Church and Empire.en.vtt
+
+--- civ-civ-015.md  eps=['C#6']
+  ✗ [0.00] "The Bronze Age collapse was a systems collapse... ..." 全库最佳[0.40] Civilization #21：  The Apology of King David of Israel.en.vt
+
+--- civ-rel-011.md  eps=['C#7']
+  ✗ [0.00] "Homer created the Greek imagination... the Iliad d..." 全库最佳[0.40] GT12-The-Law-of-Eschatological-Convergence.md
+
+--- gs-geopolitics-003.md  eps=['GS04']
+  ✗ [0.17] "Iran and Saudi Arabia have fought three proxy wars..." 全库最佳[0.54] GS04-Saudi-Arabia-Trump-Card.vtt
+
+--- gt-religion-kabbalistic-redemption.md  eps=['GT28', 'GT14']
+  ✗ [0.00] "The idea of sin is you must break yourself before ..." 全库最佳[1.00] GT28-Predictive-History.vtt
+  ~ [0.67] "What they focus on is the story of David where Dav..." 
+
+===== 弱匹配文件（0.4-0.7）=====
+
+--- civ-civ-011.md  eps=['C#57']
+  ~ [0.50] "In the beginning, the main religion for us humans ..."
+
+--- civ-civ-013.md  eps=['C#58']
+  ~ [0.53] "Nation state is composed of two words: nation and ..."
+
+--- civ-civ-019.md  eps=['C#END/17']
+  ~ [0.68] "If America were to invade Iran, there's very littl..."
+  ~ [0.42] "It's a great system if you're a small and poor nat..."
+
+--- civ-pred-001.md  eps=['C#END']
+  ~ [0.67] "World War II was about mercantilism... Pax America..."
+
+--- civ-pred-008.md  eps=['C#57']
+  ~ [0.50] "In the beginning, the main religion for us humans ..."
+
+--- civ-pred-009.md  eps=['C#45']
+  ~ [0.47] "Sparta had a hoplite army, it became an oligarchy...."
+  ~ [0.67] "How did Europe, starting about the year 1700, conq..."
+
+--- civ-pred-010.md  eps=['C#46']
+  ~ [0.64] "To oversimplify, there have been four major religi..."
+
+--- civ-pred-015.md  eps=['C#57', 'C#46']
+  ~ [0.58] "In the beginning, the main religion for us humans ..."
+
+--- civ-rel-007.md  eps=['C#37']
+  ~ [0.61] "At the height of Islamic influence, there were a f..."
+
+--- civ-rel-008.md  eps=['C#29']
+  ~ [0.50] "What Dante will do is completely overturn this tra..."
+
+--- civ-rel-012.md  eps=['C#19']
+  ~ [0.58] "Eventually he must die. He does not want to die. H..."
+
+--- gs-civ-002.md  eps=['GS01']
+  ~ [0.59] "If you look at why empires collapsed, it's because..."
+
+--- gs-civ-003.md  eps=['GS10']
+  ~ [0.55] "This is how you kill an Empire when all three thin..."
+
+--- gs-civ-005.md  eps=['GS03']
+  ~ [0.69] "From 1950 to 1980 America's economy was mainly foc..."
+
+--- gs-civ-008.md  eps=['GS09']
+  ~ [0.67] "Putin said to his Russian people that all Russia m..."
+
+--- gs-civ-010.md  eps=['GU08']
+  ~ [0.56] "This is why young people now refuse to have childr..."
+
+--- gs-failure-modes-001.md  eps=['GS08']
+  ~ [0.59] "Have you guys heard of a sunk cost fallacy? The id..."
+
+--- gs-geopolitics-004.md  eps=['GU01']
+  ~ [0.68] "I discussed the heartland thesis, the Mackinder th..."
+
+--- gs-glossary-006.md  eps=['GU02']
+  ~ [0.61] "It is called the escalation ladder. The idea of th..."
+
+--- gs-pre-003.md  eps=['GS01']
+  ~ [0.60] "When the Americans invade — the war started before..."
+
+--- gs-pre-007.md  eps=['GS11']
+  ~ [0.42] "Then the most likely outcome is a civil war. The t..."
+
+--- gs-pre-012.md  eps=['GS10']
+  ~ [0.45] "If it is true that Putin forward strategy is to de..."
+
+--- gs-rel-005.md  eps=['GU02']
+  ~ [0.62] "They believe that in the Bible, Yahweh, their God,..."
+  ~ [0.52] "The promised land though extends from the Nile to ..."
+
+--- gs-rel-009.md  eps=['GS02']
+  ~ [0.65] "The third reason is the Israel Lobby. So in today'..."
+
+--- gt-civilization-eoc-model.md  eps=['GT05', 'GT29']
+  ~ [0.65] "You should ask yourself three questions. Is this s..."
+
+--- gt-civilization-three-superstructures.md  eps=['GT01']
+  ~ [0.67] "In a low population poor society, guess what? They..."
+
+--- gt-failure-advantage-paradox.md  eps=['GT10']
+  ~ [0.56] "All these advantages are ultimately disadvantages ..."
+
+--- gt-geopolitics-chokepoint.md  eps=['GT21']
+  ~ [0.68] "The key idea is that America will adopt a new stra..."
+
+--- gt-geopolitics-three-laws.md  eps=['GT16']
+  ~ [0.49] "I want to teach you three basic principles or rule..."
+
+--- gt-glossary-asymmetry.md  eps=['GT10']
+  ~ [0.62] "Today, I present to you a very important idea in g..."
+
+--- gt-glossary-cohesion-openness-energy.md  eps=['GT05', 'GT10']
+  ~ [0.42] "There are three metrics that you can use to measur..."
+
+--- gt-glossary-elite-overproduction.md  eps=['GT10', 'GT03']
+  ~ [0.68] "Elite overproduction. This is a term coined by the..."
+
+--- gt-predictive-002.md  eps=['GT12']
+  ~ [0.60] "The universal law of game theory states this. Whoe..."
+
+--- gt-predictive-003.md  eps=['GT28']
+  ~ [0.62] "What's interesting about these three major reasons..."
+
+--- gt-predictive-006.md  eps=['GT23']
+  ~ [0.60] "For each country I want you to imagine each countr..."
+
+--- gt-predictive-009.md  eps=['GT23', 'GT28']
+  ~ [0.49] "The idea of sin is you must break yourself before ..."
+
+--- gt-predictive-015.md  eps=['GT28', 'GT23', 'GT21']
+  ~ [0.70] "Something called continuity of government: now tha..."
+
+--- gt-religion-ai-stargate-rapture.md  eps=['GT24', 'GT28']
+  ~ [0.66] "Sam Altman reflected on his blog in 2013: 'The mos..."
+  ~ [0.69] "We're building portals from which we're genuinely ..."
+
+--- gt-religion-communism-as-anti-religion.md  eps=['GT08']
+  ~ [0.61] "The real enemies of capitalism are not communism. ..."
+
+--- gt-religion-money-as-god.md  eps=['GT28', 'GT29']
+  ~ [0.57] "Money is valueless. But it's like lead, but in our..."
+  ~ [0.42] "What's happening today is a civil war where money,..."
+
+--- ph-origin-ai-limitations.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.69] "So AI in other words is an extremely limited tool...."
+  ~ [0.50] "Computers can only refine and optimize the algorit..."
+
+--- ph-origin-elite-overproduction.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.50] "Cliodynamics... just means the mathematical moveme..."
+  ~ [0.57] "Now traditionally we've understood the collapse of..."
+  ~ [0.40] "The most famous example is in China in Imperial Ch..."
+
+--- ph-origin-future-imagination.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.69] "Not only do you have to believe in a better world,..."
+
+--- ph-origin-second-foundation.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.40] "In Foundation, the solution is to create another o..."
+  ~ [0.57] "The idea of the Second Foundation... the Second Fo..."
+
+--- sh-civ-001.md  eps=['SH19: Dawn of the Jews (Secret History #20)', 'SH03: How Societies Collapse (Secret History #2)']
+  ~ [0.67] "I've identified three different patterns of geopol..."
+
+--- sh-civ-002.md  eps=['SH03']
+  ~ [0.56] "And Peter Turchin spent decades looking at how soc..."
+
+--- sh-civ-006.md  eps=['SH16']
+  ~ [0.44] "Today we are doing the Bronze collapse. Remember t..."
+
+--- sh-civ-007.md  eps=['SH15']
+  ~ [0.57] "Today we are going to discuss Civilization versus ..."
+
+--- sh-civ-008.md  eps=['SH22']
+  ~ [0.58] "Their entire society is based on war... Because it..."
+
+--- sh-game-007.md  eps=['SH20: Dawn of the Jews (Secret History #19)', 'SH11: The Conspiracy of Evil (Secret History #10)']
+  ~ [0.67] "I've identified three different patterns of geopol..."
+
+--- sh-pre-001.md  eps=['SH29: Pax Judaica (Secret History #END)']
+  ~ [0.57] "The grand thesis of this class is that six societi..."
+  ~ [0.50] "Does it connect the dots of history? Does it help ..."
+
+--- sh-pre-003.md  eps=['SH20: Dawn of the Jews (Secret History #19)', 'SH03: How Societies Collapse (Secret History #2)']
+  ~ [0.67] "I've identified three different patterns of geopol..."
+
+--- sh-rel-009.md  eps=['SH18']
+  ~ [0.67] "David's three major innovations that would forever..."
+
+--- sh-rel-022.md  eps=['SH21: The Hellenistic World (Secret History #20)']
+  ~ [0.57] "Christianity comes from a merger of these three ma..."
+
+===== 找不到转录的文件 =====
+  - sh-geo-002.md  找不到转录(ep=['WW3 Analysis: Grand Strategy of Israel, Russia, Iran'])
+  - sh-pre-005.md  找不到转录(ep=['WW3 Analysis: Catalyst Moment of World War III'])
+  - sh-pre-006.md  找不到转录(ep=['WW3 Analysis: Shadow Fleet and Sanctions Evasion'])

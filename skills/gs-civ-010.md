@@ -10,7 +10,7 @@ tags:
   - civilization-patterns
   - triple-crisis
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 三重危机诊断——精英过剩、人口崩溃与制度硬化
@@ -22,8 +22,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GU08 - 00:10:xx - 00:12:xx]
-> "Young people now refuse to have children. It is not just because the economic opportunities for young people are very limited, they are very pessimistic and the real reason is the baby boomers refuse to give up power. So you have elite overproduction, demographic collapse, and institutional sclerosis all at once."
+> [GU08 00:34:02 - 00:34:20]
+> "Peter Turchin, the social scientist, has a concept for this. It's called elite overproduction. Societies collapse over time because too much elite is being produced, and ultimately they will fight each other for the limited positions of power and status."
+>
+> [GU08 00:34:27 - 00:34:43]
+> "This is why young people now refuse to have children. It's not just because the economic opportunities for young people are very limited and they are very pessimistic — the real reason is the baby boomers refuse to give up their status."
 >
 > — GU08: Why West Is Doomed
 

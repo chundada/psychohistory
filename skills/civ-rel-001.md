@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#22 - 00:02:47 - 00:05:00]
-> "the Yahwist source... the earliest known author in human history... writing the creation story... the first systematic attempt to encode monotheism into narrative form... literature as a technology for preserving theological revolution"
+> [C#22 00:29:28–00:29:55]
+> "But the person who wrote the Bible, especially Genesis, was a unique literary genius of the stature of Homer and Plato and Dante. The person who wrote the Bible, who first wrote the Bible, was an incredible literary genius. And we call her the Yahwist."
 >
-> — C#22: The Yahwist Source: Literature, the Human Imagination, and the Creation of Genesis
+> — C#22: The Literary Genesis of the Yahwist
+
+> [C#22 00:32:52–00:33:10]
+> "She's a poet. And she's the first named author in human history... So there is a history, a precedent for these kings to appoint their daughters to be the official poet of their nation."
+>
+> — C#22: The Literary Genesis of the Yahwist
 
 ---
 

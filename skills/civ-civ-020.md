@@ -9,7 +9,7 @@ tags:
   - civilization
   - civilization-lifecycle
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 文明的生命周期——出生、成长、成熟、衰老、死亡
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END]
-> "Every civilization has a life cycle: birth, growth, maturity, decline, and death. The question is: where are we in that cycle?"
+> [C#END 00:53:46 - 00:53:54]
+> "In this class, what you're taught is that history tends to repeat itself. And by studying history meticulously and thoroughly, we can gain insight into the future."
 >
-> — C#END: American Imperial Decline (Course Summary)
+> — C#END: The Decline and Fall of the American Empire
+
+> [C#END 01:05:09 - 01:05:17]
+> "It will lead to fundamental changes in the world. Our lives will never be the same again. Everything that we've known in the past is now gone forever. And we have to prepare for a new future."
+>
+> — C#END: The Decline and Fall of the American Empire
 
 ---
 

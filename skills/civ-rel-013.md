@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,20 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#24 - 00:06:00 - 00:11:00]
-> "the Gnostic Jesus... the Gospel of Thomas... the Book of Enoch... alternative paths that orthodox Christianity suppressed... Gnosticism's inner divinity challenging institutional authority... orthodoxy as a product of competition"
+> [C#24 00:40:31]
+> "Jesus was a gnostic. What does this mean? ... What Jesus was preaching was a religion of compassion, of forgiveness, of mercy, of egalitarianism."
 >
-> — C#24: The Gnostic Jesus and the Invention of Orthodoxy
+> — C#24: Resurrecting the Gnostic Jesus
+
+> [C#24 00:41:49]
+> "There's a secret Gospel called The Gospel of Thomas which we recently discovered... and this gospel is not in the Bible but it reveals to us what Jesus thinks."
+>
+> — C#24: Resurrecting the Gnostic Jesus
+
+> [C#24 00:42:19]
+> "There is light within a man of light and he lights up the whole world. If he does not shine, he is darkness."
+>
+> — C#24: Resurrecting the Gnostic Jesus
 
 ---
 

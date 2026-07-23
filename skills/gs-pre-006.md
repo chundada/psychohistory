@@ -10,7 +10,7 @@ tags:
   - predictive-model
   - historical-analogy
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 帝国周期历史类比——必然宿命的模式识别
@@ -22,8 +22,14 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS03 - 00:15:xx - 00:16:xx]
-> "History tells us that every empire eventually collapses. The Roman Empire lasted 500 years, the British Empire lasted 300 years, the American Empire has been around for about 80 years. If history is any guide, the American Empire is entering its terminal phase."
+> [GS03 00:11:56 - 00:12:11]
+> "America became an empire, in fact the most powerful Empire in human history. Because even though Rome was powerful, it didn't really control the world, whereas the American Empire today controls the entire world."
+>
+> [GS03 00:46:10 - 00:46:20]
+> "That's why Empires collapse — because once they have too much power they become stupid and arrogant and they refuse to consider the possibility that they could be wrong."
+>
+> [GS03 00:46:36 - 00:46:51]
+> "The American Empire has been building for a long time. You can make the argument that the Empire really started after World War II, because now America controlled half the world, and then it became dominant after the end of the Cold War when the Soviet Union collapsed."
 >
 > — GS03: How Empire Destroys America
 

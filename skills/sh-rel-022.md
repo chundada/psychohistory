@@ -3,13 +3,13 @@ name: "希腊化世界"
 description: "亚历山大东征后的宗教大融合为基督教传播铺平了道路"
 source_series: "Secret History"
 source_episodes:
-  - "SH21"
+  - "SH21: The Hellenistic World (Secret History #20)"
 tags:
   - psychohistory
   - secret-history
   - religion-narrative
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,9 +23,9 @@ framing: "叙事分析对象，非本体系立场"
 ## R — Reading（阅读原文）
 
 > [SH21]
-> "Christianity comes from a merger of these three major worldviews... Once the Greeks took over the world... how do they control the world? Through religion, through culture."
+> "Christianity comes from a merger of these three major worldviews... Once the Greeks took over the world, they have a problem which is there's not that many of them... how do they control the world? Well, they control the world through religion, through culture."
 >
-> — SH21: The Hellenistic World
+> — SH21: The Hellenistic World (Secret History #20)
 
 ---
 

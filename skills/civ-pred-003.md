@@ -9,7 +9,7 @@ tags:
   - civilization
   - predictive
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 科技巨头vs央行：新型权力对抗预测
@@ -21,12 +21,13 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END 22:00-28:00]
-> "The tech companies are the new central banks. They are creating their own currencies — not physical currencies, but digital currencies, data currencies."
+> [C#END 00:15:16–00:15:34]
+> "Throughout history, whenever there's a major power, there's always a rising power that challenges it. So, in our world today, there's no nation state that can challenge the power of the central banks. But, there are these technology companies that are arising that are trying to displace them from Gotham."
 >
-> "Bitcoin is the first time in history that we have a currency that is not controlled by any state. It's a challenge to the central bank's monopoly on money creation."
->
-> "The big tech companies — Google, Apple, Facebook, Amazon — they have more power than most nation-states."
+> — C#END: The Decline and Fall of the American Empire
+
+> [C#END 00:15:36–00:15:46]
+> "Bitcoin is something they've invented. It is the American military's fail-safe system in case American government defaults on the debt and the US dollar loses its reserve currency status."
 >
 > — C#END: The Decline and Fall of the American Empire
 

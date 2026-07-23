@@ -9,7 +9,7 @@ tags:
   - civilization
   - alphabet-revolution
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 字母文字革命——信息技术的文明效应
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#7]
-> "The phonetic alphabet was a revolutionary technology... It made literacy accessible to everyone, not just scribes."
+> [C#7 00:14:49 - 00:15:07]
+> "Now with the alphabet, something remarkable has happened. Before, these different stages of writing required a professional class of people to manage the writing system. We call these scribes."
 >
-> — C#7: Homer and the Birth of Greek Civilization
+> — C#7: Homer's Iliad and the Birth of Greek Civilization
+
+> [C#7 00:15:34 - 00:15:54]
+> "But now with the alphabet, writing can become speaking. And this marked an incredible revolution in human thought and the capacity to think."
+>
+> — C#7: Homer's Iliad and the Birth of Greek Civilization
 
 ---
 

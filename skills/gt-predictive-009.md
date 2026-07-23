@@ -18,7 +18,7 @@ composes-with:
   - "gt-predictive-006"
   - "gt-predictive-015"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 ---
@@ -37,8 +37,8 @@ v2_prediction_strength: "strong"
 >
 > — GT23: The WWIII Chessboard
 
-> [GT28 00:44:03 - 00:44:33]
-> "The idea of sin: you must break yourself before you can learn the wisdom to welcome God into your heart. ... The story of King David — he commits adultery and murder, God punishes him, he breaks his heart, and then he welcomes God back. Nothing matters except your relationship with God."
+> [GT28 00:44:03 - 00:46:35]
+> "The idea of sin is you must break yourself before you can learn the wisdom to welcome God into your heart. And the story that explains this idea is sort of David. King David was the greatest ruler of the Israelites. And one day he falls in love with a woman named Bathsheba. ... The problem is that Bathsheba is married to a warrior named Uriah the Hittite. So David thinks of many ways of solving this problem and ultimately he decides I'm just going to kill this guy. So he kills Uriah the Hittite and he marries Bathsheba. ... God gets angry and punishes David by killing his son and this forces David into mourning. And when he mourns, he breaks his heart. When he breaks his heart, he welcomes God back into his soul. ... Nothing matters except your relationship with God."
 >
 > — GT28: Predictive History
 

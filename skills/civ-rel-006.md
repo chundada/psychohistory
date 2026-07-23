@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,20 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#28 - 00:06:00 - 00:10:00]
-> "Muhammad completed the monotheistic project... scripture, law, community, and conquest in one system... the final totalizing religion... closed the door on further prophetic innovation"
+> [C#28 00:01:27–00:01:37]
+> "We know that he was a real person and he was the founder of the Islamic tradition."
 >
-> — C#28: Muhammad and the Birth of the Islamic World
+> — C#28: Muhammad's Revolution of God
+
+> [C#28 00:02:13–00:02:37]
+> "Muhammad converted the polytheistic Arabs to the monism of the Jews. So Muhammad legislated for them not to eat carrion, not to drink wine, not to speak falsely, and not to engage in fornication."
+>
+> — C#28: Muhammad's Revolution of God
+
+> [C#28 00:10:25–00:10:39]
+> "And so Muhammad goes and he creates something called the Constitution of Medina, which promises the freedom of religious expression to all people. Okay, there will be no religious prejudice in Medina."
+>
+> — C#28: Muhammad's Revolution of God
 
 ---
 

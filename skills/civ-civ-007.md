@@ -9,7 +9,7 @@ tags:
   - civilization
   - behavioral-sink
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 鼠类乌托邦与行为沉沦——过度繁荣的社会病理
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#8]
-> "John Calhoun's rat utopia experiment... When you give rats everything they need, they stop behaving normally and the society collapses."
+> [C#8 00:57:37 - 00:58:07]
+> "In the '60s and '70s, there was an American researcher, an American scientist. His name is James B. Calhoun. And he was interested in the question: What would it be like for humans to live in a world of abundance? What would it mean for humans to live in a world where everything was perfect, where you didn't have to fight for food, where food was just given to you? A utopia."
 >
-> — C#8: Peloponnesian War and Athenian Decline
+> — C#8: Rat Utopia and the Peloponnesian War
+
+> [C#8 01:05:31 - 01:05:51]
+> "If societies become too wealthy, you have a problem of rat utopia. If you're at utopia, societies will then engage in wars that will lead eventually to its collapse. And that's what happened to Athens."
+>
+> — C#8: Rat Utopia and the Peloponnesian War
 
 ---
 

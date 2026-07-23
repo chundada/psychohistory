@@ -3,8 +3,9 @@ name: "天堂特许经营权"
 description: "天主教会为什么能统治欧洲一千年？因为它垄断了一项终极资源——谁能上天堂的解释权。控制了来世，就控制了今生"
 source_series: "Secret History"
 source_episodes:
-  - "SH25: Church and Empire"
-  - "SH24: The Organization of Evil"
+  - "SH25: Empire of Church (Secret History #24)"
+  - "SH24: The Organization of Evil (Secret History #23)"
+  - "SH23: The Divine Spark of Jesus (Secret History #22)"
 tags:
   - secret-history
   - religion-narrative
@@ -12,13 +13,13 @@ tags:
   - catholic-church
   - empire
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
 # 天堂特许经营权
 
-> **来源**：Secret History · Church and Empire / The Organization of Evil
+> **来源**：Secret History · Empire of Church / The Organization of Evil / The Divine Spark of Jesus
 > **一句话**：国王们争的是"谁统治这片土地"，教会说"那又怎样？我决定你死后去哪。"——于是教会成了比任何帝国都更强大的超级帝国。
 
 ---
@@ -26,15 +27,20 @@ framing: "叙事分析对象，非本体系立场"
 ## R — Reading（阅读原文）
 
 > "You kings, you compete for who rules the earth. But we, the Catholic Church, we decide who goes to heaven... they are the empire now."
+> — SH25: Empire of Church (Secret History #24)
 
 > "The Catholic Church will increase in power... we decide who goes to heaven... they are the empire now."
+> — SH25: Empire of Church (Secret History #24)
 
-> "Once Paul builds the structure of Christianity, the church system based on the pattern... it becomes the empire itself."
+> "Once Paul builds the structure of Christianity, the church system based on the pattern system of the Romans, it will spread even quicker... these two Christianities will come into conflict and eventually Paul's system will win out until it conquers the entire Roman Empire."
+> — SH24: The Organization of Evil (Secret History #23)
 
 > [SH24 00:01:08]
 > "Jesus who's come to remind you that you don't have to be a slave... higher power than the Roman Empire."
+> — SH24: The Organization of Evil (Secret History #23)
 
 > "We need to create an organized religion and we need to fool people... Catholic Church will pretend to worship Jesus, but actually we're going to worship Satan."
+> — SH23: The Divine Spark of Jesus (Secret History #22)
 
 ---
 

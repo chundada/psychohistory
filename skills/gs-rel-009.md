@@ -11,7 +11,7 @@ tags:
   - israel-lobby
   - political-power
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,10 +24,16 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GS02 - 00:12:xx - 00:13:xx]
-> "Christian Zionists in America have tremendous political power. They are the Israel Lobby. They push Congress to support Israel no matter what. Because for them, supporting Israel is not a political decision, it is a biblical commandment. If you support Israel, God will bless you."
+> [GS02 - 00:00:46 - 00:00:56]
+> "The third reason is the Israel Lobby. So in today's class I want to explain to you what the Israel Lobby is."
 >
-> — GS02: Christian Zionism and the Middle East
+> [GS02 - 00:25:41 - 00:26:02]
+> "And there are Christians who believe that it is our responsibility, is our duty to help Jews take control over Israel. And they believe this for many different reasons. So Christian Zionist, some may believe that that's what the Bible says: God promised Israel to the Jews."
+>
+> [GS02 - 00:31:44 - 00:31:57]
+> "What's driving the conflict between Israel and Iran is America believes it has a religious responsibility to protect Israel against Iran."
+>
+> — GS02: Christian Zionism Middle East
 
 ---
 

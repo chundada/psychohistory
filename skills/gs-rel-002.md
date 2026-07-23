@@ -11,7 +11,7 @@ tags:
   - eschatology
   - christianity
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,10 +24,13 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GS02 - 00:04:xx - 00:06:xx]
-> "There are different variations of Christian eschatology. But the basic structure goes like this: first there will be the rapture, then the tribulation, then the Antichrist will rise, then Jesus will return. And the whole world will be judged. Christians will go to heaven, non-believers will burn in hell forever."
+> [GS02 - 00:15:55 - 00:16:33]
+> "There will be an Antichrist, Satan, who will be the Great Deceiver. He'll pretend to be God, he'll pretend to be Messiah, but he's really Satan. And then he will launch a war when all the nations of the world will try to attack Israel, and at this point Jesus will come back and he will destroy the Antichrist. He will save Israel and he will usher in a thousand years of peace."
 >
-> — GS02: Christian Zionism and the Middle East
+> [GS02 - 00:16:33 - 00:16:55]
+> "And then a thousand years later you'll have the last judgment, where God will judge us to be either worthy or not worthy. If we are worthy we'll live on forever; if we're not worthy then we'll burn in hell forever."
+>
+> — GS02: Christian Zionism Middle East
 
 ---
 

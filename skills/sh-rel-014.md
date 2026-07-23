@@ -3,8 +3,7 @@ name: "保罗神学革命"
 description: "基督教真正的创始人不是耶稣，是保罗。耶稣的原始教义是反抗帝国的解放神学，保罗把它改造成了服务帝国的统治工具"
 source_series: "Secret History"
 source_episodes:
-  - "SH20: Dawn of the Jews"
-  - "SH24: The Organization of Evil"
+  - "SH24: The Organization of Evil (Secret History #23)"
 tags:
   - secret-history
   - religion-narrative
@@ -12,13 +11,13 @@ tags:
   - christianity
   - power
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
 # 保罗神学革命
 
-> **来源**：Secret History · Dawn of the Jews / The Organization of Evil
+> **来源**：Secret History · The Organization of Evil
 > **一句话**：耶稣是被钉死在十字架上的革命者，保罗是把他的革命改造成统治工具的天才。基督教是"关于耶稣的宗教，但不是耶稣的宗教"——它是保罗的宗教。
 
 ---
@@ -27,17 +26,23 @@ framing: "叙事分析对象，非本体系立场"
 
 > [SH24 00:03:10]
 > "Paul and not Jesus is the real founder of Christianity."
+> — SH24: The Organization of Evil (Secret History #23)
 
 > "Christianity is a religion about Jesus, but not by Jesus. It's by Paul."
+> — SH24: The Organization of Evil (Secret History #23)
 
-> "A third of the New Testament is either written by Paul or about Paul."
+> "If you read the New Testament, a third is either written by Paul or about Paul."
+> — SH24: The Organization of Evil (Secret History #23)
 
 > "The idea of the divine spark is the greatest threat to Roman Empire... Jesus who's come to remind you that you don't have to be a slave... higher power than the Roman Empire."
+> — SH24: The Organization of Evil (Secret History #23)
 
-> "Once Paul builds the structure of Christianity, the church system based on the pattern... it becomes the empire itself."
+> "Once Paul builds the structure of Christianity, the church system based on the pattern system of the Romans, it will spread even quicker... these two Christianities will come into conflict and eventually Paul's system will win out until it conquers the entire Roman Empire."
+> — SH24: The Organization of Evil (Secret History #23)
 
 > [SH24 00:51:22]
 > "To those under the law, I become as one under the law... I become all things to all people."
+> — SH24: The Organization of Evil (Secret History #23)
 
 ---
 

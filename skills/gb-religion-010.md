@@ -11,7 +11,7 @@ tags:
   - great-books
   - religion-narrative
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,18 +24,18 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GB9 00:00:21 - 00:01:16]
-> "At this time in history, epic poetry was considered high — it was written usually in Latin. But for Dante, what he really believed is that epic poetry should be democratic. It should be accessible to the people. That's why he called it La Commedia — comedy, low. And so he wrote it in Tuscan, the language of Florence. Latin was the language of the elite. He wanted to write in Tuscan so that ordinary people around him could access it."
+> [GB9 00:00:25 - 00:01:26]
+> "At this time in history, epic poetry was considered high, or tragic. And it was written usually in Latin. But for Dante, what he really believed is that epic poetry should be democratic. It should be accessible to the people. That's why he called it La Commedia, low, which meant comedy. And so he wrote it in Tuscan, which is the language of Florence, where he lived. Latin was the language of the elite in Europe. He wanted to write in Tuscan so that ordinary people around him could access it. And as a result, Dante is a great believer in democracy."
 >
 > — GB#9: Dante
 
-> [GB9 00:03:34 - 00:03:59]
-> "Dante wrote La Commedia in order to have people access God. For the comedy, you can access God and bypass Catholic Church. In fact, you'll find a lot of direct criticisms of the Catholic Church. And like Homer, what Dante wanted to do is position love first and foremost. In La Commedia, love is God itself."
+> [GB11 00:05:38 - 00:06:00]
+> "So, Dante, what he's doing is he's asserting the primacy of love. We don't need to obey others. We don't need the church because love, if we just activate the love within us, this will connect us back to God. And this connection will drive our imagination, which will make us creative."
 >
-> — GB#9: Dante
+> — GB#11: Dante's Revolution
 
-> [GB12 00:19:40 - 00:20:21]
-> "Dante is writing Paradise. And the problem is that Paradise is beyond human imagination. You cannot imagine Paradise because it is beyond what we can possibly think of. So what Dante does is he uses the only tool available to him, which is metaphor and analogy, to describe the indescribable. And by doing so, he actually expands the human imagination. Reading Paradise is not about learning facts about heaven. It is about training your imagination to be able to conceive what is inconceivable."
+> [GB12 00:02:40 - 00:03:43]
+> "And that imagination is the unifying force of the universe. And what matters is the individual, the individual's connection to the source, or the monad. And if the individual is able to connect to the source, then that lights the universe. But what Virgil will do, because he serves empire, is he will cut us off from the source. And say, 'No, what matters is piety, obedience to authority.' And by doing that, we cease to be individuals, we cease to be imaginative, civilization stops. So, what Dante has to do is reconnect us back to the source. And if he does that, then that will restore the imagination as the fundamental animating force of the universe. We can now be creative, and this will set a new path for humanity."
 >
 > — GB#12: Dante in Paradise
 

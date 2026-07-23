@@ -4,7 +4,6 @@ description: "分析每个新兴帝国如何通过叙事将自己编码为古老
 source_series: "Civilization"
 source_episodes:
   - "C#23"
-  - "C#26"
   - "C#37"
   - "C#53"
 tags:
@@ -12,7 +11,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -25,10 +24,25 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#23/C#26/C#37/C#53 - 跨剧集综合]
-> "heirs to the Holy Roman Empire... Cyrus as the Messiah... the Abbasids as heirs to Persian imperial tradition... America as the New Israel... Russia as the Third Rome"
+> [C#23 00:16:08]
+> "And the Jews are so grateful that Cyrus the Great is called the Messiah in their Bible. Okay, Messiah means the anointed one, the one chosen by God to save the Jewish people. And Cyrus the Great is the only foreigner who is called Messiah in the Bible."
 >
-> — C#23: Cyrus the Great / C#26: Constantine the Great / C#37: The Golden Age of Islam / C#53: Dostoevsky and the Soul of Russia
+> — C#23: Cyrus the Great as Messiah
+
+> [C#37 01:16:56]
+> "When they shifted their capital to Baghdad, they now became a global empire. And as such, they had to absorb all these different traditions and cultures and become a multicultural universal empire."
+>
+> — C#37: The Golden Age of Islam
+
+> [C#53 00:16:01]
+> "The Germans believe they are heirs to the Holy Roman Empire, which is a confederation."
+>
+> — C#53: Dostoevsky and the Soul of Russia
+
+> [C#53 00:18:00]
+> "They believe they are trying to restore the Byzantine Empire and be the third Rome and save civilization... The first Rome, of course, was Rome. Second Rome was Constantinople. The third Rome now is Moscow."
+>
+> — C#53: Dostoevsky and the Soul of Russia
 
 ---
 

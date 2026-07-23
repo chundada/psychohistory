@@ -1,0 +1,456 @@
+总文件: 209
+全部引文验证通过(>=0.7): 84
+部分引文弱匹配(0.4-0.7, 可能改写/拼接): 36
+存在引文无法匹配(<0.4, 疑似编造或错集): 86
+找不到对应转录: 3
+
+===== 疑似问题文件（引文匹配 <0.4）=====
+
+--- civ-civ-002.md  eps=['C#END']
+  ✗ [0.00] "Literature and power. The literary tradition is th..." 全库最佳[0.00] 
+
+--- civ-civ-003.md  eps=['C#6']
+  ✗ [0.00] "Because of its destruction, this allowed for massi..." 全库最佳[1.00] Civilization #8：  Rat Utopia and the Peloponnesian War.en.vt
+
+--- civ-civ-004.md  eps=['C#END']
+  ✗ [0.00] "America is a zombie civilization... It's structura..." 全库最佳[0.50] Civilization #42：  The Protestant Reformation and the Birth 
+
+--- civ-civ-005.md  eps=['C#42']
+  ✗ [0.00] "The Protestant religion gave birth to capitalism....." 全库最佳[1.00] Civilization #42：  The Protestant Reformation and the Birth 
+
+--- civ-civ-007.md  eps=['C#8']
+  ✗ [0.00] "John Calhoun's rat utopia experiment... When you g..." 全库最佳[0.00] 
+
+--- civ-civ-008.md  eps=['C#8']
+  ✗ [0.00] "It was the rise of Athens and the fear of Sparta t..." 全库最佳[0.08] GT22-Twilight-of-the-Nation-State.md
+
+--- civ-civ-009.md  eps=['C#40']
+  ✗ [0.00] "After the fall of Rome, the Catholic Church became..." 全库最佳[0.56] Civilization #40：  Church and Empire.en.vtt
+
+--- civ-civ-010.md  eps=['C#5']
+  ✗ [0.00] "The Yamnaya conquest... Horse and chariot gave the..." 全库最佳[0.00] 
+
+--- civ-civ-011.md  eps=['C#3']
+  ✗ [0.00] "In the beginning, the main religion for us humans ..." 全库最佳[1.00] Civilization #57：  How Modernism Ruined Everything.en.vtt
+
+--- civ-civ-012.md  eps=['C#56/57']
+  ✗ [0.00] "Freud showed us that we are not masters of our own..." 全库最佳[0.33] SH05-Secret History #4  How Evil Triumphs.vtt
+
+--- civ-civ-014.md  eps=['C#14/17']
+  ✗ [0.00] "When Caesar crossed the Rubicon, the Republic was ..." 全库最佳[0.00] 
+
+--- civ-civ-015.md  eps=['C#6']
+  ✗ [0.00] "The Bronze Age collapse was a systems collapse... ..." 全库最佳[0.40] Civilization #21：  The Apology of King David of Israel.en.vt
+
+--- civ-civ-016.md  eps=['C#7']
+  ✗ [0.00] "The phonetic alphabet was a revolutionary technolo..." 全库最佳[0.00] 
+
+--- civ-civ-017.md  eps=['C#14/END']
+  ✗ [0.00] "From polis to empire to world state... This is the..." 全库最佳[0.20] Civilization #37：  The Golden Age of Islam.en.vtt
+
+--- civ-civ-018.md  eps=['C#3/7']
+  ✗ [0.00] "The Axial Age... Between 800 and 200 BC, something..." 全库最佳[0.04] Civilization #26：  Constantine's Monotheistic Revolution.en.
+
+--- civ-civ-019.md  eps=['C#END/17']
+  ✗ [0.00] "Empires always overextend... They conquer more tha..." 全库最佳[0.00] 
+
+--- civ-civ-020.md  eps=['C#END']
+  ✗ [0.00] "Every civilization has a life cycle: birth, growth..." 全库最佳[0.11] GU05-Universal-Law-Game-Theory.vtt
+
+--- civ-pred-002.md  eps=['C#END', 'C#49']
+  ✗ [0.00] "The central bank is the institution that creates m..." 全库最佳[0.07] GT17-The-Great-Reset.md
+  ✗ [0.05] "The Medici family in Florence, they were the first..." 全库最佳[0.14] SH27-Secret History #26  Faith of Evil.vtt
+  ✗ [0.08] "The Bank of England was founded in 1694. It was th..." 全库最佳[0.15] Civilization #50：  Rule, Britannia!.en.vtt
+
+--- civ-pred-003.md  eps=['C#END']
+  ✗ [0.00] "The tech companies are the new central banks. They..." 全库最佳[0.00] 
+  ✗ [0.00] "Bitcoin is the first time in history that we have ..." 全库最佳[0.07] Civilization #22：  The Literary Genesis of the Yahwist.en.vt
+  ✗ [0.00] "The big tech companies — Google, Apple, Facebook, ..." 全库最佳[0.08] Civilization #15：  The Myth-Making Genius of Julius Caesar.e
+
+--- civ-pred-004.md  eps=['C#END', 'C#49']
+  ✓ [0.92] "If you were a white high school graduate male in A..." 
+  ✓ [0.76] "He could be a salesperson, a clerk, a factory work..." 
+  ✗ [0.00] "The problem is that over time, the Germans start t..." 全库最佳[1.00] Civilization #END：  The Decline and Fall of the American Emp
+
+--- civ-pred-005.md  eps=['C#42']
+  ✗ [0.00] "The Protestant Reformation made three critical cha..." 全库最佳[0.04] GT03-Rich-Dad-Poor-Dad.md
+  ✗ [0.00] "The Catholic Church said: poverty is virtue, wealt..." 全库最佳[0.00] 
+
+--- civ-pred-008.md  eps=['C#57']
+  ✗ [0.00] "It is the religious worldview that underpins socie..." 全库最佳[0.86] Civilization #46：  The Revolution of Reason.en.vtt
+  ✗ [0.00] "There have been four major religious worldviews in..." 全库最佳[0.64] Civilization #46：  The Revolution of Reason.en.vtt
+  ✗ [0.04] "Freud is the key figure of modernism. He showed th..." 全库最佳[0.12] Civilization #55：  Kant, Hegel, and the Theory of Everything
+
+--- civ-pred-014.md  eps=['C#50', 'C#49']
+  ✓ [1.00] "To understand the rise of the British Empire, we f..." 
+  ✓ [0.89] "A feudal system means that there are rigid hierarc..." 
+  ✗ [0.15] "The Bank of England was founded in 1694. It was th..." 全库最佳[0.15] Civilization #50：  Rule, Britannia!.en.vtt
+
+--- civ-pred-015.md  eps=['C#57', 'C#46']
+  ~ [0.64] "There have been four major religious worldviews in..." 
+  ✓ [0.88] "From then, we moved on to the polytheistic. Polyth..." 
+  ✗ [0.06] "Freud is the key figure of modernism. He showed th..." 全库最佳[0.17] Civilization #55：  Kant, Hegel, and the Theory of Everything
+
+--- civ-rel-001.md  eps=['C#22']
+  ✗ [0.00] "the Yahwist source... the earliest known author in..." 全库最佳[0.25] Civilization #22：  The Literary Genesis of the Yahwist.en.vt
+
+--- civ-rel-002.md  eps=['C#23']
+  ✗ [0.00] "Cyrus the Great... the only foreign leader called ..." 全库最佳[1.00] Civilization #37：  The Golden Age of Islam.en.vtt
+
+--- civ-rel-003.md  eps=['C#25']
+  ✗ [0.00] "Paul took a Jewish sect and made it exportable... ..." 全库最佳[0.00] 
+
+--- civ-rel-004.md  eps=['C#26']
+  ✗ [0.00] "Constantine saw that Christianity could be the uni..." 全库最佳[0.12] Civilization #33：  The Rise and Fall of the Byzantine Empire
+
+--- civ-rel-005.md  eps=['C#27']
+  ✗ [0.00] "Augustine wrote the City of God when Rome was fall..." 全库最佳[0.14] Civilization #27：  Augustine's Empire of God.en.vtt
+
+--- civ-rel-006.md  eps=['C#28']
+  ✗ [0.00] "Muhammad completed the monotheistic project... scr..." 全库最佳[0.00] 
+
+--- civ-rel-007.md  eps=['C#37']
+  ✗ [0.00] "the Abbasid Caliphate... centers of incredible cul..." 全库最佳[1.00] Civilization #37：  The Golden Age of Islam.en.vtt
+
+--- civ-rel-008.md  eps=['C#29']
+  ✗ [0.33] "what Dante will do is completely overturn this tra..." 全库最佳[1.00] Civilization #29：  Dante's Divine Comedy and the Liberation 
+
+--- civ-rel-009.md  eps=['C#51']
+  ✗ [0.00] "the poet as prophet... divine mission to spread th..." 全库最佳[1.00] Civilization #43：  The Structure of Scientific Revolutions.e
+
+--- civ-rel-010.md  eps=['C#53']
+  ✗ [0.00] "God is a force that redeems and saves all... heirs..." 全库最佳[1.00] Civilization #53：  Dostoevsky and the Soul of Russia.en.vtt
+
+--- civ-rel-011.md  eps=['C#7']
+  ✗ [0.00] "Homer created the Greek imagination... the Iliad d..." 全库最佳[0.40] GT12-The-Law-of-Eschatological-Convergence.md
+
+--- civ-rel-012.md  eps=['C#19']
+  ✗ [0.00] "Gilgamesh... the earliest known epic... the quest ..." 全库最佳[0.33] GT26-The-Holy-Empire-of-AI.md
+
+--- civ-rel-013.md  eps=['C#24']
+  ✗ [0.00] "the Gnostic Jesus... the Gospel of Thomas... the B..." 全库最佳[1.00] Civilization #24：  Resurrecting the Gnostic Jesus.en.vtt
+
+--- civ-rel-014.md  eps=['C#3', 'C#2']
+  ✗ [0.00] "the religious imagination... from ritual to narrat..." 全库最佳[0.00] 
+
+--- civ-rel-015.md  eps=['C#23', 'C#26', 'C#37', 'C#53']
+  ✗ [0.00] "heirs to the Holy Roman Empire... Cyrus as the Mes..." 全库最佳[1.00] Civilization #53：  Dostoevsky and the Soul of Russia.en.vtt
+
+--- gb-literature-003.md  eps=['GB#2: Homer and the Invention of the Human', 'GB#5: The Odyssey']
+  ✗ [0.14] "A great book is something that helps us become hum..." 全库最佳[0.13] Great Books #2：  Homer and the Invention of the Human.en.vtt
+  ✗ [0.13] "What happens when you read Homer? Homer activates ..." 全库最佳[0.13] Great Books #2：  Homer and the Invention of the Human.en.vtt
+
+--- gb-religion-006.md  eps=['GB#7: The Anti-Homer', 'GB#8: The Poetry of Empire']
+  ✓ [0.72] "Piety means obedience to your fathers, to history,..." 
+  ✗ [0.03] "In Homer, you have ego. In Virgil, what you have i..." 全库最佳[0.04] GT20-Mid-Term-Examination.md
+
+--- gb-religion-008.md  eps=['GB#9: Dante', "GB#10: Dante's Hierarchy of Hell"]
+  ✗ [0.24] "Let me talk about the structure of La Commedia. Th..." 全库最佳[0.23] Great Books #9：  Dante (Re-Upload with Audio Fixed).en.vtt
+
+--- gb-religion-009.md  eps=["GB#10: Dante's Hierarchy of Hell", "GB#11: Dante's Revolution"]
+  ✗ [0.02] "For Dante, what we have here is a structure of sin..." 全库最佳[0.05] _full_index.md
+  ✗ [0.04] "A core concept in Dante is that the sin itself cre..." 全库最佳[0.04] _full_index.md
+
+--- gb-religion-010.md  eps=['GB#9: Dante', "GB#11: Dante's Revolution", 'GB#12: Dante in Paradise']
+  ✓ [0.78] "At this time in history, epic poetry was considere..." 
+  ✓ [0.72] "Dante wrote La Commedia in order to have people ac..." 
+  ✗ [0.06] "Dante is writing Paradise. And the problem is that..." 全库最佳[0.05] Civilization #51：  Shakespeare's Language of Empire.en.vtt
+
+--- gs-civ-002.md  eps=['GS01']
+  ✗ [0.07] "It is antagonizing all these wars at once, it is a..." 全库最佳[0.27] GS10-Putins-Strategic-Imagination.vtt
+
+--- gs-civ-005.md  eps=['GS03']
+  ✗ [0.16] "From 1950 to 1980, America economy was mainly focu..." 全库最佳[0.16] GS03-How-Empire-Destroys-America.vtt
+
+--- gs-civ-009.md  eps=['GS11']
+  ✗ [0.24] "When a society no longer believes in institutions ..." 全库最佳[0.24] GS11-The-Second-American-Civil-War.vtt
+
+--- gs-civ-010.md  eps=['GU08']
+  ✗ [0.38] "Young people now refuse to have children. It is no..." 全库最佳[0.38] GU08-Why-West-Is-Doomed.vtt
+
+--- gs-geopolitics-003.md  eps=['GS04']
+  ✗ [0.17] "Iran and Saudi Arabia have fought three proxy wars..." 全库最佳[0.54] GS04-Saudi-Arabia-Trump-Card.vtt
+
+--- gs-pre-003.md  eps=['GS01']
+  ✗ [0.00] "The Iranian strategy is based on centuries of expe..." 全库最佳[0.02] Civilization #32：  Rome's Rise, Fall, and Legacy.en.vtt
+
+--- gs-pre-004.md  eps=['GS05']
+  ✗ [0.04] "I predict that Trump will win in November. Here is..." 全库最佳[0.04] GS04-Saudi-Arabia-Trump-Card.vtt
+
+--- gs-pre-005.md  eps=['GS01']
+  ✗ [0.06] "Intelligence comes in two forms. There is the idea..." 全库最佳[0.06] Civilization #31：  The Oceanic Currents of History.en.vtt
+
+--- gs-pre-006.md  eps=['GS03']
+  ✗ [0.05] "History tells us that every empire eventually coll..." 全库最佳[0.05] GT16-Pax-Judaica-Rising.md
+
+--- gs-pre-008.md  eps=['GS08']
+  ✗ [0.00] "This is the Iran trap. It is exactly like what hap..." 全库最佳[0.07] _full_index.md
+
+--- gs-pre-009.md  eps=['GU07']
+  ✗ [0.24] "Based on all this, I am going to paint you a pictu..." 全库最佳[0.24] GU07-When-Eschatologies-Converge.vtt
+
+--- gs-pre-015.md  eps=['GU08']
+  ✗ [0.00] "The decline of the West is not a prediction, it is..." 全库最佳[0.02] Civilization #42：  The Protestant Reformation and the Birth 
+
+--- gs-rel-001.md  eps=['GS02']
+  ✗ [0.10] "They believe war between Israel and Iran will brin..." 全库最佳[0.26] GS04-Saudi-Arabia-Trump-Card.vtt
+
+--- gs-rel-002.md  eps=['GS02']
+  ✗ [0.08] "There are different variations of Christian eschat..." 全库最佳[0.08] GS02-Christian-Zionism-Middle-East.vtt
+
+--- gs-rel-004.md  eps=['GS11']
+  ✗ [0.27] "And for many on the right, Donald Trump is the Mes..." 全库最佳[0.27] GS11-The-Second-American-Civil-War.vtt
+
+--- gs-rel-005.md  eps=['GU02']
+  ✗ [0.17] "They believe that in the Bible, Yahweh, their God,..." 全库最佳[0.17] GU02-WWIII-Begins.vtt
+
+--- gs-rel-006.md  eps=['GU07']
+  ✗ [0.00] "The question is, when these two eschatological vis..." 全库最佳[0.05] _full_index.md
+
+--- gs-rel-009.md  eps=['GS02']
+  ✗ [0.00] "Christian Zionists in America have tremendous poli..." 全库最佳[0.02] Civilization #21：  The Apology of King David of Israel.en.vt
+
+--- gs-rel-010.md  eps=['GU07']
+  ✗ [0.00] "Both sides use the language of holy war. For the I..." 全库最佳[0.02] Civilization #40：  Church and Empire.en.vtt
+
+--- gt-civilization-military-industrial-complex.md  eps=['GT16', 'GT17']
+  ✓ [0.94] "The point is not to have successful wars. The poin..." 
+  ✗ [0.00] "September 10th, 2001, Donald Rumsfeld... said that..." 全库最佳[0.85] GT16-Pax-Judaica-Rising.md
+
+--- gt-predictive-005.md  eps=['GT28']
+  ✗ [0.15] "The third reason is actually the most mundane: imp..." 全库最佳[0.75] GT28-Predictive-History.md
+
+--- gt-predictive-008.md  eps=['GT25', 'GT27', 'GT21']
+  ✗ [0.37] "The problem is that the US government has $39 tril..." 全库最佳[0.79] GT27-Putin-Enters-the-Chat.md
+  ✓ [0.93] "Putin understands that all he has to do is stop fo..." 
+  ~ [0.44] "The solution is financial repression. I'll make th..." 
+
+--- gt-predictive-009.md  eps=['GT23', 'GT28']
+  ✓ [0.77] "What the people in the cabala believe is that ther..." 
+  ✗ [0.22] "The idea of sin: you must break yourself before yo..." 全库最佳[0.82] GT28-Predictive-History.md
+
+--- gt-predictive-011.md  eps=['GT24', 'GT26']
+  ✓ [0.86] "The truth of this is we're building portals from w..." 
+  ✗ [0.10] "The AI only works if it becomes God. ... How God w..." 全库最佳[0.80] GT24-The-AI-Apocalypse.md
+
+--- gt-predictive-013.md  eps=['GT21', 'GT23']
+  ✓ [0.81] "What America is doing is, when they mean 'prioriti..." 
+  ✗ [0.00] "The point is to get China to submit. The point is ..." 全库最佳[1.00] GT21-World-War-Trump.md
+
+--- gt-religion-eschatological-convergence.md  eps=['GT12']
+  ✗ [0.09] "The first major eschatology is Zoroastrianism: tru..." 全库最佳[0.09] GT12-The-Law-of-Eschatological-Convergence.vtt
+
+--- gt-religion-kabbalistic-redemption.md  eps=['GT28', 'GT14']
+  ✗ [0.00] "The idea of sin is you must break yourself before ..." 全库最佳[0.80] GT28-Predictive-History.md
+  ~ [0.55] "What they focus on is the story of David where Dav..." 
+
+--- gt-religion-pax-judaica.md  eps=['GT16', 'GT12']
+  ~ [0.70] "The main outcome of this war is that Israel will r..." 
+  ✗ [0.32] "The Freemasons are working within the Christian Zi..." 全库最佳[0.32] GT12-The-Law-of-Eschatological-Convergence.vtt
+
+--- ph-origin-elite-overproduction.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.50] "Cliodynamics... just means the mathematical moveme..." 
+  ✗ [0.00] "Now traditionally we've understood the collapse of..." 全库最佳[1.00] GSEND-Psychohistory.vtt
+  ✓ [0.82] "The problem though is they all want power... wealt..." 
+  ✓ [0.97] "What happens over time is that all these people wh..." 
+  ✗ [0.23] "The most famous example is in China in Imperial Ch..." 全库最佳[1.00] GSEND-Psychohistory.vtt
+
+--- ph-origin-psychohistory-definition.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ✓ [0.73] "So basically what you need to do is three things r..." 
+  ✗ [0.31] "Psychohistory is the idea that if you can mathemat..." 全库最佳[1.00] GSEND-Psychohistory.vtt
+  ✓ [0.85] "In the Foundation books he introduces the idea of ..." 
+
+--- sh-fail-001.md  eps=['SH01: How Power Works (Secret History #1)']
+  ✓ [0.77] "Money is not scarce, it is infinite. We don't have..." 
+  ✓ [1.00] "Power has brainwashed you into thinking something ..." 
+  ✓ [0.80] "And this system is what we call today central bank..." 
+  ✗ [0.00] "How they control power in society is through three..." 全库最佳[0.92] SH03-Secret History #2  How Societies Collapse.vtt
+
+--- sh-fail-002.md  eps=['SH28: Empire of Evil (Secret History #27)']
+  ~ [0.67] "If I can see a swan a thousand times, I can then i..." 
+  ✓ [1.00] "You cannot prove that just because you've never se..." 
+  ✓ [1.00] "You could have seen 10 million white swans does no..." 
+  ✗ [0.06] "I'm not trying to tell you what is true, but I'm j..." 全库最佳[1.00] SH10-Secret History #9   The Theory of Everything.vtt
+  ✗ [0.04] "There are different big bangs. There are multiple ..." 全库最佳[0.85] SH10-Secret History #9   The Theory of Everything.vtt
+
+--- sh-game-007.md  eps=['SH20: Dawn of the Jews']
+  ✓ [1.00] "The idea of game theory is to understand that all ..." 
+  ✓ [1.00] "All historical actors are motivated by their inter..." 
+  ~ [0.67] "I've identified three different patterns of geopol..." 
+  ✗ [0.00] "We should just fake this thing and make fun of the..." 全库最佳[1.00] SH11-Secret History #10  The Conspiracy of Evil.vtt
+  ✗ [0.25] "Jerusalem and its enemies rely on America to manag..." 全库最佳[1.00] SH20-Secret History #19  Dawn of the Jews.vtt
+
+--- sh-geo-001.md  eps=['SH28: Empire of Evil (Secret History #27)', 'SH25: Church and Empire (Secret History #25)']
+  ✓ [1.00] "The Jews are construct and tool of empire. In othe..." 
+  ✓ [1.00] "The Jews weren't around, then it would be the Indi..." 
+  ✓ [0.79] "When these wars come out, what these Jews do is th..." 
+  ✗ [0.00] "Power has brainwashed you into thinking something ..." 全库最佳[1.00] SH01-Secret History #1  How Power Works.vtt
+
+--- sh-pre-002.md  eps=['SH03: How Societies Collapse (Secret History #2)', 'SH01: How Power Works (Secret History #1)']
+  ✗ [0.33] "How they control power in society is through three..." 全库最佳[0.92] SH03-Secret History #2  How Societies Collapse.vtt
+  ✓ [0.83] "Money is not scarce, it is infinite. We don't have..." 
+  ✓ [0.80] "And this system is what we call today central bank..." 
+  ✓ [0.79] "What's really important for us to remember is this..." 
+  ✓ [0.81] "Elite overproduction will ultimately lead to eithe..." 
+
+--- sh-pre-003.md  eps=['SH19: Dawn of the Jews (Secret History #20)']
+  ✓ [0.83] "There are three components to this new history mod..." 
+  ~ [0.67] "Second tool is idea of game theory. All historical..." 
+  ~ [0.67] "I've identified three different patterns of geopol..." 
+  ✓ [0.91] "They use war as a game in order to maintain the st..." 
+  ✗ [0.00] "It's very common for these factions to align with ..." 全库最佳[0.86] SH03-Secret History #2  How Societies Collapse.vtt
+
+--- sh-pre-004.md  eps=['SH28: Pax Judaica (Secret History #END)', 'SH15: Death by Bureaucracy']
+  ✗ [0.00] "The bureaucrats will collude together to steal pow..." 全库最佳[1.00] SH14-Secret History #13  Mandate of Heaven.vtt
+  ✗ [0.02] "This is a pattern that repeats over and over again..." 全库最佳[0.10] _full_index.md
+  ✗ [0.05] "What are good things about the current world? Well..." 全库最佳[0.41] SH09-Secret History #8  Death by Bureaucracy.vtt
+  ✗ [0.00] "They have all the information. They have all the e..." 全库最佳[0.04] GT15-The-Return-of-History.md
+
+--- sh-pre-007.md  eps=['GT26 The Holy Empire of AI', 'GT28 Predictive History', 'GT12 Eschatological Convergence']
+  ✗ [0.00] "这是共济会的层面——他们在基督教锡安主义的背景下运作。他们要做的是把敌基督变成一个系统。这个系统叫做..." 全库最佳[0.00] 
+
+--- sh-rel-005.md  eps=['SH12: Thus Spoke Zarathustra', 'SH13: Dawn of the Jews']
+  ✗ [0.00] "Zoroastrianism is the first monotheistic religion...." 全库最佳[0.86] SH19-Secret History #18  Thus Spoke Zarathustra.vtt
+  ✗ [0.00] "Zoroastrianism will give birth to three new religi..." 全库最佳[0.80] SH19-Secret History #18  Thus Spoke Zarathustra.vtt
+  ✗ [0.00] "I said that Christianity was the first monistic re..." 全库最佳[1.00] SH19-Secret History #18  Thus Spoke Zarathustra.vtt
+  ✗ [0.00] "You can choose and you must choose to be good... G..." 全库最佳[1.00] SH19-Secret History #18  Thus Spoke Zarathustra.vtt
+  ✗ [0.00] "Three major stages of religious development... Mot..." 全库最佳[1.00] SH06-Secret History #5  The Birth of Evil.vtt
+
+--- sh-rel-014.md  eps=['SH20: Dawn of the Jews', 'SH24: The Organization of Evil']
+  ✓ [1.00] "Paul and not Jesus is the real founder of Christia..." 
+  ✓ [1.00] "Christianity is a religion about Jesus, but not by..." 
+  ~ [0.64] "A third of the New Testament is either written by ..." 
+  ✓ [1.00] "The idea of the divine spark is the greatest threa..." 
+  ✗ [0.00] "Once Paul builds the structure of Christianity, th..." 全库最佳[1.00] SH24-Secret History #23  The Organization of Evil.vtt
+  ✓ [0.75] "To those under the law, I become as one under the ..." 
+
+--- sh-rel-017.md  eps=['SH25: Church and Empire', 'SH24: The Organization of Evil']
+  ✓ [1.00] "You kings, you compete for who rules the earth. Bu..." 
+  ✓ [1.00] "The Catholic Church will increase in power... we d..." 
+  ✗ [0.00] "Once Paul builds the structure of Christianity, th..." 全库最佳[1.00] SH24-Secret History #23  The Organization of Evil.vtt
+  ✓ [1.00] "Jesus who's come to remind you that you don't have..." 
+  ✗ [0.00] "We need to create an organized religion and we nee..." 全库最佳[1.00] SH23-Secret History #22  The Divine Spark of Jesus.vtt
+
+--- sh-rel-022.md  eps=['SH21']
+  ✗ [0.00] "Christianity comes from a merger of these three ma..." 全库最佳[1.00] SH21-Secret History #20  The Hellenistic World.vtt
+
+===== 弱匹配文件（0.4-0.7）=====
+
+--- civ-civ-013.md  eps=['C#58']
+  ~ [0.53] "Nation state is composed of two words: nation and ..."
+
+--- civ-pred-001.md  eps=['C#END']
+  ~ [0.67] "World War II was about mercantilism... Pax America..."
+
+--- civ-pred-009.md  eps=['C#45']
+  ~ [0.47] "Sparta had a hoplite army, it became an oligarchy...."
+  ~ [0.67] "How did Europe, starting about the year 1700, conq..."
+
+--- civ-pred-010.md  eps=['C#46']
+  ~ [0.64] "To oversimplify, there have been four major religi..."
+
+--- gs-civ-003.md  eps=['GS10']
+  ~ [0.55] "This is how you kill an Empire when all three thin..."
+
+--- gs-civ-008.md  eps=['GS09']
+  ~ [0.67] "Putin said to his Russian people that all Russia m..."
+
+--- gs-failure-modes-001.md  eps=['GS08']
+  ~ [0.59] "Have you guys heard of a sunk cost fallacy? The id..."
+
+--- gs-geopolitics-004.md  eps=['GU01']
+  ~ [0.68] "I discussed the heartland thesis, the Mackinder th..."
+
+--- gs-glossary-006.md  eps=['GU02']
+  ~ [0.61] "It is called the escalation ladder. The idea of th..."
+
+--- gs-pre-007.md  eps=['GS11']
+  ~ [0.42] "Then the most likely outcome is a civil war. The t..."
+
+--- gs-pre-012.md  eps=['GS10']
+  ~ [0.45] "If it is true that Putin forward strategy is to de..."
+
+--- gt-civilization-eoc-model.md  eps=['GT05', 'GT29']
+  ~ [0.65] "You should ask yourself three questions. Is this s..."
+
+--- gt-civilization-three-superstructures.md  eps=['GT01']
+  ~ [0.67] "In a low population poor society, guess what? They..."
+
+--- gt-failure-advantage-paradox.md  eps=['GT10']
+  ~ [0.56] "All these advantages are ultimately disadvantages ..."
+
+--- gt-geopolitics-chokepoint.md  eps=['GT21']
+  ~ [0.68] "The key idea is that America will adopt a new stra..."
+
+--- gt-geopolitics-three-laws.md  eps=['GT16']
+  ~ [0.49] "I want to teach you three basic principles or rule..."
+
+--- gt-glossary-asymmetry.md  eps=['GT10']
+  ~ [0.62] "Today, I present to you a very important idea in g..."
+
+--- gt-glossary-cohesion-openness-energy.md  eps=['GT05', 'GT10']
+  ~ [0.42] "There are three metrics that you can use to measur..."
+
+--- gt-glossary-elite-overproduction.md  eps=['GT10', 'GT03']
+  ~ [0.68] "Elite overproduction. This is a term coined by the..."
+
+--- gt-predictive-002.md  eps=['GT12']
+  ~ [0.60] "The universal law of game theory states this. Whoe..."
+
+--- gt-predictive-003.md  eps=['GT28']
+  ~ [0.62] "What's interesting about these three major reasons..."
+
+--- gt-predictive-006.md  eps=['GT23']
+  ~ [0.60] "For each country I want you to imagine each countr..."
+
+--- gt-predictive-015.md  eps=['GT28', 'GT23', 'GT21']
+  ~ [0.70] "Something called continuity of government: now tha..."
+
+--- gt-religion-ai-stargate-rapture.md  eps=['GT24', 'GT28']
+  ~ [0.66] "Sam Altman reflected on his blog in 2013: 'The mos..."
+  ~ [0.69] "We're building portals from which we're genuinely ..."
+
+--- gt-religion-communism-as-anti-religion.md  eps=['GT08']
+  ~ [0.61] "The real enemies of capitalism are not communism. ..."
+
+--- gt-religion-money-as-god.md  eps=['GT28', 'GT29']
+  ~ [0.57] "Money is valueless. But it's like lead, but in our..."
+  ~ [0.42] "What's happening today is a civil war where money,..."
+
+--- ph-origin-ai-limitations.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.69] "So AI in other words is an extremely limited tool...."
+  ~ [0.50] "Computers can only refine and optimize the algorit..."
+
+--- ph-origin-future-imagination.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.69] "Not only do you have to believe in a better world,..."
+
+--- ph-origin-second-foundation.md  eps=['GSEND: Psychohistory (The Science of Imagining the Future)']
+  ~ [0.40] "In Foundation, the solution is to create another o..."
+  ~ [0.57] "The idea of the Second Foundation... the Second Fo..."
+
+--- sh-civ-001.md  eps=['SH19: Dawn of the Jews (Secret History #20)', 'SH03: How Societies Collapse (Secret History #2)']
+  ~ [0.67] "I've identified three different patterns of geopol..."
+
+--- sh-civ-002.md  eps=['SH03']
+  ~ [0.56] "And Peter Turchin spent decades looking at how soc..."
+
+--- sh-civ-006.md  eps=['SH16']
+  ~ [0.44] "Today we are doing the Bronze collapse. Remember t..."
+
+--- sh-civ-007.md  eps=['SH15']
+  ~ [0.57] "Today we are going to discuss Civilization versus ..."
+
+--- sh-civ-008.md  eps=['SH22']
+  ~ [0.58] "Their entire society is based on war... Because it..."
+
+--- sh-pre-001.md  eps=['SH29: Pax Judaica (Secret History #END)']
+  ~ [0.57] "The grand thesis of this class is that six societi..."
+  ~ [0.50] "Does it connect the dots of history? Does it help ..."
+
+--- sh-rel-009.md  eps=['SH18']
+  ~ [0.67] "David's three major innovations that would forever..."
+
+===== 找不到转录的文件 =====
+  - sh-geo-002.md  找不到转录(ep=['WW3 Analysis: Grand Strategy of Israel, Russia, Iran'])
+  - sh-pre-005.md  找不到转录(ep=['WW3 Analysis: Catalyst Moment of World War III'])
+  - sh-pre-006.md  找不到转录(ep=['WW3 Analysis: Shadow Fleet and Sanctions Evasion'])

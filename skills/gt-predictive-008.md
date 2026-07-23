@@ -5,7 +5,6 @@ source_series: "Game Theory"
 source_episodes:
   - "GT25"
   - "GT27"
-  - "GT21"
 tags:
   - psychohistory
   - game-theory
@@ -21,7 +20,7 @@ contrasts-with:
 composes-with:
   - "gt-predictive-010"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 ---
@@ -35,20 +34,25 @@ v2_prediction_strength: "strong"
 
 ## R — Reading（阅读原文）
 
-> [GT25 00:54:30 - 00:55:30]
-> "The problem is that the US government has $39 trillion in debt. And the only way to finance this debt is to force others to continue to buy US treasuries. ... You can't default on this debt domestically because everyone in America would lose all their money. So the only thing you can do is go overseas and force people to buy US dollars from you. And you do that through war."
+> [GT27 01:01:00 - 01:01:50]
+> "What America needs to do is basically force these countries like Japan, China to continually buy US treasuries. And that's why we have this war in Iran. ... Right now the debt is at $39 trillion."
 >
-> — GT25: Trump Visits China
+> — GT27: Putin Enters the Chat
 
-> [GT27 00:27:17 - 00:35:09]
+> [GT27 01:06:44 - 01:06:58]
+> "Because you cannot default the debt domestically because everyone in America would lose all their money. So the only thing you can do is go overseas and force people to buy US dollars from you. And you do that through war."
+>
+> — GT27: Putin Enters the Chat
+
+> [GT27 01:07:04 - 01:07:15]
 > "Putin understands that all he has to do is stop foreign countries from buying US dollars and America will collapse in itself because the economics doesn't make any more sense."
 >
 > — GT27: Putin Enters the Chat
 
-> [GT21 00:15:21 - 00:44:12]
-> "The solution is financial repression. I'll make the interest rate 0% and I force people to buy US Treasuries by passing laws that compel stablecoins to use US Treasuries as a basis of their digital currency."
+> [GT25 01:01:46 - 01:02:09]
+> "So that's the solution, financial repression. I drop the interest rate of US Treasuries to nothing, in which case inflation will destroy the debt over 50 years. And I force people to buy it by passing laws that force companies to back the digital currency with US Treasuries."
 >
-> — GT21: World War Trump
+> — GT25: Trump Visits China
 
 ---
 

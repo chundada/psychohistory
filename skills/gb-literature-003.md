@@ -10,7 +10,7 @@ tags:
   - great-books
   - literature-civilization
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-23
 ---
 
 # 荷马与自我意识：文学作为人类化机制
@@ -22,13 +22,13 @@ updated: 2026-07-15
 
 ## R — Reading（阅读原文）
 
-> [GB2 00:04:08 - 00:05:31]
-> "A great book is something that helps us become human. In a great book the characters are different from our everyday reality. But when we read these characters, we internalize them. And to read Homer is to hear yourself speak. To hear yourself speak means to be able to see yourself from outside of yourself. It means self-consciousness. So the essence of being human is self-consciousness. It's the ability to step outside of yourself and see yourself as a character. That's consciousness. That's what makes us human. And Homer does this like as well as any author."
+> [GB2 00:04:40 - 00:05:07]
+> "A great book is something that helps us become human. In a great book the characters are different because the characters are able to hear themselves speak. Hear yourself speak."
 >
 > — GB#2: Homer and the Invention of the Human (citing Harold Bloom)
 
-> [GB2 00:05:38 - 00:06:33]
-> "What happens when you read Homer? Homer activates your imagination. And when you imagine, you're able to hear yourself speak. And what does it mean to hear yourself speak? It means that you recognize that you are the source of your own reality. Many of these people are not real, but they are real because they're archetypal — archetypes that exist within all of us. And by reading Homer, by activating your imagination, you're connecting with these universal archetypes. And then you see yourself as a player in this universal story."
+> [GB2 00:05:07 - 00:05:50]
+> "What does it mean to hear yourself speak? It means that as I'm speaking to you, there's also a part of me that steps back and analyzes what I say. It has to make sense to me. It has to make sense to you. And we call this consciousness. To be human means to be conscious. But to be conscious is ultimately an act of imagination because while you're speaking, you have to step back. We actually call this disassociation."
 >
 > — GB#2: Homer and the Invention of the Human
 

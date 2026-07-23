@@ -14,7 +14,7 @@ composes-with:
   - "gt-religion-messianic-accelerationism"
   - "gt-religion-pax-judaica"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 framing: "叙事分析对象，非本体系立场"
@@ -29,8 +29,13 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GT12]
-> "The first major eschatology is Zoroastrianism: truth vs. lie, light vs. darkness, a final battle and day of judgment. Jewish eschatology: the Jews disobeyed God, must engage in redemption, create Israel, return the diaspora, the war of Gog and Magog, then the Messiah comes. Christian Zionism: takes Jewish eschatology but says the Jewish Messiah is actually the Antichrist, Jesus returns for the rapture. Islamic eschatology: Dajjal (the Antichrist) arises, Jesus returns to defeat him. Shia eschatology: the 12th Imam Mahdi leads the faithful. Catholic eschatology: the Church is the millennial kingdom, but it requires the American Empire to fall just as Rome did. Orthodox eschatology (Third Rome): Moscow will become the Third Rome, Russia defeats Turkia, returns Greeks to Constantinople. Where do they converge? Greater Israel project achieved. Al-Aqsa Mosque gives way to the Third Temple. War of Gog and Magog. Antisemitism rises to force diaspora return. US and China both become irrelevant."
+> [GT12 00:18:28 - 00:19:00]
+> "And different traditions will have different eschatologies. And what's important to figure out is in what aspect do these eschatologies converge. Converge, meaning a union of these eschatologies. And why is that important? Because it allows you to predict how they will behave. Think of a story as the operating system of a society. And as such, it's a script that they will act out. And if you're able to figure out the different scripts and see how they converge together, where the union of these different scripts are, then you can actually predict how the world will turn out."
+>
+> — GT12: The Law of Eschatological Convergence
+
+> [GT12 00:51:24 - 00:53:32]
+> "So, let's look at the convergence. Where do they converge? Where they converge is that the greater Israel project will be achieved. Pax Judaica will be achieved. It's a one world government. That is one major convergence. If that's true, then another convergence is the Al-Aqsa Mosque will give way to the Third Temple. ... They converge is the rise of anti-Semitism. Why? Because that will force the Jewish diaspora to return to Israel. ... Another important convergence point is the war of Gog and Magog. ... Another thing that's very important is US and China are not part of this eschatology. This is where everyone agrees. For whatever reason, the United States is not going to partake in future events. Neither will China, which means that something will happen to these two countries that will make them not significant anymore."
 >
 > — GT12: The Law of Eschatological Convergence
 

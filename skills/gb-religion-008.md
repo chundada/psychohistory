@@ -10,7 +10,7 @@ tags:
   - great-books
   - religion-narrative
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,10 +23,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GB9 00:04:08 - 00:05:30]
-> "Let me talk about the structure of La Commedia. There are three distinct parts. First is Inferno. Second is Purgatory. And the last is Paradise. And what makes La Commedia so powerful is Dante uses two major literary devices to construct his universe. The first is what we call structure. In Dante, structure is important. There's nine circles of hell, there's nine spheres of heaven. And the idea is that order is everything. The universe doesn't operate through chaos. It operates through order. And the second concept that he uses is what we call analogy. All the different parts of the universe are analogical to each other. And if you understand one part, you can understand the other part. So you could read the Inferno not just as geography, but you could read it also as your own psychological state."
+> [GB9 00:04:08 - 00:05:09]
+> "So let me talk about the structure of La Commedia. There are three distinct parts. First is Inferno. Second is Purgatory. And the last is Paradise. And what makes La Commedia so powerful is Dante uses two major literary devices to construct his universe. The first is what we call structure. The second is paradox. So imagine La Commedia as not just epic poetry, but as a very complex mathematical puzzle that you must unravel through time. Inferno, the structure is an inverted triangle."
 >
 > — GB#9: Dante
+
+> [GB10 00:13:45 - 00:14:15]
+> "So, what is hell? So, in hell, there are different layers, different circles. And obviously, the lower you go, the greater the punishment, the greater the sin. And at the very bottom, the center of hell is this. This is Dante's word for Satan or Lucifer."
+>
+> — GB#10: Dante's Hierarchy of Hell
 
 ---
 

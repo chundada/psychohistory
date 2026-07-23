@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,8 +22,28 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#37 - 00:12:16 - 00:19:21]
-> "the Abbasid Caliphate... centers of incredible cultural creativity... Bukhara, Uzbekistan... the House of Wisdom in Baghdad... translated Greek, Persian, Indian knowledge... the Messiah in the Bible... the height of their civilization"
+> [C#37 00:12:22]
+> "At the height of Islamic influence, there were a few centers of incredible cultural creativity. One such site is Bukhara, Uzbekistan."
+>
+> — C#37: The Golden Age of Islam
+
+> [C#37 00:13:34]
+> "Baghdad was the capital of the Abbasid Caliphate, which started the Islamic Golden Age... And this is what Muslims consider the height of their civilization."
+>
+> — C#37: The Golden Age of Islam
+
+> [C#37 00:15:33]
+> "The main center for cultural production in the Muslim world is something called the House of Wisdom. And it's modeled — its model is the Library of Alexandria... And the House of Wisdom was doing the same thing where it would take all knowledge and culture within the Islamic world and outside the Islamic world and systematize and standardize it for mass dissemination."
+>
+> — C#37: The Golden Age of Islam
+
+> [C#37 00:16:25]
+> "They were taking Hindu numerals, okay? So, 0 1 2 3. We still use them today. They took them from India, and again, they standardized it and disseminated this knowledge. They took works from Aristotle and Plato, translated into Arabic and Persian, and then disseminated it."
+>
+> — C#37: The Golden Age of Islam
+
+> [C#37 00:50:15]
+> "Cyrus the Great is called the Messiah in the Bible. He's the only foreign leader called the Messiah in the Bible because Cyrus the Great allowed them to rebuild the temple."
 >
 > — C#37: The Golden Age of Islam
 

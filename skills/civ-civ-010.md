@@ -9,7 +9,7 @@ tags:
   - civilization
   - nomadic-conquest
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 游牧征服循环——草原-农耕的永恒博弈
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#5]
-> "The Yamnaya conquest... Horse and chariot gave them military superiority over settled agriculturalists."
+> [C#5 00:00:39 - 00:01:06]
+> "Last time we discussed that Old Europe was conquered by a warlike people who we call today the Yamnaya. Okay, so three questions I want to answer in today's class is, first of all, who are the Yamnaya; second question is, where do they come from; the third question is, how do they conquer Europe?"
 >
-> — C#5: Yamnaya and Indo-European Expansion
+> — C#5: The Yamnaya Conquest of Europe
+
+> [C#5 00:17:04 - 00:17:34]
+> "Then they invent the wheel. And why this is important is, if you have the horse and the wheel you can create the wagon. If you have the wagon, it means you are no longer stuck in one place. You can move from place to place. And so this is what we call the nomadic pastoral economy."
+>
+> — C#5: The Yamnaya Conquest of Europe
 
 ---
 

@@ -4,7 +4,6 @@ description: "晚期帝国的军事机构从外部防御工具蜕变为内部寄
 source_series: "Game Theory"
 source_episodes:
   - "GT16"
-  - "GT17"
 tags:
   - psychohistory
   - game-theory
@@ -17,7 +16,7 @@ contrasts-with:
 composes-with:
   - "gt-civilization-mercenary-overthrow"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 ---
@@ -36,8 +35,8 @@ v2_prediction_strength: "strong"
 >
 > — GT16: Pax Judaica Rising
 
-> [GT16 00:26:37 - 00:27:13]
-> "September 10th, 2001, Donald Rumsfeld... said that he had a press conference, he said that, 'Look, we've looked at the Pentagon books. We're trying to do an accounting of the Pentagon military spending, and we can't find $2 trillion. There's $2 trillion missing from the budget. It went somewhere, we don't know where, but it went somewhere.'"
+> [GT16 00:26:23 - 00:26:58]
+> "September 10th, 2001, Donald Rumsfeld, who was the secretary of defense for the Americans, he's head of the Pentagon, and this is the day before September 11th, the 9/11 attacks, he said that he had a press conference, he said that, 'Look, we've looked at the Pentagon books. We're trying to do an accounting of the Pentagon military spending, and we can't find $2 trillion. There's $2 trillion missing from the budget. It went somewhere, we don't know where, but it went somewhere.'"
 >
 > — GT16: Pax Judaica Rising
 

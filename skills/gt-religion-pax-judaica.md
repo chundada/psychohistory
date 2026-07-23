@@ -16,7 +16,7 @@ composes-with:
   - "gt-religion-eschatological-convergence"
   - "gt-religion-ai-stargate-rapture"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 framing: "叙事分析对象，非本体系立场"
@@ -31,13 +31,13 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GT16 00:22:27 - 00:22:57]
-> "The main outcome of this war is that Israel will replace America in the Middle East. This is what we call Pax Judaica. Israel was created by the British and Americans to be their pitbull, to be their aircraft carrier in the Middle East to create as much instability as possible so that the Americans could control the oil supply. Now the Israelis are like, 'We're the ones doing all the work. We're the ones making all the sacrifices. We're the ones getting all the hate. So why shouldn't we be the empire now?'"
+> [GT16 00:20:53 - 00:22:27]
+> "The problem with the system is at the core is an empire that will probably lose the war in Iraq. And this creates a problem because if the empire falls, then it's possible this entire edifice falls as well. So, the only solution is to replace the empire, the American empire, with another empire. That is able to provide the muscle for this system. And this empire, I've argued in the past, is of course Israel. And this is what we call Pax Judaica. ... In reality, what this war really is about is a war between the United States and Israel, where the American empire has become corrupt, incompetent, and arrogant. And so, now Israel sees an opportunity to replace the American empire in the system. ... The main outcome of this war, when it ends, is that Israel will replace America in the Middle East."
 >
 > — GT16: Pax Judaica Rising
 
-> [GT12]
-> "The Freemasons are working within the Christian Zionist context. What they want to do is take the Antichrist and turn it into a system. This system is called Pax Judaica. Israel controls the world through AI, an AI surveillance state. They call it the holy empire. The mark of the beast is digital ID. This digital ID will lead to digital currency. They can put a microchip or a QR code in your forehead. This is the mark of the beast from Christian eschatology."
+> [GT12 00:45:03 - 00:46:41]
+> "The Freemasons are also working within the Christian Zionist context. But they are much more focused on actually how to implement this. So, what they want to do is they want to take the Antichrist and turn it into a system. And this system we discussed last semester is called Pax Judaica. What is Pax Judaica? Pax Judaica is that Israel controls the world through AI. An AI surveillance state. Or their exact words is holy empire. And Pax Judaica, the AI surveillance state, wants things such as the mark of the beast. It is digital ID. And this digital ID will also lead to digital currency. And they can actually put a microchip or a QR bar in your forehead, and this will be considered the mark of the beast. ... The Antichrist is the leader of the one world government. And it will be based in Jerusalem."
 >
 > — GT12: The Law of Eschatological Convergence
 

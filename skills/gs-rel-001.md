@@ -11,7 +11,7 @@ tags:
   - christian-zionism
   - eschatology
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,10 +24,16 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GS02 - 00:08:xx - 00:10:xx]
-> "They believe war between Israel and Iran will bring Jesus back to Earth. This is the core of Christian Zionism. They need a war in the Middle East to trigger Armageddon. And then Jesus will return, the rapture will happen, and believers will be saved."
+> [GS02 - 00:23:10 - 00:23:25]
+> "They're the ones who are actually encouraging conflict between the Palestinians and the Israelis. They're the ones who want Israel and Iran to go to war."
 >
-> — GS02: Christian Zionism and the Middle East
+> [GS02 - 00:24:10 - 00:24:24]
+> "These Christians are actually promoting war between Israel and its neighbors."
+>
+> [GS02 - 00:31:54 - 00:32:08]
+> "In fact, if there's a war between Iran in Israel, that's a good thing because it's going to drive this prophecy and the return of Jesus."
+>
+> — GS02: Christian Zionism Middle East
 
 ---
 

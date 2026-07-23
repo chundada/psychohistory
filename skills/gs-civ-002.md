@@ -10,7 +10,7 @@ tags:
   - civilization-patterns
   - imperial-overreach
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 帝国过度扩张——多线作战的崩溃模式
@@ -22,8 +22,8 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS01 - 00:14:xx - 00:15:xx]
-> "It is antagonizing all these wars at once, it is antagonizing Russia, Iran, China at the same time. And this is what we call imperial overreach. This is what the Soviet Union did. They devoured too many places at the same time. And ultimately it collapsed."
+> [GS01 00:40:46 - 00:41:31]
+> "If you look at why empires collapsed, it's because of three reasons. The first is the idea of extension — overextension. It's doing two things at once: it's fighting this war in Ukraine, it's fighting this war in Iran, it's fighting this war everywhere basically. That's the first reason. Second is the idea of debt — it basically just runs out of money because it's overextended, and this leads to the idea of civil unrest. So the American Empire is heading to a lot of trouble over the next 10 years because all three things are happening at once: overextension, debt and civil unrest."
 >
 > — GS01: Iran's Strategy Matrix
 

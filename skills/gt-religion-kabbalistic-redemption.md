@@ -13,7 +13,7 @@ composes-with:
   - "gt-religion-messianic-accelerationism"
   - "gt-religion-pax-judaica"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 framing: "叙事分析对象，非本体系立场"
@@ -28,13 +28,13 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GT28 00:15:29 - 00:16:20]
-> "The idea of sin is you must break yourself before you can learn the wisdom to welcome God into your heart. The story that explains this idea is that of King David. King David was the greatest ruler of the Israelites. And one day he falls in love with a woman named Bathsheba... David kills Uriah the Hittite... God kills his son and this forces David into mourning. When he mourns, he breaks his heart. When he breaks his heart, he welcomes God back into his soul."
+> [GT28 00:44:03 - 00:46:00]
+> "The idea of sin is you must break yourself before you can learn the wisdom to welcome God into your heart. And the story that explains this idea is sort of David. King David was the greatest ruler of the Israelites. And one day he falls in love with a woman named Bathsheba. ... So he kills Uriah the Hittite and he marries Bathsheba. ... So God gets angry and punishes David by killing his son and this forces David into mourning. And when he mourns, he breaks his heart. When he breaks his heart, he welcomes God back into his soul."
 >
 > — GT28: Predictive History
 
-> [GT14]
-> "What they focus on is the story of David where David has sex with Bathsheba, Bathsheba gets pregnant, David has Uriah killed. God finds out... David falls into tremendous grief. Every day he's praying to God for forgiveness. He's asking for redemption. He is repenting. And God forgives him. In this process, David becomes united with God. That's what the vision for Judaism has for Israel."
+> [GT14 00:33:42 - 00:34:52]
+> "What they focus on is the story of David where David is king and one day he wakes up and finds he's in love with Bathsheba. And so he basically has sex with Bathsheba. Bathsheba gets pregnant and that's a problem because Bathsheba is married to someone else, Uriah the Hittite. So what does David do? David has him killed. ... But God finds out and sends the prophet Nathan to tell David, 'You've sinned.' ... But then his child with Bathsheba dies. And David falls into tremendous grief. And every day he's praying to God for forgiveness. He's asking for redemption. He is repenting. And God forgives him. And in this process, not only does David become a better person, but he becomes united with God. ... And that's the vision that people in Judaism have for Israel."
 >
 > — GT14: The Law of Proximity
 

@@ -10,7 +10,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,10 +23,20 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#3/C#2 - 00:03:00 - 00:07:00]
-> "the religious imagination... from ritual to narrative... the cognitive leap that made civilization possible... the shared fiction that allows strangers to cooperate... religion as the first social technology"
+> [C#2 00:00:46–00:01:09]
+> "My argument to you today is that this religious impulse, this need for religion, this need to understand why we are here today and what we must be doing and where we're going — it's all always been there. In fact, religion is what makes us fundamentally human."
 >
-> — C#3: Religion and the Religious Imagination / C#2: Religion and the Dawn of Society
+> — C#2: Religion and the Dawn of Society
+
+> [C#3 00:10:52–00:11:02]
+> "This is what we call a creation myth and every single civilization, every single people have a creation myth."
+>
+> — C#3: The Religious Imagination
+
+> [C#3 00:51:40–00:52:08]
+> "For them their religion is more true than this world. Okay, that's a power of the human imagination. You can imagine a world and this world, as long as many of you are imagining it together, it's more true, more powerful, more real than this world. That's a power of religion, okay, what we call the religious imagination."
+>
+> — C#3: The Religious Imagination
 
 ---
 

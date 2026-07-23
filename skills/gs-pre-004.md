@@ -10,7 +10,7 @@ tags:
   - predictive-model
   - multi-factor
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 多因素预测模型——从多元指标汇聚到单一结论
@@ -22,8 +22,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS05 - 00:03:xx - 00:04:xx]
-> "I predict that Trump will win in November. Here is why: first, the evangelical vote is solid. Second, the economy is not as good as they say. Third, Biden is old and weak. Fourth, the Democrats have no message. Fifth, the media has lost its power. Six factors, all pointing to the same conclusion."
+> [GS05 00:00:04 - 00:00:21]
+> "Today we are discussing whether or not Trump will win in November, and I'm making the prediction that he will win in November and that he will pick Nikki Haley as his vice president."
+>
+> [GS05 00:28:48 - 00:29:16]
+> "The conclusion is that, given the way the situation in the United States, it seems very likely Trump will win in 2024 — because the Biden coalition will not pull together, because of inflation, illegal immigration, what's happening in Gaza, what's happening in Ukraine. Trump looks very strong right now, and the poll suggests that either the race is tied between the two or Trump has slight advantage."
 >
 > — GS05: Why Trump Will Win
 

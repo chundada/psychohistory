@@ -9,7 +9,7 @@ tags:
   - civilization
   - triple-critique
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 弗洛伊德-马克思-现代主义三角——文明的三重批判
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#56/57]
-> "Freud showed us that we are not masters of our own mind... Marx showed us that class struggle drives history... Modernism showed us that there is no objective truth."
+> [C#56 00:09:31 - 00:09:55]
+> "If this is true, the dialectic in the master-slave relationship, then history is a history of oppression and a struggle for liberation against this oppression. And so, the idea of the material world in struggle with itself creates idea of dialectical materialism. And we call this class struggle."
 >
-> — C#56/57: Where Marx Went Wrong / How Modernism Ruined Everything
+> — C#56: What Marx Got Wrong
+
+> [C#57 00:21:40 - 00:22:10]
+> "The ideas of Freud and Carl Jung will become the basis of a major cultural movement called modernism. And modernism is the cultural movement that we still live in today. Now, there are many different definitions of modernism, but for us the easiest definition is cult of the self."
+>
+> — C#57: How Modernism Ruined Everything
 
 ---
 

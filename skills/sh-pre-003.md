@@ -3,7 +3,8 @@ name: "预测历史模型三要素"
 description: "Secret History提出的历史分析方法论：用历史模式识别 + 博弈论 + 利益驱动假设，构建可预测的历史分析框架"
 source_series: "Secret History"
 source_episodes:
-  - "SH19: Dawn of the Jews (Secret History #20)"
+  - "SH20: Dawn of the Jews (Secret History #19)"
+  - "SH03: How Societies Collapse (Secret History #2)"
 tags:
   - secret-history
   - predictive-model
@@ -11,7 +12,7 @@ tags:
   - game-theory
   - historical-patterns
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 预测历史模型三要素
@@ -24,15 +25,20 @@ updated: 2026-07-13
 ## R — Reading（阅读原文）
 
 > "There are three components to this new history model which I call predictive history. The first is to understand historical patterns."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > [SH20 00:03:40]
-> "Second tool is idea of game theory. All historical actors are motivated by their interests."
+> "Second tool is idea of game theory. And the idea of game theory is to understand that all historical actors are motivated by their interests or worldview."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "I've identified three different patterns of geopolitics. Competition within nation states are what matter. Competition between nation states don't really matter or they're not as significant as competition within nation states."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "They use war as a game in order to maintain the status quo to create equilibrium. Because of elite overproduction, right? You have this war going on between the upper nobility and the lower nobility."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "It's very common for these factions to align with mercenaries. A certain faction invites mercenaries into the nation as part of the power struggle."
+> — SH03: How Societies Collapse (Secret History #2)
 
 ---
 

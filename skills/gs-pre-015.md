@@ -10,7 +10,7 @@ tags:
   - predictive-model
   - trend-analysis
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 西方衰落观察法——从确定性趋势中预测必经路径
@@ -22,8 +22,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GU08 - 00:02:xx - 00:04:xx]
-> "The decline of the West is not a prediction, it is an observation. The trend lines are all pointing in one direction. The only question is how fast, and how violent the transition will be. If we continue on this path, the future is inevitable."
+> [GU08 - 00:00:32 - 00:00:42]
+> "I'm going to talk about how the western world is going to collapse and there's nothing anyone can do about it."
+>
+> [GU08 - 00:35:55 - 00:36:02]
+> "That's the real reason why the west is dying and the real reason why no one can do anything about it."
 >
 > — GU08: Why West Is Doomed
 

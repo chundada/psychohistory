@@ -10,7 +10,7 @@ tags:
   - great-books
   - religion-narrative
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,13 +23,13 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GB7 00:01:55 - 00:03:34]
-> "Piety means obedience to your fathers, to history, and to tradition. The Romans are extremely conservative people. But after the empire is established, what the Romans recognize is that Greek culture is vastly superior. Many well-educated Romans begin to drift towards Greek culture, which in the Roman perspective leads to the corruption of the Roman soul. Augustus Caesar recognizes that in the long term, even though the Romans have conquered the Greeks physically, spiritually, the Greeks will conquer the Romans. And the main issue is Homer. So his solution is to destroy Homer. You can't burn books because people have memorized Homer. So you need to corrupt Homer. And the solution he devises is called the Aeneid — the anti-Homer, the inversion of Homer."
+> [GB7 00:02:16 - 00:03:35]
+> "But after the empire is established, what the Romans recognize is that Greek culture is vastly superior. And many well-educated Romans begin to drift towards Greek culture, which in the Roman perspective leads to the corruption of the Roman soul. And so, Augustus Caesar, who is really considered the first emperor of Rome, he recognizes that in the long term, even though the Romans have conquered the Greeks physically, spiritually, the Greeks will conquer the Romans. And the main issue is Homer. So, his solution is to destroy Homer. You can't burn books because there aren't that many books, and also people have memorized Homer. So, you need to corrupt Homer. And the solution that he devises is called the Aeneid. And we can consider the Aeneid as the anti-Homer, or the inversion of Homer. Taking the ideas of Homer and inverting them."
 >
 > — GB#7: The Anti-Homer
 
-> [GB8 00:17:00 - 00:17:58]
-> "In Homer, you have ego. In Virgil, what you have is duty to others. This is basically a complete reversal of the Homeric worldview. In Virgil, what matters is the group. In Homer, what matters is the individual. In Virgil, what matters is duty. In Homer, what matters is freedom. In Virgil, what matters is the state. In Homer, what matters is the self. Virgil inverses the inversion. He takes Homer and he flips every single aspect of it. And the goal of this is to really create an infrastructure for an empire."
+> [GB8 00:00:27 - 00:01:35]
+> "The Aeneid is really a response to the Iliad and the Odyssey. Remember, Homer believes that love is the unifying force of the universe. It is a center. It's what gives you life. It's what gives you purpose and hope. For Virgil, what matters is the idea of piety or obedience to the gods and to your father. And as we discussed, Virgil sets up a very stark contrast between love and piety where they are competing forces. You cannot love and be pious at the same time. And piety is ultimately the main centralizing force of the universe. If you are pious, if you obey the gods, then the world will be right because the gods have a divine plan for the world."
 >
 > — GB#8: The Poetry of Empire
 

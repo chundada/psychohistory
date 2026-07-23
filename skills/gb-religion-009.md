@@ -10,7 +10,7 @@ tags:
   - great-books
   - religion-narrative
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,15 +23,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GB10 00:08:14 - 00:08:53]
-> "For Dante, what we have here is a structure of sin that is fundamentally Aristotelian. For Aristotle, the nature of something is defined by its purpose, its telos. So for Dante, sin is not just an act. It is a misdirection of love. God placed within each of us a desire to love. And the problem is that this desire can be misdirected."
+> [GB10 00:12:18 - 00:12:43]
+> "There's two dimensions at work. When you love someone, when you do good, you ascend to the source, your imagination expands, the universe expands. But when you commit sin and the sin is so bad that you're not able to forgive yourself, then you trap yourself in hell and you are there for all of eternity."
 >
 > — GB#10: Dante's Hierarchy of Hell
 
-> [GB10 00:15:22 - 00:16:11]
-> "A core concept in Dante is that the sin itself creates your punishment. You're not punished by God. You are punished by the sin itself. Your soul creates the suffering. What this means is that God does not judge you. You judge yourself. By engaging in the sin, you trap yourself in hell. Hell is not a place that God sends you to. Hell is a state of being that you create for yourself."
+> [GB11 00:18:01 - 00:18:30]
+> "So, again, the original sin is a sin of pride. So, what Virgil is saying here is, 'Look, it's impossible for you to hate God because God is the ultimate good. It's impossible for you to hate yourself. So, the hate comes from your envy of others, your pride, the fact that you want to stand above other people. And if other people are above you, then you conspire against them, and that's the source of all sin.'"
 >
-> — GB#10: Dante's Hierarchy of Hell
+> — GB#11: Dante's Revolution
 
 ---
 

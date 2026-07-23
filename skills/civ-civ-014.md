@@ -9,7 +9,7 @@ tags:
   - civilization
   - republican-collapse
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 罗马共和国宪法危机——从共和到帝制的转型
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#14/17]
-> "When Caesar crossed the Rubicon, the Republic was already dead... The institutions existed but the norms were gone."
+> [C#14 00:43:33 - 00:43:48]
+> "What Lucius Brutus and the Romans do is they separate his powers not into individuals but into institutions that are now elected by the people. This is the heart of republicanism."
 >
-> — C#14/17: Roman Republic / Caesar Crosses the Rubicon
+> — C#14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome
+
+> [C#17 00:05:00 - 00:05:30]
+> "So now Rome is in crisis, and the ultimate resolution to all these problems was the beginning of the Empire. So Octavian became the emperor. He is now known as Augustus Caesar, and what he does is he centralizes all military authority in his hands."
+>
+> — C#17: Homer, Vergil, and the War for the Soul of Rome
 
 ---
 

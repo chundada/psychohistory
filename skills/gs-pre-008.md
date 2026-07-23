@@ -11,7 +11,7 @@ tags:
   - trap
   - historical-analogy
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 伊朗陷阱——历史陷阱识别框架
@@ -23,8 +23,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS08 - 00:04:xx - 00:06:xx]
-> "This is the Iran trap. It is exactly like what happened to Athens in the Peloponnesian War. Athens invaded Syracuse not knowing it was walking into a trap. They lost their entire army and navy. America is about to do the same thing in Iran."
+> [GS08 00:39:20 - 00:39:32]
+> "This has happened before in history. When the Athenians invaded Sicily and lost to Syracuse, their entire army was wiped out in Syracuse, because they couldn't resupply their army."
+>
+> [GS08 01:01:23 - 01:01:39]
+> "The United States is now trapped... And so this becomes a black hole for the United States, where they can only send in more troops. They can't get any troops out, they can only send in more troops."
 >
 > — GS08: The Iran Trap
 

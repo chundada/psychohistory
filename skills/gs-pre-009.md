@@ -11,7 +11,7 @@ tags:
   - scenario
   - timeline
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 未来十年多重场景——多并发预测时间线法
@@ -23,8 +23,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GU07 - 00:20:xx - 00:22:xx]
-> "Based on all this, I am going to paint you a picture of the future and what it is going to look like in the next 10 to 20 years. A US invasion of Iran, the destruction of the dollar, the rise of a multipolar world, endless proxy wars, climate collapse, and population decline."
+> [GU07 - 00:33:39 - 00:34:01]
+> "So based on all this, I'm going to paint you a picture of the future and what it looks like. And some of these will not work out, some of these will work out, but it's an interesting framework for us to think about how geopolitics might develop over the next 10 to 20 years."
+>
+> [GU07 - 00:34:03 - 00:34:30]
+> "The United States launched a ground invasion of Iran. Iran is supported heavily by Russia. United States after a few years of fighting, they give up and they retreat. And so the American Empire retreats back into the western continent. But this triggers a civil war in America."
 >
 > — GU07: When Eschatologies Converge
 

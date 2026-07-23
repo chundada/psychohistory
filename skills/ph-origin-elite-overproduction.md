@@ -12,7 +12,7 @@ tags:
   - elite-overproduction
   - collapse
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 aliases: ["elite overproduction", "精英过剩", "精英生产过剩"]
 ---
 
@@ -28,13 +28,13 @@ aliases: ["elite overproduction", "精英过剩", "精英生产过剩"]
 > [GSEND 00:05:45]
 > "Cliodynamics... just means the mathematical movement of History. He's trying to create history as a mathematical model and when he did that there's certain interesting trends and patterns that he discovered... one idea that he discovered is something called the overproduction of the elites... and this concept explains why societies collapse."
 
-> "Now traditionally we've understood the collapse of societies as having to do with maybe like too much debt or too much inequality or maybe climate change or War... What Peter Turchin points out... is the reason why societies collapse in the end is you have too many Elites... Society has many Elites... over time Elites become more and more numerous... the number of wealthy people go up, the number of famous people go up, the number of entrepreneurs go up..."
+> "Now traditionally we've understood the collapse of societies as having to do with maybe like too much debt or too much inequality or maybe climate change or War... What Peter Turchin points out, and it's a really interesting idea, is the reason why societies collapse in the end is you have too many elites... Society has many elites... over time elites become more and more numerous... the number of wealthy people go up, the number of famous people go up, the number of entrepreneurs go up..."
 
 > "The problem though is they all want power... wealth and fame are all infinite resources right but Power will always be a finite resource. In fact it's what we call a zero sum game... so for example in this classroom there can only be one teacher... if we're all teachers there's no teacher... so in society there can only be a few powerful people. If everyone has power no one has any power..."
 
 > "What happens over time is that all these people who believe they should have power struggle for power and because there too many of them this internal struggle of the elites ultimately leads to social collapse."
 
-> "The most famous example is in China in Imperial China where you had the Keju system... people taking the Imperial examinations to become official... problem is you have too many candidates not enough positions... it's the failed candidates who did not become officials and so they become angry and they lead revolutions to overthrow the society... the most classic example of the failed candidate is Hong Xiuquan, leader of the Taiping Rebellion... why did he become a Christian? Why did he lead the Rebellion? Because he failed the Keju."
+> "The most famous example is in China in Imperial China where you had the Keju system... people taking the Imperial examinations to become official... problem is you have too many candidates not enough positions... it's the Keju candidates who did not become officials and so they become angry and they lead revolutions to overthrow the society... the most classic example of the failed Keju candidate is Hong Xiuquan — do you guys know who he is? — the leader of the Taiping Rebellion... why did he become a Christian? Why did he lead the Rebellion? Because he failed the Keju."
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - civilization
   - polis-empire-world
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 城邦-帝国-世界国家——文明演化的三阶段
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#14/END]
-> "From polis to empire to world state... This is the pattern of civilization's evolution."
+> [C#14 00:05:54 - 00:06:14]
+> "Because Rome is very good at war, it's slowly able to expand and conquer the Etruscans and basically control all of Italy. And because the Romans are expansionist by nature, they are a warlike people. They are basically a war machine."
 >
-> — C#14/END: Roman Republic / American Imperial Decline
+> — C#14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome
+
+> [C#END 00:18:53 - 00:19:07]
+> "World War II was about the nation-state. That was the main constituent body of World War II. In the Pax Americana, what matters is the international rules-based order, which includes central banks, but also includes the United Nations."
+>
+> — C#END: The Decline and Fall of the American Empire
 
 ---
 

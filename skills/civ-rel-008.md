@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,8 +22,8 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#29 - 00:10:37 - 00:16:32]
-> "what Dante will do is completely overturn this tradition... the universe is the Holy Trinity... he's a poet and so he's not a prophet... channel Mary's energy to empower Dante... the idea of the apocalyptic tradition"
+> [C#29 - 00:10:37 - 00:41:51]
+> "What Dante will do is completely overturn this tradition... He's figured that the very essence of the universe, the very foundation of the universe is the Holy Trinity... He's a poet, and so he's not really writing it to make money... he has a moral mission to speak the truth. When you speak the truth you're speaking to the universe, not to an individual... Bernard will invoke the love of Mary to empower Dante to see God... he's trying to channel Mary's energy to empower Dante."
 >
 > — C#29: Dante's Divine Comedy and the Liberation of the Human Imagination
 

@@ -10,7 +10,7 @@ tags:
   - civilization
   - predictive
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 宗教演变五阶段预测模型
@@ -22,14 +22,20 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#57 00:00-15:00; C#46 00:00-10:00]
-> "There have been four major religious worldviews in human history. The first is animistic... balance, harmony, and oneness. We do not believe that we were different from the plants, the animals."
+> [C#57 00:00:16–00:01:32]
+> "In the beginning, the main religion for us humans during the Ice Age was animism... And then we transition to the mother goddess. So, as we became more agricultural, fertility was more and more important... we began to worship the mother goddess."
 >
-> "From then, we moved on to the polytheistic. Polytheistic, many gods."
+> — C#57: How Modernism Ruined Everything
+
+> [C#57 00:01:34–00:01:46]
+> "But as populations grew and towns came into being, they came into competition with each other. They started to war against each other. This created polytheism."
 >
-> "Freud is the key figure of modernism. He showed that we don't even know ourselves — our own unconscious drives us."
+> — C#57: How Modernism Ruined Everything
+
+> [C#46 00:05:40–00:06:03]
+> "The modern period is responding to the Christian period by replacing faith with reason, orthodoxy with debate, and truth with progress... And these three ideas, reason, debate, and progress, are the foundations of the period we live in today, called the modern period."
 >
-> — C#57: How Modernism Ruined Everything; C#46: The Revolution of Reason
+> — C#46: The Revolution of Reason
 
 ---
 

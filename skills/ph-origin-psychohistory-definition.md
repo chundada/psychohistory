@@ -11,7 +11,7 @@ tags:
   - predictive-model
   - AI
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 心理史学三要素框架
@@ -25,7 +25,7 @@ updated: 2026-07-13
 
 > "So basically what you need to do is three things right. You need to be clear about the output you need to have clean data and you need to have a working algorithm... And so that's what I've been doing this semester... these are the push factors. The problem is that there are no force to counteract this... so we can predict that there'll be a war in Iran... now given this prediction what we can then do is use mathematical modeling and statistics to turn this into an AI model... now we have the AI model, what we need to do now is to refine it, and the way we refined it is by going back in history and looking at every single war that started... you take this model and you look at the different wars... you take this model and then you test it using each of these wars and what will happen is that the model will begin to refine itself... so it becomes more and more refined. But then that's one model for what causes War. I also said that Trump will become president right, well then that's another model that you can use. And once you start putting all these models together what eventually happens over time is you develop psychohistory."
 
-> "Psychohistory is the idea that if you can mathematically model history and it's a science... if it can be predicted then it can be controlled and harnessed for the betterment of humanity."
+> "This is what we call psychohistory. And psychohistory is the idea that the future can be predicted. And if it can be predicted, then it can be controlled and harnessed for the betterment of humanity."
 
 > "In the Foundation books he introduces the idea of psychohistory... a new science called psychohistory which is to mathematically map out human behavior over the course of a million years. If you do that what you discover is that there are certain patterns to Human Society... and if that's the case then you can predict the future. If you can do that then you can manipulate the course of events to make a better future."
 

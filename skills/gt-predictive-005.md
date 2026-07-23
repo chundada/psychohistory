@@ -16,7 +16,7 @@ related_skills:
 composes-with:
   - "gt-predictive-013"
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 verified: true
 v2_prediction_strength: "strong"
 ---
@@ -30,8 +30,8 @@ v2_prediction_strength: "strong"
 
 ## R — Reading（阅读原文）
 
-> [GT28 00:06:59 - 00:09:40]
-> "The third reason is actually the most mundane: imperial decline. When an empire declines, it does all sorts of stupid things. Because internally it is fracturing for three reasons. The first reason is financialization: a few people control all the capital, force everyone into debt slavery. ... Second problem is demographic crisis: young people refuse to have children, old people live longer. ... The third reason is elite overproduction, a phrase coined by historian Peter Turchin. He argues that ... these elites compete for limited positions of power, and this leads to civil war. One manifestation of the civil war is that this war is projected outwards."
+> [GT28 00:06:47 - 00:09:07]
+> "The third reason is actually the most mundane. And the third reason is this imperial decline. And when an empire declines, it does all sorts of stupid things. Because internally it is fracturing for three reasons. The first reason is financialization, which is to say that you have a few people who control all the capital and as a result all they do is force everyone into debt slavery. ... Second problem is demographic crisis. And this is true for all empires in decline in that young people refuse to have children. But not only that, but old people live longer and longer. ... The third symptom of imperial decline is something called elite overproduction, which is a phrase coined by a historian named Peter Turchin and he argues that if you look at all societies in decline it's driven by the fact that you have certain elites who want to control policy who want power but power by definition is a zero-sum. And so these elites compete for the limited positions of power and this leads to civil war. And one manifestation of the civil war is that this war is projected outwards."
 >
 > — GT28: Predictive History
 

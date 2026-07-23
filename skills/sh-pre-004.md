@@ -3,8 +3,7 @@ name: "官僚篡权定律"
 description: "历史的基本模式：官僚体系本是国王的工具，但时间久了官僚会串通起来从国王手中偷走权力——仆人最终统治了主人"
 source_series: "Secret History"
 source_episodes:
-  - "SH28: Pax Judaica (Secret History #END)"
-  - "SH15: Death by Bureaucracy"
+  - "SH09: Death by Bureaucracy (Secret History #8)"
 tags:
   - secret-history
   - predictive-model
@@ -12,7 +11,7 @@ tags:
   - power
   - institutional-sclerosis
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 官僚篡权定律
@@ -24,14 +23,15 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [SH14 00:17:35]
-> "The bureaucrats will collude together to steal power from the king... servant rules the king... major pattern of history."
+> [SH09 00:11:43 - 00:12:17]
+> "But today, universities, including Yale, Harvard, all the universities, have become bureaucracies that exist in order to promote the interests of the administrators who want to sit in their office, get a really big salary, and feel good about themselves. ... And what I will show you is that this is not just true for universities, it's true for every major organization in America and in the Western world, and arguably around the world."
+>
+> — SH09: Death by Bureaucracy
 
-> "This is a pattern that repeats over and over again. First you have the king who sets up the bureaucracy to help him rule. Then the bureaucracy grows. Then the bureaucracy becomes more powerful than the king. Then the bureaucracy actually rules the country, and the king is just a figurehead."
-
-> "What are good things about the current world? Well, the good things are we have a lot of bureaucrats who do a lot of work... but the problem is the bureaucrats start to believe they are the ones in charge."
-
-> "They have all the information. They have all the expertise. They have all the connections. The king comes and goes, but the bureaucracy stays. So eventually, who really runs the place?"
+> [SH09 00:16:05 - 00:16:20]
+> "There are professors who teach, there are researchers who do research, but deans actually don't do anything. So, when you have a bureaucracy, bureaucrats go make problems for everyone in order to create solutions for everyone."
+>
+> — SH09: Death by Bureaucracy
 
 ---
 

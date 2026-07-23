@@ -9,7 +9,7 @@ tags:
   - civilization
   - predictive
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 新教改革的资本主义生成条件
@@ -21,10 +21,18 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#42 05:00-25:00]
-> "The Protestant Reformation made three critical changes. First, it removed the hierarchy — no more Pope, no more priests as intermediaries. Second, it made salvation individual — you are saved by your faith alone, not by church rituals. Third, it sanctified worldly success — if you are successful in your calling, it is a sign of God's favor."
+> [C#42 00:12:47–00:13:17]
+> "A theologian by the name of John Calvin, he proposed the idea of double predestination. And the idea here is this. God at the beginning of time has already decided. And this decision is final... And only a few, the elect, will be saved."
 >
-> "The Catholic Church said: poverty is virtue, wealth is dangerous. Calvin said: if God blesses you with wealth, it is evidence of your election. This changed everything."
+> — C#42: The Protestant Reformation and the Birth of Capitalism
+
+> [C#42 00:19:00–00:19:27]
+> "You can now solve the predestination problem, which is like, 'Oh, how do I know I have faith in God?' Because I have a lot of money... Well, my wealth shows that I have true faith in God. If I have true faith in God, then I must be one of those predestined by God to be the elect."
+>
+> — C#42: The Protestant Reformation and the Birth of Capitalism
+
+> [C#42 00:19:41–00:19:56]
+> "Never before in human history have people believed that this is a good thing. That you should go accumulate money for the sake of accumulating money... Before it was always about accumulating money in order to increase your social status."
 >
 > — C#42: The Protestant Reformation and the Birth of Capitalism
 

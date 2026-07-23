@@ -12,7 +12,7 @@ tags:
   - three-pillars
   - collapse
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 权力三支柱分析框架
@@ -24,15 +24,20 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> "How they control power in society is through three mechanisms. Okay. Three pillars of power... The first pillar is finance. Second pillar is religion. And the third pillar is intelligence."
+> "How they control power in society is through three mechanisms. Okay. Three pillars of power and these three pillars are finance... second pillar is religion. Religion is just what people believe... And the third pillar is intelligence or spies."
+> — SH03: How Societies Collapse (Secret History #2)
 
 > "Money is not scarce, it is infinite. We don't have limited resources. We have scarcity. Power has brainwashed you into thinking something that is not true. You've been taught from the first day that money is scarce."
+> — SH01: How Power Works (Secret History #1)
 
-> "And this system is what we call today central banking. So, that's how money and finance works."
+> "And this system is what we call today central banking."
+> — SH01: How Power Works (Secret History #1)
 
 > "What's really important for us to remember is this is a natural cycle and no amount of external threat will change that dynamic. And this marks the collapse of society."
+> — SH03: How Societies Collapse (Secret History #2)
 
 > "Elite overproduction will ultimately lead to either war or revolution. It will lead to the collapse of society. You have too many powerful people competing for limited positions of power."
+> — SH03: How Societies Collapse (Secret History #2)
 
 ---
 

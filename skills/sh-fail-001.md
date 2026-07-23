@@ -4,6 +4,7 @@ description: "资源不是真的稀缺——稀缺是权力建构出来的。让
 source_series: "Secret History"
 source_episodes:
   - "SH01: How Power Works (Secret History #1)"
+  - "SH03: How Societies Collapse (Secret History #2)"
 tags:
   - secret-history
   - failure-modes
@@ -11,7 +12,7 @@ tags:
   - scarcity
   - brainwashing
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 稀缺性建构原理
@@ -24,13 +25,17 @@ updated: 2026-07-13
 ## R — Reading（阅读原文）
 
 > "Money is not scarce, it is infinite. We don't have limited resources. We have scarcity."
+> — SH01: How Power Works (Secret History #1)
 
 > [SH01 00:24:30]
 > "Power has brainwashed you into thinking something that is not true. You've been taught from the first day that money is scarce."
+> — SH01: How Power Works (Secret History #1)
 
-> "And this system is what we call today central banking. So, that's how money and finance works."
+> "And this system is what we call today central banking."
+> — SH01: How Power Works (Secret History #1)
 
-> "How they control power in society is through three mechanisms. Okay. Three pillars of power... The first pillar is finance."
+> "How they control power in society is through three mechanisms. Okay. Three pillars of power and these three pillars are finance."
+> — SH03: How Societies Collapse (Secret History #2)
 
 ---
 

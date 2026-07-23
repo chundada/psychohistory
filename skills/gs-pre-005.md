@@ -10,7 +10,7 @@ tags:
   - predictive-model
   - early-warning
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 冲突升级的早期预警——信号与指标分析法
@@ -22,8 +22,8 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS01 - 00:12:xx - 00:14:xx]
-> "Intelligence comes in two forms. There is the idea of signals and indicators. We need to look for the warning signs. When Iran moves its missiles, that is a signal. When the US sends carrier groups, that is a signal. These are the indicators we use to predict what will happen next."
+> [GS01 00:01:56 - 00:02:20]
+> "That's intelligence. And intelligence comes in two forms — there's the idea of human and then signals. Signals is basically I can listen in on your cell phone, I can track where you go, I know where your car is — that's signals, electronic intelligence. The other's human, so there are spies in the embassy who tell the Israelis that this meeting will happen."
 >
 > — GS01: Iran's Strategy Matrix
 

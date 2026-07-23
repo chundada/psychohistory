@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#23 - 00:14:40 - 00:18:00]
-> "Cyrus the Great... the only foreign leader called the Messiah... Isaiah says God has anointed him... the Messiah concept becomes a geopolitical code... Persia as the crucible where Jewish theology is transformed"
+> [C#23 00:16:08]
+> "And the Jews are so grateful that Cyrus the Great is called the Messiah in their Bible. Okay, Messiah means the anointed one, the one chosen by God to save the Jewish people. And Cyrus the Great is the only foreigner who is called Messiah in the Bible."
 >
-> — C#23: Cyrus the Great, the Messiah, and the Birth of the Modern World
+> — C#23: Cyrus the Great as Messiah
+
+> [C#23 00:16:31]
+> "Cyrus the Great sponsors both the building of the Second Temple, as well as encourage the Jews to start the project that we now refer to as the Bible."
+>
+> — C#23: Cyrus the Great as Messiah
 
 ---
 

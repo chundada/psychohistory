@@ -3,8 +3,8 @@ name: "三大一神教谱系"
 description: "琐罗亚斯德教（祆教）是一神教的总源头。犹太教、基督教、伊斯兰教——这三大世界宗教本质上都是琐罗亚斯德教的子孙"
 source_series: "Secret History"
 source_episodes:
-  - "SH12: Thus Spoke Zarathustra"
-  - "SH13: Dawn of the Jews"
+  - "SH19: Thus Spoke Zarathustra (Secret History #18)"
+  - "SH06: The Birth of Evil (Secret History #5)"
 tags:
   - secret-history
   - religion-narrative
@@ -12,28 +12,33 @@ tags:
   - monotheism
   - civilization
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
 # 三大一神教谱系
 
-> **来源**：Secret History · Thus Spoke Zarathustra / Dawn of the Jews
+> **来源**：Secret History · Thus Spoke Zarathustra / The Birth of Evil
 > **一句话**：你以为一神教是从犹太教开始的？不对。琐罗亚斯德才是一神教的爷爷。犹太教、基督教、伊斯兰教，全都是从祆教那里"批发"来的核心概念。
 
 ---
 
 ## R — Reading（阅读原文）
 
-> "Zoroastrianism is the first monotheistic religion... Zoroaster is the most important individual who's ever lived."
+> "There's a lot of debate as to what was the first monotheistic religion. Some people say Zoroastrianism. Some people say Judaism."
+> — SH06: The Birth of Evil (Secret History #5)
 
-> "Zoroastrianism will give birth to three new religions... Judaism, Christianity, and Islam. All three of them take their core ideas from Zoroastrianism."
+> "Zoroastrianism will give birth to three new religions. Okay? Judaism, Christianity, and Islam. Right? And that's why I say Zarathustra is the most important individual who's ever lived because he will create the structure for monotheism."
+> — SH19: Thus Spoke Zarathustra (Secret History #18)
 
 > "I said that Christianity was the first monistic religion... now I recognize that's wrong. It's actually Zoroastrianism."
+> — SH19: Thus Spoke Zarathustra (Secret History #18)
 
 > "You can choose and you must choose to be good... God will know what good you did, what evil you did... individual free will — these are the core concepts here."
+> — SH19: Thus Spoke Zarathustra (Secret History #18)
 
-> "Three major stages of religious development... Mother Goddess, Polytheism... Monotheism..."
+> "The three major stages of religious development in the Western world are the Mother Goddess, polytheism, and monotheism."
+> — SH06: The Birth of Evil (Secret History #5)
 
 ---
 

@@ -14,7 +14,7 @@ tags:
   - power-structure
   - eschatology
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 v2_prediction_strength: "medium"
 ---
 
@@ -27,17 +27,20 @@ v2_prediction_strength: "medium"
 
 ## R — Reading（阅读原文）
 
-> "第一件事你们需要明白：神秘学（occult）是一切的基石。神秘学是现实的基础。神秘学指隐藏的知识或对宇宙运作方式的神秘理解。行动来源于想法。只有当我们能想象一个行动，这个行动才有可能发生。神秘学包括炼金术、末世论、天文学、占星术。有权势的人组成秘密结社，获取神秘学的秘密，为自己争取更多权力和财富。一旦这些秘密结社形成同盟，他们就会更加关注末世论——因为现在他们有了实现世界末日的机制。"
+> [GT28 00:29:41 - 00:30:42]
+> "So society is often bureaucratized into different departments. You have the military, you have the political system, you have science or religion, you have finance, you have the bureaucracy. ... Within each segment, you're going to have a range of personality types. Most people just want to live normal lives. They want to get along. They want to collect their paycheck, go home, and raise their families. That's all they care about. About 90% of people are like that. Then you have some extreme people who are more idealistic. Then you have more extreme people who are power hungry. And these people that are power hungry, they converge together and they work together because they're all more interested in order and control. In order to obtain more order and control, they form secret societies."
+>
+> — GT28: Predictive History
+
+> [GT26 00:23:06 - 00:24:07]
+> "Albert Pike was one of the major leaders of the American Freemasons, and he's considered the grand architect, meaning that he built the system and the ideas that underpin modern day American Freemasonry today. His most important work is called Morals and Dogma. And it's basically the standard textbook of American Freemasonry. ... The rough ashlar, this is the ashlar, which is a stone, is the people as a mass, rude and unorganized. So, society is diverse. It's chaotic. And we, the Freemasons, our objective in life is to create order out of chaos. The perfect ashlar, our cubical stone, symbol perfection, is the state. The purpose of government is to create order out of chaos, to perfect humanity."
+>
 > — GT26: The Holy Empire of AI
 
-> "Albert Pike最重要的著作叫《道德与教条》。粗琢之石是作为大众的人民——粗糙而未被组织化。社会是多样、混乱的。我们——共济会——人生的目标是从混乱中创造秩序。完美的方石——我们的立方体石头，象征着完美——就是国家。政府的目的是从混乱中创造秩序，完善人性。"
+> [GT26 00:25:42]
+> "So, the cube is perfect, so we want to turn society into a cube. In fact, we're turning everyone into a cube. And how do we do so? Artificial intelligence."
+>
 > — GT26: The Holy Empire of AI
-
-> "这是共济会的层面——他们在基督教锡安主义的背景下运作。他们要做的是把敌基督变成一个系统。这个系统叫做Pax Judaica。以色列通过AI——一个AI监控国家——控制世界。他们称之为神圣帝国。野兽的印记是数字身份。这个数字身份将导致数字货币。他们可以把微芯片或QR码植入你的额头——这就是基督教末世论中野兽的印记。"
-> — GT12: Eschatological Convergence
-
-> "共济会项目'把人类变成石头'（完美的、服从的、几何化的）与'把人类变成AI监控国家的数据点'是同一个项目——这是18世纪神秘学和21世纪技术之间的关键叙事桥梁。"
-> — GT26, 解读
 
 ---
 

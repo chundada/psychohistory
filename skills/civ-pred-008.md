@@ -9,7 +9,7 @@ tags:
   - civilization
   - predictive
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 现代主义去合法化螺旋
@@ -21,12 +21,18 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#57 00:00-30:00]
-> "It is the religious worldview that underpins society and civilization. It is what allows society to function."
+> [C#57 00:00:16–00:00:57]
+> "In the beginning, the main religion for us humans during the Ice Age was animism... we humans are no different from every other living conscious being in the world. We are like the trees, we are like the animals, we're all interconnected together. And life is just a cycle of life and death, birth and rebirth."
 >
-> "There have been four major religious worldviews in human history. The first is animistic... balance, harmony, and oneness."
+> — C#57: How Modernism Ruined Everything
+
+> [C#57 00:14:32–00:14:55]
+> "Freud will come along and he will present a completely different conception of the movement of history and of the individual. He argues that the individual is really just unconscious forces embedded within the brain."
 >
-> "Freud is the key figure of modernism. He showed that we don't even know ourselves — our own unconscious drives us. This destroyed the last foundation of certainty."
+> — C#57: How Modernism Ruined Everything
+
+> [C#57 01:00:17–01:00:23]
+> "And so what he's saying is Christianity is a slave religion. All right, it was designed to make us all into slaves."
 >
 > — C#57: How Modernism Ruined Everything
 

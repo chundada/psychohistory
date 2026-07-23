@@ -11,7 +11,7 @@ tags:
   - social-cohesion
   - asabiyyah
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 社会凝聚力崩溃——Asabiyyah丧失的诊断框架
@@ -23,8 +23,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS11 - 00:10:xx - 00:12:xx]
-> "When a society no longer believes in institutions and in narratives, then the most likely outcome is a civil war. America is currently experiencing a collapse of social cohesion. The fabric that holds the nation together has been torn apart."
+> [GS11 00:32:58 - 00:33:35]
+> "People are now no longer trusting the court system, the justice system... All these sacred institutions in America, they're all falling one by one... Then the most likely outcome is a civil war."
+>
+> [GS11 00:49:51 - 00:50:12]
+> "It's the elites themselves who have destroyed the narratives and the institutions that bind America together... It's really going to be this hatred of Donald Trump that drives the second American Civil War."
 >
 > — GS11: The Second American Civil War
 

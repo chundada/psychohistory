@@ -9,7 +9,7 @@ tags:
   - civilization
   - literature-power
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 文学-权力共生体——叙事作为文明的操作系统
@@ -21,10 +21,10 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END]
-> "Literature and power. The literary tradition is the software of civilization... The story controls the empire."
+> [C#END 01:05:46 - 01:06:06]
+> "The greatest minds of humanity, which include Homer, Dante, Immanuel Kant. They've all told us this. They've all told us one secret of the universe. One message, which is this: The imagination is the animating force of the universe. Love is the unifying force of the universe."
 >
-> — C#END: American Imperial Decline
+> — C#END: The Decline and Fall of the American Empire
 
 ---
 

@@ -4,13 +4,12 @@ description: "将中产阶级的规模和活力作为帝国健康的核心领先
 source_series: "Civilization"
 source_episodes:
   - "C#END"
-  - "C#49"
 tags:
   - psychohistory
   - civilization
   - economic
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 中产阶级兴衰的文明效应指标
@@ -22,14 +21,16 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END 21:00-25:00; C#49 15:00-22:00]
+> [C#END 00:21:43]
 > "If you were a white high school graduate male in America in the 1950s, '60s, '70s, you had the best life. You lived better than the nobility of Rome."
 >
-> "He could be a salesperson, a clerk, a factory worker. But he had a car — in fact, probably two cars. He had his own house. His wife didn't have to work. And he could send his three kids to college."
+> [C#END 00:21:58]
+> "This is just a guy. He could be a salesperson. He could be a clerk. He could be a factory worker. But he had a car. In fact, he probably had two cars. He had his own house. His wife didn't have to work. And he could send his three kids to college."
 >
-> "The problem is that over time, the Germans start to catch up... Japanese manufacturing became superior... America was transiting from a creditor to a debtor nation."
+> [C#END 00:22:23]
+> "But the problem is that over time, the Germans start to catch up... And German manufacturing became famous throughout the world, as did Japanese manufacturing... because of the superiority of German and Japanese manufactured goods, America was transiting from a creditor nation where everyone owed it money to a debtor nation."
 >
-> — C#END: The Decline and Fall of the American Empire; C#49: Dutch Golden Age
+> — C#END: The Decline and Fall of the American Empire
 
 ---
 

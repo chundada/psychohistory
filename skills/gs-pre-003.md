@@ -10,7 +10,7 @@ tags:
   - predictive-model
   - strategy
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 伊朗百年忍耐策略——基于文明周期的持久战预测
@@ -22,8 +22,14 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS01 - 00:10:xx - 00:11:xx]
-> "The Iranian strategy is based on centuries of experience. They will wait. They will be patient. They will outlast the American Empire. And I predict that in the end, Iran will win not because it is stronger, but because it understands the cycle of empires better than America does."
+> [GS01 00:14:32 - 00:15:10]
+> "When the Americans invade — the war started before the invasion — the Iranians must do four things if it is to prevail in the war. And this is what we call the Iran Strategy Matrix. The first thing it must do is unite the population. Second thing it must do is build alliances. The third thing is win global opinion. The fourth is weaken the enemy."
+>
+> [GS01 00:15:37 - 00:15:52]
+> "In other words, everything that Iran is going to do from now until the actual invasion will be to accomplish all four goals at once, and it must if it is to survive a full-scale American invasion."
+>
+> [GS01 00:42:16 - 00:42:22]
+> "The decline of the American Empire is going to take decades, possibly centuries."
 >
 > — GS01: Iran's Strategy Matrix
 

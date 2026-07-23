@@ -3,7 +3,8 @@ name: "博弈论核心公理"
 description: "博弈论的底层公理：所有历史行动者都受自身利益或世界观驱动。从动机出发，你可以推导出他们的最优策略，进而预测历史走向"
 source_series: "Secret History"
 source_episodes:
-  - "SH20: Dawn of the Jews"
+  - "SH20: Dawn of the Jews (Secret History #19)"
+  - "SH11: The Conspiracy of Evil (Secret History #10)"
 tags:
   - secret-history
   - game-theory
@@ -11,7 +12,7 @@ tags:
   - axiom
   - predictive-history
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 博弈论核心公理
@@ -25,14 +26,19 @@ updated: 2026-07-13
 
 > [SH20 00:03:42]
 > "The idea of game theory is to understand that all historical actors are motivated by their interests or worldview... best strategy?"
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "All historical actors are motivated by their interests."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "I've identified three different patterns of geopolitics. Competition within nation states are what matter. Competition between nation states don't really matter or they're not as significant as competition within nation states."
+> — SH20: Dawn of the Jews (Secret History #19)
 
 > "We should just fake this thing and make fun of the Soviets... how can we know the truth? Well, we can use game theory to logically deduce what happened."
+> — SH11: The Conspiracy of Evil (Secret History #10)
 
-> "Jerusalem and its enemies rely on America to manage a conflict... who does everyone require need to manage this conflict? America."
+> "Israel has all these conflicts with nations in the Middle East, right? They have conflicts with Turkey. They have conflicts with Egypt. They have conflicts with the Gulf nations. They have conflicts with basically everyone. Okay. So, who does everyone require need to manage this conflict? America, right?"
+> — SH20: Dawn of the Jews (Secret History #19)
 
 ---
 

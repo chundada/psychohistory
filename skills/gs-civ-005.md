@@ -10,7 +10,7 @@ tags:
   - civilization-patterns
   - de-industrialization
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 ---
 
 # 去工业化的文明代价——从制造业帝国到金融空心化
@@ -22,8 +22,11 @@ updated: 2026-07-13
 
 ## R — Reading（阅读原文）
 
-> [GS03 - 00:08:xx - 00:10:xx]
-> "From 1950 to 1980, America economy was mainly focused on manufacturing. Manufacturing as a share of GDP was 40 percent, it made 40 percent of profits and employed 30 percent of the workforce. But after the 1980s, we saw de-industrialization. America moved its factories overseas, and the American working class was destroyed."
+> [GS03 00:00:58 - 00:01:27]
+> "From 1950 to 1980 America's economy was mainly focused on manufacturing factories. Manufacturing as a share of GDP was 40%, it made 40% of profits and employed 30% of the workforce."
+>
+> [GS03 00:03:18 - 00:04:06]
+> "The economy has been financialized. And so what does that mean? It means that right now Financial Services account for 22% of all GDP in America. Manufacturing has gone down to 10% — so it went down from a high of 40% to now a low of 10%. Financial Services is now twice as much as manufacturing, Financial Services bringing 40% of all profits, and financial services employs 5% of the total American workforce."
 >
 > — GS03: How Empire Destroys America
 

@@ -3,13 +3,13 @@ name: "崩溃-创新循环——黑暗时代作为重生窗口"
 description: "文明崩溃往往是下一轮创新的温床，创造性破坏推动历史前进"
 source_series: "Civilization"
 source_episodes:
-  - "C#6"
+  - "C#8"
 tags:
   - psychohistory
   - civilization
   - collapse-innovation
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 崩溃-创新循环——黑暗时代作为重生窗口
@@ -21,10 +21,10 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#6]
-> "Because of its destruction, this allowed for massive innovation throughout Greece... The collapse created the conditions for the polis."
+> [C#8 00:00:25]
+> "And because of its destruction, this allowed for massive innovation throughout Greece. So, we saw the introduction of the polis, the city-state."
 >
-> — C#6: Bronze Age Collapse and Elite Overproduction
+> — C#8: Rat Utopia and the Peloponnesian War
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - messiah
   - political-theology
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,8 +24,11 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GS11 - 00:08:xx - 00:09:xx]
-> "And for many on the right, Donald Trump is the Messiah, okay. He is the one who will save America. He is the one who will fight the deep state. He is the one who will restore Christian values. This is not politics, this is theology."
+> [GS11 - 00:45:04 - 00:45:20]
+> "And for many on the right, Donald Trump is the Messiah. He's the Jesus. And everything that's happened in the past 8, 9 years for them has confirmed that Donald Trump is Jesus."
+>
+> [GS11 - 00:46:13 - 00:46:20]
+> "And therefore, people on the right think this guy is our savior. He's Jesus. He's the Messiah."
 >
 > — GS11: The Second American Civil War
 

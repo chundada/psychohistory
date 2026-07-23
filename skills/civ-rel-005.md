@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#27 - 00:11:00 - 00:15:00]
-> "Augustine wrote the City of God when Rome was falling... two cities, the earthly and the heavenly... a survival strategy for the Church... the idea that civilization can survive the collapse of empire"
+> [C#27 00:05:19–00:05:40]
+> "In 410 Rome is sacked and this is a problem. This creates something called a crisis of faith... a lot of people believe that Rome was sacked by the barbarians, by the Visigoths, precisely because Rome converted to Christianity."
 >
-> — C#27: St. Augustine, the Fall of Rome, and the Invention of the Individual
+> — C#27: Augustine's Empire of God
+
+> [C#27 00:07:11–00:07:40]
+> "He writes a book called City of God... he talks about two cities. You have Rome which is the earthly city — it's a city of power and greed — and then you have a city called Jerusalem which is the spiritual city. It is the city of God, of spirit, of selflessness, of paradise."
+>
+> — C#27: Augustine's Empire of God
 
 ---
 

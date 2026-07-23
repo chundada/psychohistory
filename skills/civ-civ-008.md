@@ -9,7 +9,7 @@ tags:
   - civilization
   - thucydides-trap
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 修昔底德陷阱——崛起大国与守成大国的博弈
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#8]
-> "It was the rise of Athens and the fear of Sparta that made war inevitable."
+> [C#8 00:42:28 - 00:42:52]
+> "Historically, what most historians will tell you is this war was started because Sparta was afraid of an emerging Athens. Sparta was the hegemon. Sparta was a more dominant power in Greece at that time. And now that Athens was rising, Sparta felt threatened by Athens and therefore declared war on Athens."
 >
-> — C#8: Peloponnesian War
+> — C#8: Rat Utopia and the Peloponnesian War
+
+> [C#8 00:43:01 - 00:43:07]
+> "You didn't have a choice in the matter. You got to fight Athens now or wait for Athens to invade you."
+>
+> — C#8: Rat Utopia and the Peloponnesian War
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - zionism
   - covenant
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -24,8 +24,14 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GU02 - 00:06:xx - 00:08:xx]
-> "They believe that in the Bible, Yahweh, their God, gave the promised land to Abraham. That is a covenant. And because it is a divine covenant, it does not matter what the United Nations says. It does not matter what international law says. God gave this land to the Jewish people."
+> [GU02 - 00:10:13 - 00:10:23]
+> "They believe that in the Bible, Yahweh, their God, gave the promised land to Abraham. That's a covenant."
+>
+> [GU02 - 00:10:23 - 00:10:37]
+> "The promised land though extends from the Nile to the Euphrates. Basically the entire Middle East is supposed to be what Yahweh promised Abraham."
+>
+> [GU02 - 00:10:37 - 00:10:46]
+> "And there's a fanatical faction within the Israeli government that seeks to accomplish the promised land."
 >
 > — GU02: WWIII Begins
 

@@ -9,7 +9,7 @@ tags:
   - civilization
   - protestant-capitalism
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 新教-资本主义精神——宗教伦理作为经济软件
@@ -21,10 +21,15 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#42]
-> "The Protestant religion gave birth to capitalism... Calvin's predestination created the work ethic."
+> [C#42 00:00:00]
+> "This morning we are doing the Protestant Reformation. And I'll explain to you how it gave birth to capitalism."
 >
-> — C#42: Protestant Reformation and the Birth of Capitalism
+> — C#42: The Protestant Reformation and the Birth of Capitalism
+
+> [C#42 00:12:45]
+> "And so, a man, a theologian by the name of John Calvin, he proposed the idea of double predestination. And the idea here is this: God at the beginning of time has already decided. And this decision is final. You cannot persuade him that he is wrong because he is perfect, eternal, and immutable. And only a few, the elect, will be saved."
+>
+> — C#42: The Protestant Reformation and the Birth of Capitalism
 
 ---
 

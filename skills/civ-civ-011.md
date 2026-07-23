@@ -3,13 +3,13 @@ name: "宗教演化阶梯——从万物有灵到一神论"
 description: "宗教形态随社会规模和复杂性而阶段性演化"
 source_series: "Civilization"
 source_episodes:
-  - "C#3"
+  - "C#57"
 tags:
   - psychohistory
   - civilization
   - religious-evolution
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 宗教演化阶梯——从万物有灵到一神论
@@ -21,10 +21,10 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#3]
-> "In the beginning, the main religion for us humans during the Ice Age was animism... And then we transition to the mother goddess... But as populations grew and towns came into being, we needed a new religion."
+> [C#57 00:00:16]
+> "In the beginning, the main religion for us humans during the Ice Age was animism... And then we transition to the mother goddess... But as populations grew and towns came into being, they came into competition with each other. They started to war against each other. This created polytheism."
 >
-> — C#3: Religious Imagination
+> — C#57: How Modernism Ruined Everything
 
 ---
 

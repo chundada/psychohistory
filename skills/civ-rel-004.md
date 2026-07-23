@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,15 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#26 - 00:10:00 - 00:14:30]
-> "Constantine saw that Christianity could be the unifying operating system for the empire... the Council of Nicaea as the first global standardization of belief... orthodoxy as a loyalty test... weaponization of theology"
+> [C#26 00:18:16–00:18:27]
+> "Constantine wanted to introduce a new religion to unify the Empire and to consolidate his authority and that became the Christian religion. That's why he converted to become Christian."
 >
-> — C#26: Constantine the Great and the Weaponization of Christianity
+> — C#26: Constantine's Monotheistic Revolution
+
+> [C#26 00:18:42–00:19:11]
+> "Now that you have a Catholic Church you now have the idea of Orthodoxy... remember throughout this history there are many divergent forms of Christianity and so the Catholic Church began a process of eliminating all its competitors until it became the most dominant."
+>
+> — C#26: Constantine's Monotheistic Revolution
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - civilization
   - religion-narrative
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -22,10 +22,20 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [C#25 - 00:08:30 - 00:12:00]
-> "Paul took a Jewish sect and made it exportable... repackaged Jewish theology in the format of the mystery religions... made it scalable, made it universal... Christianity as a product designed for the Roman market"
+> [C#25 00:10:02–00:10:22]
+> "So that's why we believe that not Jesus but Paul is the real founder of Christianity... Christianity again is not by Jesus, it's not a religion by Jesus, it's a religion about Jesus and there's a difference."
 >
-> — C#25: St. Paul, the Mystery Religions, and the Invention of Christianity
+> — C#25: Paul of Tarsus, Messiah of Rome
+
+> [C#25 00:18:39–00:18:48]
+> "Teaching everyone that it's not important to follow Jewish law and customs, it's not important to be Jewish, what's important is to believe in Jesus."
+>
+> — C#25: Paul of Tarsus, Messiah of Rome
+
+> [C#25 00:19:05–00:19:33]
+> "What matters is not the letter of the law, what matters is the spirit of the law... we need to get as many people to believe in Jesus as possible... for example Gentiles, non-Jews, want to believe in Jesus but they're 30 to 40, how can they circumcise themselves? I'm just trying to open up the religion. I'm the Apostle to the Gentiles."
+>
+> — C#25: Paul of Tarsus, Messiah of Rome
 
 ---
 

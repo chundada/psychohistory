@@ -10,7 +10,7 @@ tags:
   - civilization
   - economic
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 中央银行炼金术与货币霸权周期
@@ -22,14 +22,20 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#END 06:00-12:00; C#49 08:00-15:00]
-> "The central bank is the institution that creates money. It's an alchemy — they turn paper into gold."
+> [C#END 00:12:32–00:12:41]
+> "Central bankers are the ultimate priests. They must control the flow of money to maintain the illusion that money is God."
 >
-> "The Medici family in Florence, they were the first to create banking. They figured out how to create money from nothing — bills of exchange."
+> — C#END: The Decline and Fall of the American Empire
+
+> [C#END 00:15:00–00:15:11]
+> "So, what central banks do is they have the power of God. They're alchemists, basically, because they can take paper which we know is worthless and turn it into gold, which is what everyone wants."
 >
-> "The Bank of England was founded in 1694. It was the Dutch model transplanted to England."
+> — C#END: The Decline and Fall of the American Empire
+
+> [C#49 00:00:59–00:01:24]
+> "You would think it's a really good thing that they found all this gold and silver, but it was a disaster for the nation... at this time in history, Spain was a feudal Catholic monarchy and all this money just made the system even worse."
 >
-> — C#END: The Decline and Fall of the American Empire; C#49: Dutch Golden Age
+> — C#49: The Dutch Golden Age and the Rise of the Middle Class
 
 ---
 

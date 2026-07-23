@@ -10,7 +10,7 @@ tags:
   - civilization
   - geopolitical
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-23
 ---
 
 # 大英帝国金融化轨迹与霸权转移
@@ -22,14 +22,20 @@ updated: 2026-07-14
 
 ## R — Reading（阅读原文）
 
-> [C#50 00:00-20:00]
+> [C#49 00:00:20–00:00:27]
 > "To understand the rise of the British Empire, we first need to discuss the rise of the Spanish Empire."
 >
-> "A feudal system means that there are rigid hierarchy of status. The nobles and the clergy at the very top. And because of all this gold and silver, the clergy and the nobility don't actually have to pay taxes anymore and they have to make no contribution to society."
+> — C#49: The Dutch Golden Age and the Rise of the Middle Class
+
+> [C#49 00:01:26–00:01:56]
+> "A feudal system means that there's a rigid hierarchy of status. The nobles and the clergy at the very top. And because of all this gold and silver, the clergy and the nobility don't actually have to pay taxes anymore and they actually have to make no contribution to society... you have this group of parasites that are sucking up a lot of wealth."
 >
-> "The Bank of England was founded in 1694. It was the Dutch model transplanted to England."
+> — C#49: The Dutch Golden Age and the Rise of the Middle Class
+
+> [C#50 00:31:39–00:31:54]
+> "This is also significant because in 1694, the Bank of England is established. All right. Now, I can't emphasize enough what a huge deal this is."
 >
-> — C#50: The British Empire; C#49: Dutch Golden Age
+> — C#50: Rule, Britannia!
 
 ---
 

@@ -10,7 +10,7 @@ tags:
   - religion-narrative
   - eschatological-convergence
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 framing: "叙事分析对象，非本体系立场"
 ---
 
@@ -23,8 +23,11 @@ framing: "叙事分析对象，非本体系立场"
 
 ## R — Reading（阅读原文）
 
-> [GU07 - 00:14:xx - 00:16:xx]
-> "The question is, when these two eschatological visions meet, Christian Zionism on one side and Islamic apocalypticism on the other, when both sides believe they are in the end times and that they must fight to bring about God plan, what happens? This is the convergence."
+> [GU07 - 00:12:05 - 00:12:39]
+> "Then you have the Islamic tradition, which is based both on the Judeaic and the Christian tradition, and it's very similar. So the Muslims believe that after an age of tribulation, when the world has turned its back on God, when the world is divided, a great leader will come to unify the people and lead the people to victory in the war of Gog and Magog."
+>
+> [GU07 - 00:30:31 - 00:30:50]
+> "I'm going to discuss where they converge. And what's really interesting is there's actually quite a few convergence points that are very important. The first convergence point is that there will be a major conflict in the Middle East that will suck in the whole world."
 >
 > — GU07: When Eschatologies Converge
 
